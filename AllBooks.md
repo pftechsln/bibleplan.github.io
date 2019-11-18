@@ -5401,4 +5401,75 @@
     <li>信子的人有永生，不信子的人得不著永生，神的震怒常在他身上。</li>
   </ul>
  </details>
+ <details>
+  <summary>4. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=約翰福音4&qs_version=CUVMPT">約翰福音4</a> - <a href="https://bibleplan.github.io/daily/wk96-day1-daily.html">心靈誠實</a></summary>
+  <ul>
+    <li>耶穌對撒馬利亞的婦人說：「請你給我水喝。」</li>
+    <li>「凡喝這水的，還要再渴，人若喝我所賜的水，就永遠不渴。我所賜的水要在他裡頭成為泉源，直湧到永生。」</li>
+    <li>耶穌指出婦人已經有五個丈夫，你現在有的並不是你的丈夫。</li>
+    <li>那真正拜父的，要用心靈和誠實拜他，因為父要這樣的人拜他。</li>
+    <li>耶穌說：我的食物就是遵行差我來者的旨意，做成他的工。</li>
+    <li>耶穌自己作過見證說，先知在本地是沒有人尊敬的。</li>
+    <li>耶穌又到了加利利的迦拿，大臣的兒子在迦百農患病。耶穌對大臣說：「回去吧，你的兒子活了！」。</li>
+  </ul>
+ </details>
+ <details>
+  <summary>5. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=約翰福音5&qs_version=CUVMPT">約翰福音5</a> - <a href="https://bibleplan.github.io/daily/wk96-day2-daily.html">出死入生</a></summary>
+  <ul>
+    <li>在耶路撒冷畢士大池，耶穌治好病了三十八年的人。</li>
+    <li>那天是安息日，猶太人說那醫好的人拿褥子是不可的，並指責耶穌乾犯安息日。</li>
+    <li>耶穌說子憑著自己不能做什麼，唯有看見父所做的，子才能做;父所做的事，子也照樣做。</li>
+    <li>耶穌說：那聽我話又信差我來者的，就有永生，不至於定罪，是已經出死入生了。</li>
+    <li>耶穌說：你們查考聖經，因你們以為內中有永生。給我作見證的就是這經。</li>
+    <li>耶穌說：你們如果信摩西，也必信我，因為他書上有指著我寫的話。</li>
+  </ul>
+ </details>
+ <details>
+  <summary>6. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=約翰福音6&qs_version=CUVMPT">約翰福音6</a> - <a href="https://bibleplan.github.io/daily/wk96-day3-daily.html">天上的糧</a></summary>
+  <ul>
+    <li>耶穌以五餅二魚給五千人吃飽，剩下的裝滿了十二個籃子。</li>
+    <li>耶穌在海面上走。</li>
+    <li>不要為那必壞的食物勞力，要為那存到永生的食物勞力。</li>
+    <li>耶穌說：我就是生命的糧。到我這裡來的，必定不餓;信我的，永遠不渴。</li>
+    <li>猶太人因為耶穌說「我是從天上降下來的糧」，就私下議論他：怎能把他的肉給我們吃呢？</li>
+    <li>耶穌說的話就是靈，就是生命。</li>
+    <li>門徒中多有退去的，但西門彼得認耶穌有永生之道，是神的聖者。</li>
+  </ul>
+ </details>
+ <details>
+  <summary>7. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=約翰福音7&qs_version=CUVMPT">約翰福音7</a> - <a href="https://bibleplan.github.io/daily/wk96-day4-daily.html">活水江河</a></summary>
+  <ul>
+    <li>耶穌說：我的時候還沒有到。</li>
+    <li>到了節期，耶穌上殿裡去教訓人，說：我的教訓不是我自己的，乃是那差我來者的。</li>
+    <li>不可按外貌斷定是非，總要按公平斷定是非。</li>
+    <li>你們也知道我，我來並不是由於自己，是被差來的。</li>
+    <li>祭司長和法利賽人打發差役去捉拿耶穌。</li>
+    <li>節期的末日，耶穌站著高聲說：「人若渴了，可以到我這裡來喝，信我的人腹中要流出活水的江河來。」</li>
+    <li>眾人因著耶穌起了紛爭。其中有人要捉拿他，只是無人下手。</li>
+  </ul>
+ </details>
+ <details>
+  <summary>8. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=約翰福音8&qs_version=CUVMPT">約翰福音8</a> - <a href="https://bibleplan.github.io/daily/wk96-day5-daily.html">生命的光</a></summary>
+  <ul>
+    <li>文士和法利賽人帶著行淫的婦人來試探耶穌，要得著告他的把柄。耶穌說：「你們中間誰是沒有罪的，誰就可以先拿石頭打她。」</li>
+    <li>耶穌不定婦人的罪，讓她從此不要再犯罪。</li>
+    <li>耶穌說：我是世界的光。跟從我的，就不在黑暗裡走，必要得著生命的光。</li>
+    <li>耶穌說：你們要死在罪中。我所去的地方你們不能到。」</li>
+    <li>耶穌對信他的猶太人說：你們若常常遵守我的道，就真是我的門徒，你們必曉得真理，真理必叫你們得以自由。</li>
+    <li>耶穌說：你們若是亞伯拉罕的兒子，就必行亞伯拉罕所行的事。</li>
+    <li>耶穌說：倘若神是你們的父，你們就必愛我。</li>
+    <li>耶穌說：我實實在在地告訴你們：還沒有亞伯拉罕就有了我。</li>
+  </ul>
+ </details>
+ <details>
+  <summary>9. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=約翰福音9-10&qs_version=CUVMPT">約翰福音9-10</a> - <a href="https://bibleplan.github.io/daily/wk96-day6-daily.html">迷羊牧人</a></summary>
+  <ul>
+    <li>耶穌用唾沫和泥抹在瞎子的眼睛上，治好了瞎子。這天是安息日。</li>
+    <li>法利賽人因耶穌在安息日治好瞎子，就起了紛爭。</li>
+    <li>瞎子信了耶穌是神的兒子。</li>
+    <li>耶穌說：我就是羊的門，凡從我進來的，必然得救。</li>
+    <li>我是好牧人，好牧人為羊捨命。</li>
+    <li>我與父原為一。</li>
+  </ul>
+ </details>
 </details>
