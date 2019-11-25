@@ -7476,10 +7476,10 @@ plan:
 
   - index: 680
     verses:
-    - titleCh: 約翰福音 16
-      titleEn: John.16
-      verseBG: John.16
-      verseYV: JHN.16
+    - titleCh: 約翰福音 19
+      titleEn: John.19
+      verseBG: John.19
+      verseYV: JHN.19
     - titleCh: 箴言 14
       titleEn: Proverbs 14
       verseBG: Proverbs.14
@@ -7487,10 +7487,10 @@ plan:
 
   - index: 681
     verses:
-    - titleCh: 約翰福音 17
-      titleEn: John.17
-      verseBG: John.17
-      verseYV: JHN.17
+    - titleCh: 約翰福音 20
+      titleEn: John.20
+      verseBG: John.20
+      verseYV: JHN.20
     - titleCh: 箴言 15
       titleEn: Proverbs 15
       verseBG: Proverbs.15
@@ -7498,10 +7498,10 @@ plan:
 
   - index: 682
     verses:
-    - titleCh: 約翰福音 18
-      titleEn: John.18
-      verseBG: John.18
-      verseYV: JHN.18
+    - titleCh: 約翰福音 21
+      titleEn: John.21
+      verseBG: John.21
+      verseYV: JHN.21
     - titleCh: 箴言 16
       titleEn: Proverbs 16
       verseBG: Proverbs.16
@@ -7509,10 +7509,10 @@ plan:
 
   - index: 683
     verses:
-    - titleCh: 約翰福音 19
-      titleEn: John.19
-      verseBG: John.19
-      verseYV: JHN.19
+    - titleCh: 約翰一書 1.1-2.2
+      titleEn: 1 John.1.1-2.2
+      verseBG: 1 John.1.1-2.2
+      verseYV: 1JN.1.1-2.2
     - titleCh: 箴言 17
       titleEn: Proverbs 17
       verseBG: Proverbs.17
@@ -7520,10 +7520,10 @@ plan:
 
   - index: 684
     verses:
-    - titleCh: 約翰福音 20
-      titleEn: John.20
-      verseBG: John.20
-      verseYV: JHN.20
+    - titleCh: 約翰一書 2.3-27
+      titleEn: 1 John.2.3-27
+      verseBG: 1 John.2.3-27
+      verseYV: 1JN.1
     - titleCh: 箴言 18
       titleEn: Proverbs 18
       verseBG: Proverbs.18
@@ -7531,10 +7531,10 @@ plan:
 
   - index: 685
     verses:
-    - titleCh: 約翰福音 21
-      titleEn: John.21
-      verseBG: John.21
-      verseYV: JHN.21
+    - titleCh: 約翰一書 2.28-3.24
+      titleEn: 1 John.2.28-3.24
+      verseBG: 1 John.2.28-3.24
+      verseYV: 1JN.2.28-3.24
     - titleCh: 箴言 19
       titleEn: Proverbs 19
       verseBG: Proverbs.19
@@ -7553,10 +7553,10 @@ plan:
 
   - index: 687
     verses:
-    - titleCh: 啟示錄 1.1-8
-      titleEn: Revelation.1.1-8
-      verseBG: Revelation.1.1-8
-      verseYV: REV.1
+    - titleCh: 約翰一書 4
+      titleEn: 1 John.4
+      verseBG: 1 John.4
+      verseYV: 1JN.4
     - titleCh: 箴言 21
       titleEn: Proverbs 21
       verseBG: Proverbs.21
@@ -7564,10 +7564,10 @@ plan:
 
   - index: 688
     verses:
-    - titleCh: 啟示錄 1.9-20
-      titleEn: Revelation.1.9-20
-      verseBG: Revelation.1.9-20
-      verseYV: REV.1
+    - titleCh: 約翰一書 5
+      titleEn: 1 John.5
+      verseBG: 1 John.5
+      verseYV: 1JN.5
     - titleCh: 箴言 22
       titleEn: Proverbs 22
       verseBG: Proverbs.22
@@ -7575,10 +7575,10 @@ plan:
 
   - index: 689
     verses:
-    - titleCh: 啟示錄 2
-      titleEn: Revelation.2
-      verseBG: Revelation.2
-      verseYV: REV.2
+    - titleCh: 約翰二書 1
+      titleEn: 2 John.1
+      verseBG: 2 John.1
+      verseYV: 2JN.1
     - titleCh: 箴言 23
       titleEn: Proverbs 23
       verseBG: Proverbs.23
@@ -7586,10 +7586,10 @@ plan:
 
   - index: 690
     verses:
-    - titleCh: 啟示錄 3
-      titleEn: Revelation.3
-      verseBG: Revelation.3
-      verseYV: REV.3
+    - titleCh: 約翰三書 1
+      titleEn: 3 John.1
+      verseBG: 3 John.1
+      verseYV: 3JN.1
     - titleCh: 箴言 24
       titleEn: Proverbs 24
       verseBG: Proverbs.24
@@ -7597,10 +7597,10 @@ plan:
 
   - index: 691
     verses:
-    - titleCh: 啟示錄 4-5
-      titleEn: Revelation.4-5
-      verseBG: Revelation.4-5
-      verseYV: REV.4
+    - titleCh: 啟示錄 1
+      titleEn: Revelation.1
+      verseBG: Revelation.1
+      verseYV: REV.1
     - titleCh: 箴言 25
       titleEn: Proverbs 25
       verseBG: Proverbs.25
@@ -7608,10 +7608,10 @@ plan:
 
   - index: 692
     verses:
-    - titleCh: 啟示錄 6
-      titleEn: Revelation.6
-      verseBG: Revelation.6
-      verseYV: REV.6
+    - titleCh: 啟示錄 2-3
+      titleEn: Revelation.2-3
+      verseBG: Revelation.2-3
+      verseYV: REV.2-3
     - titleCh: 箴言 26
       titleEn: Proverbs 26
       verseBG: Proverbs.26
@@ -7630,10 +7630,10 @@ plan:
 
   - index: 694
     verses:
-    - titleCh: 啟示錄 7.1-8.5
-      titleEn: Revelation.7.1-8.5
-      verseBG: Revelation.7.1-8.5
-      verseYV: REV.7
+    - titleCh: 啟示錄 4-5
+      titleEn: Revelation.4-5
+      verseBG: Revelation.4-5
+      verseYV: REV.4
     - titleCh: 箴言 28
       titleEn: Proverbs 28
       verseBG: Proverbs.28
@@ -7641,10 +7641,10 @@ plan:
 
   - index: 695
     verses:
-    - titleCh: 啟示錄 8.6-9.21
-      titleEn: Revelation.8.6-9.21
-      verseBG: Revelation.8.6-9.21
-      verseYV: REV.8
+    - titleCh: 啟示錄 6
+      titleEn: Revelation.6
+      verseBG: Revelation.6
+      verseYV: REV.6
     - titleCh: 箴言 29
       titleEn: Proverbs 29
       verseBG: Proverbs.29
@@ -7652,10 +7652,10 @@ plan:
 
   - index: 696
     verses:
-    - titleCh: 啟示錄 10-11
-      titleEn: Revelation.10-11
-      verseBG: Revelation.10-11
-      verseYV: REV.10
+    - titleCh: 啟示錄 7.1-8.5
+      titleEn: Revelation.7.1-8.5
+      verseBG: Revelation.7.1-8.5
+      verseYV: REV.7
     - titleCh: 箴言 30
       titleEn: Proverbs 30
       verseBG: Proverbs.30
@@ -7663,10 +7663,10 @@ plan:
 
   - index: 697
     verses:
-    - titleCh: 啟示錄 12
-      titleEn: Revelation.12
-      verseBG: Revelation.12
-      verseYV: REV.12
+    - titleCh: 啟示錄 8.6-9.21
+      titleEn: Revelation.8.6-9.21
+      verseBG: Revelation.8.6-9.21
+      verseYV: REV.8
     - titleCh: 箴言 31
       titleEn: Proverbs 31
       verseBG: Proverbs.31
@@ -7674,10 +7674,10 @@ plan:
 
   - index: 698
     verses:
-    - titleCh: 啟示錄 13
-      titleEn: Revelation.13
-      verseBG: Revelation.13
-      verseYV: REV.13
+    - titleCh: 啟示錄 10-11
+      titleEn: Revelation.10-11
+      verseBG: Revelation.10-11
+      verseYV: REV.10
     - titleCh: 傳道書  1
       titleEn: Ecclesiastes 1
       verseBG: Ecclesiastes.1
@@ -7685,10 +7685,10 @@ plan:
 
   - index: 699
     verses:
-    - titleCh: 啟示錄 14
-      titleEn: Revelation.14
-      verseBG: Revelation.14
-      verseYV: REV.14
+    - titleCh: 啟示錄 12
+      titleEn: Revelation.12
+      verseBG: Revelation.12
+      verseYV: REV.12
     - titleCh: 傳道書  2
       titleEn: Ecclesiastes 2
       verseBG: Ecclesiastes.2
@@ -7707,10 +7707,10 @@ plan:
 
   - index: 701
     verses:
-    - titleCh: 啟示錄 15-16
-      titleEn: Revelation.15-16
-      verseBG: Revelation.15-16
-      verseYV: REV.15
+    - titleCh: 啟示錄 13
+      titleEn: Revelation.13
+      verseBG: Revelation.13
+      verseYV: REV.13
     - titleCh: 傳道書  4
       titleEn: Ecclesiastes 4
       verseBG: Ecclesiastes.4
@@ -7718,10 +7718,10 @@ plan:
 
   - index: 702
     verses:
-    - titleCh: 啟示錄 17
-      titleEn: Revelation.17
-      verseBG: Revelation.17
-      verseYV: REV.17
+    - titleCh: 啟示錄 14
+      titleEn: Revelation.14
+      verseBG: Revelation.14
+      verseYV: REV.14
     - titleCh: 傳道書  5
       titleEn: Ecclesiastes 5
       verseBG: Ecclesiastes.5
@@ -7729,10 +7729,10 @@ plan:
 
   - index: 703
     verses:
-    - titleCh: 啟示錄 18.1-19.10
-      titleEn: Revelation.18.1-19.10
-      verseBG: Revelation.18.1-19.10
-      verseYV: REV.18
+    - titleCh: 啟示錄 15-16
+      titleEn: Revelation.15-16
+      verseBG: Revelation.11-16
+      verseYV: REV.15
     - titleCh: 傳道書  6
       titleEn: Ecclesiastes 6
       verseBG: Ecclesiastes.6
@@ -7740,10 +7740,10 @@ plan:
 
   - index: 704
     verses:
-    - titleCh: 啟示錄 19.11-20.15
-      titleEn: Revelation.19.11-20.15
-      verseBG: Revelation.19.11-20.15
-      verseYV: REV.19
+    - titleCh: 啟示錄 17
+      titleEn: Revelation.17
+      verseBG: Revelation.17
+      verseYV: REV.17
     - titleCh: 傳道書  7
       titleEn: Ecclesiastes 7
       verseBG: Ecclesiastes.7
@@ -7751,10 +7751,10 @@ plan:
 
   - index: 705
     verses:
-    - titleCh: 啟示錄 21.1-22.11
-      titleEn: Revelation.21.1-22.11
-      verseBG: Revelation.21.1-22.11
-      verseYV: REV.21
+    - titleCh: 啟示錄 18.1-19.10
+      titleEn: Revelation.18.1-19.10
+      verseBG: Revelation.18.1-19.10
+      verseYV: REV.18
     - titleCh: 傳道書  8
       titleEn: Ecclesiastes 8
       verseBG: Ecclesiastes.8
@@ -7762,10 +7762,10 @@ plan:
 
   - index: 706
     verses:
-    - titleCh: 啟示錄 22.12-21
-      titleEn: Revelation.22.12-21
-      verseBG: Revelation.22.12-21
-      verseYV: REV.22
+    - titleCh: 啟示錄 19.11-20.15
+      titleEn: Revelation.19.11-20.15
+      verseBG: Revelation.19.11-20.15
+      verseYV: REV.19
     - titleCh: 傳道書  9
       titleEn: Ecclesiastes 9
       verseBG: Ecclesiastes.9
@@ -7784,10 +7784,10 @@ plan:
 
   - index: 708
     verses:
-    - titleCh: 
-      titleEn: 
-      verseBG: 
-      verseYV: 
+    - titleCh: 啟示錄 21.1-22.11
+      titleEn: Revelation.21.1-22.11
+      verseBG: Revelation.21.1-22.11
+      verseYV: REV.21
     - titleCh: 傳道書  11
       titleEn: Ecclesiastes 11
       verseBG: Ecclesiastes.11
@@ -7795,10 +7795,10 @@ plan:
 
   - index: 709
     verses:
-    - titleCh: 
-      titleEn: 
-      verseBG: 
-      verseYV: 
+    - titleCh: 啟示錄 22.12-21
+      titleEn: Revelation.22.12-21
+      verseBG: Revelation.22.12-21
+      verseYV: REV.22.12-21
     - titleCh: 傳道書  12
       titleEn: Ecclesiastes 12
       verseBG: Ecclesiastes.12
