@@ -7512,7 +7512,7 @@ plan:
     - titleCh: 約翰一書 1.1-2.2
       titleEn: 1 John.1.1-2.2
       verseBG: 1 John.1.1-2.2
-      verseYV: 1JN.1.1-2.2
+      verseYV: 1JN.1
     - titleCh: 箴言 17
       titleEn: Proverbs 17
       verseBG: Proverbs.17
@@ -7523,7 +7523,7 @@ plan:
     - titleCh: 約翰一書 2.3-27
       titleEn: 1 John.2.3-27
       verseBG: 1 John.2.3-27
-      verseYV: 1JN.1
+      verseYV: 1JN.2.3-27
     - titleCh: 箴言 18
       titleEn: Proverbs 18
       verseBG: Proverbs.18
