@@ -7377,9 +7377,9 @@ plan:
 
   - index: 671
     verses:
-    - titleCh: 約翰福音 9.1-10.21
-      titleEn: John.9.1-10.21
-      verseBG: John.9.1-10.21
+    - titleCh: 約翰福音 9-10
+      titleEn: John.9-10
+      verseBG: John.9-10
       verseYV: JHN.9
     - titleCh: 箴言 5
       titleEn: Proverbs 5
@@ -7399,10 +7399,10 @@ plan:
 
   - index: 673
     verses:
-    - titleCh: 約翰福音 10.22-42
-      titleEn: John.10.22-42
-      verseBG: John.10.22-42
-      verseYV: JHN.10
+    - titleCh: 約翰福音 11
+      titleEn: John.11
+      verseBG: John.11
+      verseYV: JHN.11
     - titleCh: 箴言 7
       titleEn: Proverbs 7
       verseBG: Proverbs.7
@@ -7410,10 +7410,10 @@ plan:
 
   - index: 674
     verses:
-    - titleCh: 約翰福音 11
-      titleEn: John.11
-      verseBG: John.11
-      verseYV: JHN.11
+    - titleCh: 約翰福音 12
+      titleEn: John.12
+      verseBG: John.12
+      verseYV: JHN.12
     - titleCh: 箴言 8
       titleEn: Proverbs 8
       verseBG: Proverbs.8
@@ -7421,10 +7421,10 @@ plan:
 
   - index: 675
     verses:
-    - titleCh: 約翰福音 12.1-36
-      titleEn: John.12.1-36
-      verseBG: John.12.1-36
-      verseYV: JHN.12
+    - titleCh: 約翰福音 13
+      titleEn: John.13
+      verseBG: John.13
+      verseYV: JHN.13
     - titleCh: 箴言 9
       titleEn: Proverbs 9
       verseBG: Proverbs.9
@@ -7432,10 +7432,10 @@ plan:
 
   - index: 676
     verses:
-    - titleCh: 約翰福音 12.37-50
-      titleEn: John.12.37-50
-      verseBG: John.12.37-50
-      verseYV: JHN.12
+    - titleCh: 約翰福音 14-15
+      titleEn: John.14-15
+      verseBG: John.14-15
+      verseYV: JHN.14
     - titleCh: 箴言 10
       titleEn: Proverbs 10
       verseBG: Proverbs.10
@@ -7443,10 +7443,10 @@ plan:
 
   - index: 677
     verses:
-    - titleCh: 約翰福音 13
-      titleEn: John.13
-      verseBG: John.13
-      verseYV: JHN.13
+    - titleCh: 約翰福音 16-17
+      titleEn: John.16-17
+      verseBG: John.16-17
+      verseYV: JHN.16
     - titleCh: 箴言 11
       titleEn: Proverbs 11
       verseBG: Proverbs.11
@@ -7454,8 +7454,8 @@ plan:
 
   - index: 678
     verses:
-    - titleCh: 約翰福音 14-15
-      titleEn: John.14-15
+    - titleCh: 約翰福音 18
+      titleEn: John.18
       verseBG: John.14-15
       verseYV: JHN.14
     - titleCh: 箴言 12
