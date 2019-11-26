@@ -5472,4 +5472,77 @@
     <li>我與父原為一。</li>
   </ul>
  </details>
+ <details>
+  <summary>10. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=約翰福音11&qs_version=CUVMPT">約翰福音11</a> - <a href="https://bibleplan.github.io/daily/wk97-day1-daily.html">復活在主</a></summary>
+  <ul>
+    <li>拉撒路患病，住在伯大尼。</li>
+    <li>耶穌聽見就說：「這病不至於死，乃是為神的榮耀，叫神的兒子因此得榮耀。」</li>
+    <li>耶穌知道拉撒路死了，到了伯大尼，拉撒路在墳墓裡已經四天了。</li>
+    <li>耶穌說：「復活在我，生命也在我。信我的人，雖然死了，也必復活」</li>
+    <li>耶穌看見猶太人哭，就心裡悲嘆，又甚憂愁，耶穌哭了。</li>
+    <li>耶穌說：你若信，就必看見神的榮耀。</li>
+    <li>耶穌舉目望天，禱告，大聲呼叫「拉撒路出來！」那死人就出來了。</li>
+    <li>法利賽人從此用計要害死耶穌。</li>
+  </ul>
+ </details>
+ <details>
+  <summary>11. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=約翰福音12&qs_version=CUVMPT">約翰福音12</a> - <a href="https://bibleplan.github.io/daily/wk97-day2-daily.html">進入聖城</a></summary>
+  <ul>
+    <li>逾越節前六日，馬利亞拿著一斤極貴的真哪噠香膏，抹耶穌的腳，又用自己的頭髮去擦。</li>
+    <li>第二天，有許多人聽見耶穌將到耶路撒冷，就拿著棕樹枝出去迎接他，喊著說：「和散那！奉主名來的以色列王是應當稱頌的！」</li>
+    <li>耶穌說：人子得榮耀的時候到了。</li>
+    <li>耶穌說：我若從地上被舉起來，就要吸引萬人來歸我。</li>
+    <li>耶穌雖然在人們面前行了許多神蹟，他們還是不信他。這是要應驗先知以賽亞的話。</li>
+    <li>耶穌說：信我的，不是信我，乃是信那差我來的。</li>
+  </ul>
+ </details>
+ <details>
+  <summary>12. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=約翰福音13&qs_version=CUVMPT">約翰福音13</a> - <a href="https://bibleplan.github.io/daily/wk97-day3-daily.html">彼此洗腳</a></summary>
+  <ul>
+    <li>耶穌離席站起來，拿手巾束腰，把水倒在盆裡，就洗門徒的腳，並用自己所束的手巾擦乾。</li>
+    <li>耶穌說：「我實實在在地告訴你們：你們中間有一個人要賣我了。」</li>
+    <li>我賜給你們一條新命令，乃是叫你們彼此相愛，我怎樣愛你們，你們也要怎樣相愛。</li>
+    <li>你們若有彼此相愛的心，眾人因此就認出你們是我的門徒了。</li>
+    <li>耶穌告訴彼得：「雞叫以先，你要三次不認我。」</li>
+  </ul>
+ </details>
+ <details>
+  <summary>13. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=約翰福音14-15&qs_version=CUVMPT">約翰福音14-15</a> - <a href="https://bibleplan.github.io/daily/wk97-day4-daily.html">真理生命</a></summary>
+  <ul>
+    <li>耶穌說父的家裡有許多住處，祂去原是為門徒預備地方去。</li>
+    <li>耶穌說：「我就是道路、真理、生命。若不藉著我，沒有人能到父那裡去。」</li>
+    <li>耶穌求父另外賜給一位保惠師，就是真理的聖靈。</li>
+    <li>有了耶穌的命令又遵守的，這人就是愛耶穌的。</li>
+    <li>聖靈要將一切的事指教門徒。</li>
+    <li>耶穌說：我是真葡萄樹，我父是栽培的人。</li>
+    <li>耶穌說：你們若遵守我的命令，就常在我的愛裡，正如我遵守了我父的命令，常在他的愛裡。</li>
+    <li>耶穌說：只因你們不屬世界，乃是我從世界中揀選了你們，所以世界就恨你們。</li>
+  </ul>
+ </details>
+ <details>
+  <summary>14. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=約翰福音16-17&qs_version=CUVMPT">約翰福音16-17</a> - <a href="https://bibleplan.github.io/daily/wk97-day5-daily.html">真理聖靈</a></summary>
+  <ul>
+    <li>聖靈既來了，就要叫世人為罪、為義、為審判，自己責備自己。</li>
+    <li>等真理的聖靈來了，他要引導你們明白一切的真理。</li>
+    <li>耶穌將這些事告訴門徒，是要叫他們在祂裡面有平安。</li>
+    <li>耶穌向父禱告：時候到了，願你榮耀你的兒子，使兒子也榮耀你！</li>
+    <li>正如父在耶穌裡面，耶穌在天父裡面，使門徒也在裡面，叫世人可以信耶穌。</li>
+  </ul>
+ </details>
+ <details>
+  <summary>15. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=約翰福音18&qs_version=CUVMPT">約翰福音18</a> - <a href="https://bibleplan.github.io/daily/wk97-day6-daily.html">捉拿耶穌</a></summary>
+  <ul>
+    <li>耶穌同門徒出去，過了汲淪溪。進去了一個園子。</li>
+    <li>猶大領了一隊兵，來到園裡，拿住耶穌，把他捆綁了。</li>
+    <li>彼得初次不認主。</li>
+    <li>彼得二次、三次不認主。</li>
+    <li>耶穌在彼拉多前受審。比拉多查不出他有什麼罪來。</li>
+    <li>猶太人不願釋放耶穌，寧願釋放巴拉巴，他是個強盜。</li>
+  </ul>
+ </details>
+ <details>
+  <summary>. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=undefined&qs_version=CUVMPT">undefined</a> - <a href="https://bibleplan.github.io/daily/undefined-daily.html">undefined</a></summary>
+  <ul>
+  </ul>
+ </details>
 </details>
