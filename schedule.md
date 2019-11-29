@@ -7456,8 +7456,8 @@ plan:
     verses:
     - titleCh: 約翰福音 18
       titleEn: John.18
-      verseBG: John.14-15
-      verseYV: JHN.14
+      verseBG: John.18
+      verseYV: JHN.18
     - titleCh: 箴言 12
       titleEn: Proverbs 12
       verseBG: Proverbs.12
