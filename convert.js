@@ -37,6 +37,7 @@ function convert()
         text = text.replace(/!/g, "！");
         text = text.replace(/「/g, "`「");
         text = text.replace(/」/g, "」`");
+        text = text.replace(/;/g, "；");
 
 
         //== log: write back to the output
