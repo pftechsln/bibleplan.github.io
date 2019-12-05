@@ -5541,8 +5541,60 @@
   </ul>
  </details>
  <details>
-  <summary>. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=undefined&qs_version=CUVMPT">undefined</a> - <a href="https://bibleplan.github.io/daily/undefined-daily.html">undefined</a></summary>
+  <summary>16. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=約翰福音19&qs_version=CUVMPT">約翰福音19</a> - <a href="https://bibleplan.github.io/daily/wk98-day1-daily.html">被釘十架</a></summary>
   <ul>
+    <li>彼拉多將耶穌鞭打了。兵丁用荊棘編做冠冕，戴在他頭上。用手掌打他。</li>
+    <li>猶太人喊著要除掉耶穌，釘他在十字架上。</li>
+    <li>耶穌背著十字架到了髑髏地，在那裡釘在十字架上。</li>
+    <li>耶穌把母親託付給所愛的那門徒。</li>
+    <li>主的骨頭一根也不折斷。</li>
+    <li>耶穌的門徒約瑟把耶穌的身體領去，葬在新墳墓裡。</li>
+  </ul>
+ </details>
+ <details>
+  <summary>17. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=約翰福音20&qs_version=CUVMPT">約翰福音20</a> - <a href="https://bibleplan.github.io/daily/wk98-day2-daily.html">死裡復活</a></summary>
+  <ul>
+    <li>清早，馬利亞來到墳墓，看見石頭從墳墓挪開了，以為有人把主從墳墓裡挪了去。</li>
+    <li>馬利亞在墳墓裡看見耶穌。</li>
+    <li>那日晚上，耶穌來站在門徒當中，把手和肋旁指給他們看。</li>
+    <li>多馬沒有看見耶穌，就要求看見他的釘痕才信。耶穌來讓多馬伸過指頭來摸他的手。多馬說：「我的主！我的神！」</li>
+  </ul>
+ </details>
+ <details>
+  <summary>18. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=約翰福音21&qs_version=CUVMPT">約翰福音21</a> - <a href="https://bibleplan.github.io/daily/wk98-day3-daily.html">三問彼得</a></summary>
+  <ul>
+    <li>耶穌在提比哩亞海邊又向門徒顯現。</li>
+    <li>耶穌要門徒把網撒在船的右邊，撈到很多魚。</li>
+    <li>西門彼得赤著身子，一聽見是主，就束上一件外衣，跳在海裡。</li>
+    <li>耶穌在火邊與門徒吃餅和魚。耶穌從死裡復活以後向門徒顯現，這是第三次。</li>
+    <li>因為三次問彼得你愛我嗎，並說：你餵養我的羊。</li>
+    <li>耶穌所行的還有很多事沒有記載在這本書上。</li>
+  </ul>
+ </details>
+</details>
+<details><summary>約翰一書 - <a href="https://bibleplan.github.io/daily/wk98-day4-daily.html">導讀 第98週第4天</a></summary>
+ <details>
+  <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=約翰一書1.1-2.2&qs_version=CUVMPT">約翰一書1.1-2.2</a> - <a href="https://bibleplan.github.io/daily/wk98-day4-daily.html">神就是光</a></summary>
+  <ul>
+    <li>在神那裡有永恆的生命，藉著主耶穌基督向我們顯現過，也讓使徒聽過、看過、親手摸過。因此，我們應當喜樂充足。</li>
+    <li>神就是光，在祂毫無黑暗。我們與神相交，就是在光明中行，當認自己的罪，求神赦免。</li>
+  </ul>
+ </details>
+ <details>
+  <summary>2. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=約翰一書2.3-27&qs_version=CUVMPT">約翰一書2.3-27</a> - <a href="https://bibleplan.github.io/daily/wk98-day5-daily.html">新的命令</a></summary>
+  <ul>
+    <li>凡遵守主道的，愛神的心在他裡面實在是完全的；從此，我們知道我們是在主裡面。</li>
+    <li>黑暗漸漸過去，真光已經照耀。人若說自己在光明中，卻恨他的弟兄，他到如今還是在黑暗裡。</li>
+    <li>凡世界上的事，就像肉體的情慾、眼目的情慾並今生的驕傲，都不是從父來的，乃是從世界來的。這世界和其上的情慾都要過去，唯獨遵行神旨意的，是永遠常存。</li>
+    <li>凡不認子的，就沒有父；認子的，連父也有了。</li>
+    <li>主所應許我們的是永生。</li>
+  </ul>
+ </details>
+ <details>
+  <summary>3. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=約翰一書2.28-3.24&qs_version=CUVMPT">約翰一書2.28-3.24</a> - <a href="https://bibleplan.github.io/daily/wk98-day6-daily.html">神的兒女</a></summary>
+  <ul>
+    <li>父賜給我們是何等的慈愛，使我們得稱為神的兒女；我們也真是他的兒女。</li>
+    <li>神的命令就是叫我們信他兒子耶穌基督的名，且照他所賜給我們的命令彼此相愛。</li>
   </ul>
  </details>
 </details>
