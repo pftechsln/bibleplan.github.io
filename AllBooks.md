@@ -5659,4 +5659,74 @@
     <li>老底嘉教會也不冷也不熱。我勸你向我買火煉的金子，叫你富足。</li>
   </ul>
  </details>
+ <details>
+  <summary>3. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=啟示錄4-5&qs_version=CUVMPT">啟示錄4-5</a> - <a href="https://bibleplan.github.io/daily/wk100-day1-daily.html">晝夜敬拜</a></summary>
+  <ul>
+    <li>天上有門開了，約翰被聖靈感動，見有寶座安置在天上，又有一位坐在寶座上。</li>
+    <li>四活物各有六個翅膀，遍體內外都滿了眼睛。他們晝夜不住地說：「聖哉，聖哉，聖哉，主神是昔在、今在、以後永在的全能者！」</li>
+    <li>坐寶座的右手中有書卷，裡外都寫著字，用七印封嚴了。</li>
+    <li>猶大支派中的獅子，大衛的根，他已得勝，能以展開那書卷、揭開那七印！</li>
+    <li>寶座與四活物並長老之中有羔羊站立。</li>
+    <li>寶座與活物並長老的周圍有許多天使的聲音說：「曾被殺的羔羊是配得權柄、豐富、智慧、能力、尊貴、榮耀、頌讚的！」</li>
+  </ul>
+ </details>
+ <details>
+  <summary>4. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=啟示錄6&qs_version=CUVMPT">啟示錄6</a> - <a href="https://bibleplan.github.io/daily/wk100-day2-daily.html">揭開六印</a></summary>
+  <ul>
+    <li>羔羊揭開七印中第一印的時候，約翰看見有一匹白馬，騎在馬上的拿著弓，並有冠冕賜給他。</li>
+    <li>揭開第二印的時候，另有一匹馬出來，是紅的，有權柄給了那騎馬的，可以從地上奪去太平。</li>
+    <li>揭開第三印的時候，有一匹黑馬。騎在馬上的手裡拿著天平。</li>
+    <li>揭開第四印的時候，有一匹灰色馬。騎在馬上的名字叫做「死」，陰府也隨著他。</li>
+    <li>揭開第五印的時候，在祭壇底下有為神的道並作見證被殺之人的靈魂喊冤。</li>
+    <li>揭開第六印的時候，地大震動，日頭變黑像毛布，滿月變紅像血，天上的星辰墜落於地。</li>
+    <li>地上的人都藏在山洞和巖石穴裡，躲避坐寶座者的面目和羔羊的憤怒。</li>
+  </ul>
+ </details>
+ <details>
+  <summary>5. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=啟示錄7.1-8.5&qs_version=CUVMPT">啟示錄7.1-8.5</a> - <a href="https://bibleplan.github.io/daily/wk100-day3-daily.html">開第七印</a></summary>
+  <ul>
+    <li>另有一位天使拿著永生神的印。</li>
+    <li>以色列人各支派中受印的數目有十四萬四千。</li>
+    <li>有許多的人從各國、各族、各民、各方來，站在寶座和羔羊面前，身穿白衣，手拿棕樹枝，大聲喊著說：「願救恩歸於坐在寶座上我們的神，也歸於羔羊！」</li>
+    <li>這些人是從大患難中出來的，曾用羔羊的血把衣裳洗白淨了。</li>
+    <li>羔羊揭開第七印的時候，天上寂靜約有二刻。</li>
+    <li>站在神面前的七位天使，有七支號賜給他們。</li>
+    <li>另有一位天使拿著金香爐來，站在祭壇旁邊。</li>
+  </ul>
+ </details>
+ <details>
+  <summary>6. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=啟示錄8.6-9.21&qs_version=CUVMPT">啟示錄8.6-9.21</a> - <a href="https://bibleplan.github.io/daily/wk100-day4-daily.html">吹響六號</a></summary>
+  <ul>
+    <li>拿著七支號的七位天使就預備要吹。</li>
+    <li>第一位天使吹號，就有雹子與火摻著血丟在地上。</li>
+    <li>第二位天使吹號，就有彷彿火燒著的大山扔在海中。</li>
+    <li>第三位天使吹號，就有燒著的大星好像火把從天上落下來，落在江河的三分之一和眾水的泉源上。</li>
+    <li>第四位天使吹號，日頭的三分之一、月亮的三分之一、星辰的三分之一都被擊打，白晝的三分之一沒有光，黑夜也是這樣。</li>
+    <li>第五位天使吹號，我就看見一個星從天落到地上，有無底坑的鑰匙賜給它。</li>
+    <li>有蝗蟲從煙中出來，唯獨要傷害額上沒有神印記的人。</li>
+    <li>第六位天使吹號，捆綁在幼發拉底大河的四個使者被釋放。</li>
+  </ul>
+ </details>
+ <details>
+  <summary>7. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=啟示錄10-11&qs_version=CUVMPT">啟示錄10-11</a> - <a href="https://bibleplan.github.io/daily/wk100-day5-daily.html">吹第七號</a></summary>
+  <ul>
+    <li>另有一位天使從天降下，手裡拿著小書卷。有七雷發聲，但神命令約翰不可寫出來。</li>
+    <li>神要約翰吃盡小書卷，肚子發苦，口中要甜如蜜。</li>
+    <li>有一根葦子賜給約翰當做量度的杖，量神的殿和祭壇並在殿中禮拜的人。</li>
+    <li>兩個見證人穿著毛衣，傳道一千二百六十天後被殺，過了三天半復活。</li>
+    <li>第七位天使吹號，天上就有大聲音說：「世上的國成了我主和主基督的國，他要做王，直到永永遠遠。」</li>
+  </ul>
+ </details>
+ <details>
+  <summary>8. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=啟示錄12&qs_version=CUVMPT">啟示錄12</a> - <a href="https://bibleplan.github.io/daily/wk100-day6-daily.html">善惡爭戰</a></summary>
+  <ul>
+    <li>天上現出大異象：有一個婦人身披日頭，腳踏月亮，頭戴十二星的冠冕，她懷了孕，在生產的艱難中疼痛呼叫。</li>
+    <li>天上又現出異象來：有一條大紅龍，七頭十角，七頭上戴著七個冠冕，牠的尾巴拖拉著天上星辰的三分之一，摔在地上。</li>
+    <li>龍站在那將要生產的婦人面前，等她生產之後，要吞吃她的孩子。</li>
+    <li>在天上就有了爭戰，米迦勒同他的使者與龍爭戰。天上再沒有龍和牠的使者的地方。</li>
+    <li>龍被摔在地上，就逼迫那生男孩子的婦人。</li>
+    <li>有大鷹的兩個翅膀賜給婦人，叫她能飛到曠野，到自己的地方躲避那蛇。</li>
+    <li>龍向婦人發怒，去與她其餘的兒女爭戰。</li>
+  </ul>
+ </details>
 </details>
