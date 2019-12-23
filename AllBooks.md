@@ -5729,4 +5729,72 @@
     <li>龍向婦人發怒，去與她其餘的兒女爭戰。</li>
   </ul>
  </details>
+ <details>
+  <summary>9. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=啟示錄13&qs_version=CUVMPT">啟示錄13</a> - <a href="https://bibleplan.github.io/daily/wk101-day1-daily.html">褻瀆神名</a></summary>
+  <ul>
+    <li>約翰又看見一個獸從海中上來，有十角七頭，全地的人都跟從那獸，又拜那龍，也拜獸。</li>
+    <li>獸褻瀆神的名，與聖徒爭戰，並且得勝；制伏各族、各民、各方、各國。</li>
+    <li>另有一個獸從地中上來，在頭一個獸面前，施行權柄，叫人拜頭一個獸。</li>
+    <li>牠又叫眾人受印記。</li>
+  </ul>
+ </details>
+ <details>
+  <summary>10. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=啟示錄14&qs_version=CUVMPT">啟示錄14</a> - <a href="https://bibleplan.github.io/daily/wk101-day2-daily.html">天使福音</a></summary>
+  <ul>
+    <li>羔羊站在錫安山，同他又有十四萬四千人，有他的名和他父的名寫在額上</li>
+    <li>他們在寶座前，並在四活物和眾長老前唱新歌。</li>
+    <li>另有一位天使飛在空中，有永遠的福音要傳給住在地上的人。</li>
+    <li>從今以後，在主裡面而死的人有福了！</li>
+    <li>人子頭上戴著金冠冕，手裡拿著快鐮刀。因為收割的時候已經到了，地上的莊稼已經熟透了。</li>
+  </ul>
+ </details>
+ <details>
+  <summary>11. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=啟示錄15-16&qs_version=CUVMPT">啟示錄15-16</a> - <a href="https://bibleplan.github.io/daily/wk101-day3-daily.html">倒下七碗</a></summary>
+  <ul>
+    <li>天上有大而且奇的異象，就是七位天使掌管末了的七災，神的大怒在這七災中發盡了。</li>
+    <li>玻璃海中有火摻雜，那些勝了獸的人，都站在玻璃海上唱神僕人摩西的歌和羔羊的歌。</li>
+    <li>那掌管七災的七位天使從殿中出來，把盛神大怒的七碗倒在地上。</li>
+    <li>第一位天使把碗倒在地上，就有惡而且毒的瘡生在那些有獸印記、拜獸像的人身上。</li>
+    <li>第二位天使把碗倒在海裡，海就變成血，好像死人的血，海中的活物都死了。</li>
+    <li>第三位天使把碗倒在江河與眾水的泉源裡，水就變成血了。</li>
+    <li>第四位天使把碗倒在日頭上，叫日頭能用火烤人。</li>
+    <li>第五位天使把碗倒在獸的座位上，獸的國就黑暗了。</li>
+    <li>第六位天使把碗倒在幼發拉底大河上，河水就乾了，要給那從日出之地所來的眾王預備道路。</li>
+    <li>第七位天使把碗倒在空中，有閃電、聲音、雷轟、大地震。</li>
+  </ul>
+ </details>
+ <details>
+  <summary>12. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=啟示錄17&qs_version=CUVMPT">啟示錄17</a> - <a href="https://bibleplan.github.io/daily/wk101-day4-daily.html">羔羊得勝</a></summary>
+  <ul>
+    <li>拿著七碗的七位天使中有一位將坐在眾水上的大淫婦所要受的刑罰指給約翰看。</li>
+    <li>獸將要從無底坑裡上來，又要歸於沉淪。</li>
+    <li>拜獸的人與羔羊爭戰，羔羊必勝過他們。</li>
+    <li>那女人就是管轄地上眾王的大城。</li>
+  </ul>
+ </details>
+ <details>
+  <summary>13. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=啟示錄18.1-19.10&qs_version=CUVMPT">啟示錄18.1-19.10</a> - <a href="https://bibleplan.github.io/daily/wk101-day5-daily.html">大城傾倒</a></summary>
+  <ul>
+    <li>另一位有大權柄的天使從天降下，地就因他的榮耀發光。</li>
+    <li>巴比倫大城傾倒，成了鬼魔的住處和各樣汙穢之靈的巢穴，並各樣汙穢可憎之雀鳥的巢穴。</li>
+    <li>民要從那城出來，免得與她一同有罪，受她所受的災殃。</li>
+    <li>在一天之內，她的災殃要一齊來到，就是死亡、悲哀、饑荒。</li>
+    <li>眾聖徒、眾使徒、眾先知要因她歡喜，因為神已經在她身上申了你們的冤。</li>
+    <li>神的判斷是真實、公義的，向淫婦討流僕人血的罪，給他們申冤。</li>
+    <li>羔羊婚娶的時候到了，新婦也自己預備好了。</li>
+  </ul>
+ </details>
+ <details>
+  <summary>14. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=啟示錄19.11-20.15&qs_version=CUVMPT">啟示錄19.11-20.15</a> - <a href="https://bibleplan.github.io/daily/wk101-day6-daily.html">末日爭戰</a></summary>
+  <ul>
+    <li>騎在白馬上的要審判、爭戰都按著公義。</li>
+    <li>他頭上戴著許多冠冕，名稱為「神之道」。他衣服和大腿上有名寫著說：「萬王之王，萬主之主。」。</li>
+    <li>天使向天空所飛的鳥大聲喊著說：「你們聚集來赴神的大筵席！」</li>
+    <li>一位天使手裡拿著無底坑的鑰匙和一條大鏈子，捉住那龍，就是古蛇，又叫魔鬼，也叫撒旦，把牠捆綁一千年。</li>
+    <li>等到那一千年完了，以後必須暫時釋放牠。</li>
+    <li>給耶穌作見證並為神之道被斬者的靈魂，和那沒有拜過獸與獸像的靈魂都復活了，與基督一同做王一千年。</li>
+    <li>那一千年完了，撒旦必從監牢裡被釋放，出來要迷惑地上四方的列國。</li>
+    <li>白色的大寶座審判所有人。</li>
+  </ul>
+ </details>
 </details>
