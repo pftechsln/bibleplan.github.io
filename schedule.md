@@ -7731,7 +7731,7 @@ plan:
     verses:
     - titleCh: 啟示錄 15-16
       titleEn: Revelation.15-16
-      verseBG: Revelation.11-16
+      verseBG: Revelation.15-16
       verseYV: REV.15
     - titleCh: 傳道書  6
       titleEn: Ecclesiastes 6
