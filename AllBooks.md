@@ -5797,4 +5797,26 @@
     <li>白色的大寶座審判所有人。</li>
   </ul>
  </details>
+ <details>
+  <summary>15. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=啟示錄21.1-22.11&qs_version=CUVMPT">啟示錄21.1-22.11</a> - <a href="https://bibleplan.github.io/daily/wk102-day1-daily.html">新天新地</a></summary>
+  <ul>
+    <li>我又看見一個新天新地。聖城新耶路撒冷由神那裡從天而降。</li>
+    <li>神的帳幕在人間！神要擦去他的子民一切的眼淚，不再有死亡。</li>
+    <li>神要將生命泉的水白白賜給那口渴的人喝。</li>
+    <li>天使將那由神那裡、從天而降的聖城耶路撒冷指示約翰。城中有神的榮耀。</li>
+    <li>十二個門是十二顆珍珠，城內的街道是精金，主神全能者和羔羊為城的殿。</li>
+    <li>在城內街道當中一道生命水的河，在河這邊與那邊有生命樹，樹上的葉子乃為醫治萬民。</li>
+    <li>不再有黑夜，因為主神要光照他們。他們要做王，直到永永遠遠。</li>
+    <li>這些話是真實可信的。凡遵守這書上預言的有福了！</li>
+    <li>他不可封了這書上的預言，因為日期近了。</li>
+  </ul>
+ </details>
+ <details>
+  <summary>16. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=啟示錄22.12-21&qs_version=CUVMPT">啟示錄22.12-21</a> - <a href="https://bibleplan.github.io/daily/wk102-day2-daily.html">主必快來</a></summary>
+  <ul>
+    <li>主必快來！賞罰在主，要照各人所行的報應。</li>
+    <li>耶穌差遣使者為眾教會將這些事向你們證明。</li>
+    <li>若有人在這預言上加添什麼，神必將寫在這書上的災禍加在他身上；這書上的預言，若有人刪去什麼，神必從這書上所寫的生命樹和聖城刪去他的份。</li>
+  </ul>
+ </details>
 </details>
