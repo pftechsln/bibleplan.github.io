@@ -7865,10 +7865,10 @@ plan:
       titleEn: Matthew 1-2
       verseBG: Matthew.1-2
       verseYV: MAT.1
-    - titleCh: 
-      titleEn: 
-      verseBG: 
-      verseYV: 
+    - titleCh: 馬太福音 1-2
+      titleEn: Matthew 1-2
+      verseBG: Matthew.1-2
+      verseYV: MAT.1
 
   - index: 716
     verses:
