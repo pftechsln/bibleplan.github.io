@@ -7810,6 +7810,10 @@ plan:
       titleEn: Matthew.1-2
       verseBG: Matthew.1-2
       verseYV: MAT.1
+    - titleCh:
+      titleEn:
+      verseBG:
+      verseYV:
       
   - index: 716
     verses:
@@ -7817,6 +7821,10 @@ plan:
       titleEn: Matthew.3.1-4.11
       verseBG: Matthew.3.1-4.11
       verseYV: MAT.3
+    - titleCh:
+      titleEn:
+      verseBG:
+      verseYV:
 
  ---
 
