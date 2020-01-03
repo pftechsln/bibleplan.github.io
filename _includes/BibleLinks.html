@@ -42,7 +42,9 @@
   {%- if verse1.size > 0 -%}
     <li><a href="{{ bgLink3 }}">{{ verseEn1 }}</a> | <a href="{{ yvLink3 }}">[YouVersion]</a></li>
   {%- endif -%}
-  <li><a href="{{ bgLink6 }}">{{ verseEn2 }}</a> | <a href="{{ yvLink4 }}">[YouVersion]</a></li>
+  {%- if verse2.size > 0 -%}
+    <li><a href="{{ bgLink6 }}">{{ verseEn2 }}</a> | <a href="{{ yvLink4 }}">[YouVersion]</a></li>
+  {%- endif -%}
 </ul>
 
 {% else %}
@@ -64,6 +66,8 @@
 
   {% endif %}
 
+
+  {% if verse2 %}
 <table>
       <tr>
         <td colspan="3"><a href="{{ bgLink4 }}"><b>{{ verse2 }}</b>【繁體】</a>
@@ -75,5 +79,6 @@
         <td colspan="2"><a href="{{ yvLink2 }}">【YouVersion】</a></td>
       </tr>
 </table>
+  {% endif %}
 {% endif %}
 
