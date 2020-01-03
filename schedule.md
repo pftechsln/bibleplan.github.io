@@ -7804,14 +7804,14 @@ plan:
       verseBG: Ecclesiastes.12
       verseYV: ECC.12
 
-  - index: 715
+  - index: 710
     verses:
     - titleCh: 馬太福音 1-2
       titleEn: Matthew.1-2
       verseBG: Matthew.1-2
       verseYV: MAT.1
       
-  - index: 716
+  - index: 711
     verses:
     - titleCh: 馬太福音 3.1-4.11
       titleEn: Matthew.3.1-4.11
