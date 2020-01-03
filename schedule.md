@@ -3,7 +3,7 @@ layout: schedule
 plan:
   name: "「從聖經看屬靈生命」"
   startDate: "01-22-2018"
-  totalDays: 750
+  totalDays: 730
   days: 
   - index: 1
     verses:
