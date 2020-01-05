@@ -6,7 +6,7 @@ language: Chinese
 
 {%- assign lastWeek = page.weekNum | minus:"1" -%}
 {%- assign nextWeek = page.weekNum | plus:"1" -%}
-{%- assign cycle = page.cycle -%}
+
 {%- assign lastLink = "/guide/wk" | append:lastWeek | append:".html" -%}
 {%- assign nextLink = "/guide/wk" | append:nextWeek | append:".html" -%}
 {%- assign enUrl = "/en" | append: page.permalink -%}
