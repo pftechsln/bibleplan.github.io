@@ -11,7 +11,7 @@ title: {{ site.name }}
 <h2>所有文章</h2>
 
 {%- assign allPosts = site.posts | where_exp: "item", "item.language != 'English'" -%}
-{%- assign allPosts = allPosts | where_exp: "item", "item.cycle == ''" -%}
+{%- assign allPosts = allPosts | where: "cycle", "''" -%}
 
 {%- assign weeklyPosts = allPosts | where: "categories", "weekly" | sort: "date" | reverse -%}
 {%- assign dailyPosts = allPosts | where: "categories", "daily" -%}
