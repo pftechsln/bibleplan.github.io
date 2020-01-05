@@ -7881,6 +7881,50 @@ plan:
       verseBG: 
       verseYV: 
 
+  - index: 717
+    verses:
+    - titleCh: 馬太福音 4.12-6.18
+      titleEn: Matthew 4.12-6.18
+      verseBG: Matthew.4.12-6.18
+      verseYV: MAT.4
+    - titleCh: 
+      titleEn: 
+      verseBG: 
+      verseYV: 
+
+  - index: 718
+    verses:
+    - titleCh: 馬太福音 6.19-7.29
+      titleEn: Matthew 6.19-7.29
+      verseBG: Matthew.6.19-7.29
+      verseYV: MAT.6
+    - titleCh: 
+      titleEn: 
+      verseBG: 
+      verseYV: 
+
+  - index: 719
+    verses:
+    - titleCh: 馬太福音 8-9
+      titleEn: Matthew 8-9
+      verseBG: Matthew.8-9
+      verseYV: MAT.8
+    - titleCh: 
+      titleEn: 
+      verseBG: 
+      verseYV: 
+
+  - index: 720
+    verses:
+    - titleCh:  
+      titleEn: 
+      verseBG: 
+      verseYV: 
+    - titleCh: 
+      titleEn: 
+      verseBG: 
+      verseYV: 
+
 
 ---
 
