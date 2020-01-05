@@ -17,7 +17,6 @@ language: Chinese
 {%- assign thisWeek = thisWeek | where: "categories", "daily" | sort: "date" -%}
 {%- assign thisWeek = thisWeek | where_exp: "item", "item.language != 'English'" -%}
 
-
 <p>
 <table style="display: table;">
   <thead>
