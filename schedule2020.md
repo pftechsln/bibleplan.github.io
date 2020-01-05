@@ -1,5 +1,5 @@
 ---
-layout: schedule
+layout: schedule2020
 plan:
   name: "「從聖經看屬靈生命」"
   startDate: "01-06-2020"
