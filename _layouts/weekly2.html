@@ -7,7 +7,7 @@ language: Chinese
 {%- assign lastWeek = page.weekNum | minus:"1" -%}
 {%- assign nextWeek = page.weekNum | plus:"1" -%}
 {%- assign cycle = page.cycle -%}
-{%- if cycle = null -%}
+{%- if cycle == blank -%}
   {%- assign lastLink = "/guide/wk" | append:lastWeek | append:".html" -%}
   {%- assign nextLink = "/guide/wk" | append:nextWeek | append:".html" -%}
   {%- assign enUrl = "/en" | append: page.permalink -%}
@@ -21,7 +21,7 @@ language: Chinese
 {%- assign filter2 = page.cycle -%}
 
 {%- assign thisWeek = site.posts | where: "weekNum", filter | sort: "date" -%}
-{%- assign thisWeek = site.posts | where: "cycle", filter2 | sort: "date" -%}
+{%- assign thisWeek = thisweek | where: "cycle", filter2 | sort: "date" -%}
 {%- assign thisWeek = thisWeek | where: "categories", "daily" | sort: "date" -%}
 {%- assign thisWeek = thisWeek | where_exp: "item", "item.language != 'English'" -%}
 
