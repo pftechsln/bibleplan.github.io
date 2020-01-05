@@ -7916,6 +7916,17 @@ plan:
 
   - index: 720
     verses:
+    - titleCh: 馬太福音 10
+      titleEn: Matthew 10
+      verseBG: Matthew.10
+      verseYV: MAT.10
+    - titleCh: 
+      titleEn: 
+      verseBG: 
+      verseYV: 
+
+  - index: 721
+    verses:
     - titleCh:  
       titleEn: 
       verseBG: 
