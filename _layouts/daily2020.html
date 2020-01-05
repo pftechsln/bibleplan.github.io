@@ -64,7 +64,8 @@ title: {{ site.name }}
 {%- assign pageDate = page.date | "%Y-%m-%d" -%}
 {%- assign sharings = site.posts | where: "categories", "sharing" -%}
 {%- assign sharingsThisWeek = sharings | where: "weekNum", page.weekNum -%} 
-
+{%- assign sharingsThisWeek = sharingsThisWeek | where: "cycle", page.cycle -%} 
+  
   <ul>
 {%- for post in sharingsThisWeek -%}
   {%- assign isTemp = post.title | slice: -4,3 -%}
