@@ -8,9 +8,15 @@ language: Chinese
 {%- assign nextWeek = page.weekNum | plus:"1" -%}
 {%- assign cycle = page.cycle -%}
 
-{%- assign lastLink = "/guide/wk" | append:lastWeek | append:".html" -%}
-{%- assign nextLink = "/guide/wk" | append:nextWeek | append:".html" -%}
-{%- assign enUrl = "/en" | append: page.permalink -%}
+{%- if cycle == blank -%}
+  {%- assign lastLink = "/guide/wk" | append:lastWeek | append:".html" -%}
+  {%- assign nextLink = "/guide/wk" | append:nextWeek | append:".html" -%}
+  {%- assign enUrl = "/en" | append: page.permalink -%}
+{%- else -%}
+  {%- assign lastLink = "/guide/" | append:cycle | append:"/wk" | append:lastWeek | append:".html" -%}
+  {%- assign nextLink = "/guide/" | append:cycle | append:"/wk" | append:nextWeek | append:".html" -%}
+  {%- assign enUrl = "/en/" | append:cycle | append:"/" | append: page.permalink -%}
+{%- endif -%}
 
 {%- assign filter = page.weekNum -%}
 {%- assign thisWeek = site.posts | where: "weekNum", filter | sort: "date" -%}
