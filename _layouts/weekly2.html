@@ -6,12 +6,22 @@ language: Chinese
 
 {%- assign lastWeek = page.weekNum | minus:"1" -%}
 {%- assign nextWeek = page.weekNum | plus:"1" -%}
-{%- assign lastLink = "/guide/wk" | append:lastWeek | append:".html" -%}
-{%- assign nextLink = "/guide/wk" | append:nextWeek | append:".html" -%}
+{%- assign cycle = page.cycle -%}
+{%- if cycle = null -%}
+  {%- assign lastLink = "/guide/wk" | append:lastWeek | append:".html" -%}
+  {%- assign nextLink = "/guide/wk" | append:nextWeek | append:".html" -%}
+  {%- assign enUrl = "/en" | append: page.permalink -%}
+{%- else -%}
+  {%- assign lastLink = "/guide/" | append:cycle | append:"/wk" | append:lastWeek | append:".html" -%}
+  {%- assign nextLink = "/guide/" | append:cycle | append:"/wk" | append:nextWeek | append:".html" -%}
+  {%- assign enUrl = "/en/" | append:cycle | append:"/" | append: page.permalink -%}
+{%- endif -%}
+
 {%- assign filter = page.weekNum -%}
-{%- assign enUrl = "/en" | append: page.permalink -%}
+{%- assign filter2 = page.cycle -%}
 
 {%- assign thisWeek = site.posts | where: "weekNum", filter | sort: "date" -%}
+{%- assign thisWeek = site.posts | where: "cycle", filter2 | sort: "date" -%}
 {%- assign thisWeek = thisWeek | where: "categories", "daily" | sort: "date" -%}
 {%- assign thisWeek = thisWeek | where_exp: "item", "item.language != 'English'" -%}
 
