@@ -1,0 +1,113 @@
+---
+layout: post
+title: {{ site.name }}
+language: Chinese
+---
+
+{%- assign lastWeek = page.weekNum | minus:"1" -%}
+{%- assign nextWeek = page.weekNum | plus:"1" -%}
+{%- assign cycle = page.cycle -%}
+{%- if cycle == blank -%}
+  {%- assign lastLink = "/guide/wk" | append:lastWeek | append:".html" -%}
+  {%- assign nextLink = "/guide/wk" | append:nextWeek | append:".html" -%}
+  {%- assign enUrl = "/en" | append: page.permalink -%}
+{%- else -%}
+  {%- assign lastLink = "/guide/" | append:cycle | append:"/wk" | append:lastWeek | append:".html" -%}
+  {%- assign nextLink = "/guide/" | append:cycle | append:"/wk" | append:nextWeek | append:".html" -%}
+  {%- assign enUrl = "/en/" | append:cycle | append:"/" | append: page.permalink -%}
+{%- endif -%}
+
+{%- assign filter = page.weekNum -%}
+{%- assign filter2 = page.cycle -%}
+
+{%- assign thisWeek = site.posts | where: "weekNum", filter | sort: "date" -%}
+{%- assign thisWeek = thisweek | where: "cycle", filter2 | sort: "date" -%}
+{%- assign thisWeek = thisWeek | where: "categories", "daily" | sort: "date" -%}
+{%- assign thisWeek = thisWeek | where_exp: "item", "item.language != 'English'" -%}
+
+
+<p>
+<table style="display: table;">
+  <thead>
+  <tr>
+    {%- assign pageExists = site.posts | where: "url", lastLink | size -%}
+    {%- if pageExists > 0 -%}
+      <th colspan="2"><a href="{{ lastLink | append: '#top' }}">《上週</a></th>
+    {%- else -%}
+      <th colspan="2">《上週</th>
+    {%- endif -%}
+    {%- assign pageExists = site.posts | where: "url", nextLink | size -%}
+    {%- if pageExists > 0 -%}
+      <th colspan="2"><a href="{{ nextLink | append: '#top' }}">下週》</a></th>
+    {%- else -%}
+      <th colspan="2">下週》</th>
+    {%- endif -%}
+  </tr>
+  </thead>
+  <tbody>
+    <tr>
+{%- assign day = 1 -%}
+      {%- for dayOfWeek in thisWeek -%}
+      <td><a href="#day{{day}}">第{{dayOfWeek.dayNum}}天</a></td>
+        {%- assign rowEnd = forloop.index | modulo: 4 -%}
+      {%- if rowEnd == 0 and forloop.index != forloop.length -%} 
+      </tr>
+      <tr>
+      {%- elsif rowEnd != 0 and forloop.last -%}
+        {%- assign countEnd = 4 | minus: rowEnd -%}
+        {%- capture count -%}{{ countEnd }}{%- endcapture -%}
+        {%- for num in (1..count) -%}
+        <td></td>
+        {%- endfor -%}
+      {%- endif -%}
+  {%- assign day = day | plus:'1' -%}
+      {%- endfor -%}
+    </tr>
+  </tbody>
+</table>
+<hr>
+
+<h2>{{ page.title }}</h2>
+<p>{{ page.date | date: '%B %d, %Y' }}</p>
+
+{{ content }}
+<hr>
+
+{%- assign day = 1 -%}
+{%- for onePage in thisWeek -%}
+  {%- if day == 1 -%}
+    {%- assign link = '<a href="#top">&#8679;</a> <a href="#day2">&#8681;</a>' -%}    
+  {%- elsif forloop.last -%}   
+    {%- assign dayMinus = day | minus:'1' -%}
+    {%- assign link = '<a href="#day' | append: dayMinus | append: '">&#8679;</a> <a href="#top">&#8686;</a>' -%}
+  {%- else -%}
+    {%- assign dayMinus = day | minus:'1' -%}
+    {%- assign dayMinus = '<a href="#day' | append:dayMinus | append:'">&#8679;</a>' -%}
+    {%- assign dayPlus = day | plus:'1' -%}
+    {%- assign dayPlus = ' <a href="#day' | append:dayPlus | append:'">&#8681;</a>' -%}
+    {%- assign link = dayMinus | append: dayPlus -%}    
+  {%- endif -%}
+
+  {%- assign dayString = 'day' | append: day -%}
+<div id="{{ dayString }}"></div>
+<h2> 
+  <a href="{{ onePage.url }}">{{ onePage.title }}</a> {{ link }}
+</h2>
+{%- assign dayString = dayString | prepend: 'id="' | append: 'Content"' -%}
+{{ onePage.content | replace: 'id="top"', dayString }}
+
+{%- assign pageDate = onePage.date | date: "%Y-%m-%d" -%}
+{%- assign sharings = site.posts | where: "categories", "sharing" -%}
+
+<ul>
+{%- for post in sharings -%}
+  {%- if post.date == pageDate -%}
+  <li><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
+  {%- endif -%}
+{%- endfor -%}
+</ul>
+
+<hr>
+
+  {%- assign day = day | plus:'1' -%}
+{%- endfor -%}
