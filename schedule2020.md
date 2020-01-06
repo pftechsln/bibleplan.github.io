@@ -72,6 +72,7 @@ plan:
       verseYV: PSA.6
 
   - index: 7
+    verses:
     - titleCh: 
       titleEn: 
       verseBG: 
