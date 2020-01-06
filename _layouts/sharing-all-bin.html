@@ -21,7 +21,7 @@ title: {{ site.name }}
   {%- assign thisWeek = sharingPosts | where: "weekNum", weekNum | sort: "date" -%}
   
   {%- if thisWeek.size > 0 -%}
-  <details><summary style="cursor: pointer;"> 讀經分享 ：第 {{weekNum}} 週 </summary>    
+  <details><summary style="cursor: pointer;"> 讀經分享 ：{{post.cycle}} 第 {{weekNum}} 週 </summary>    
     <ul>
         {%- for dailyPost in thisWeek -%}
           {%- unless dailyPost.categories contains "Zhuolin" -%}
