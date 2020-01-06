@@ -10,7 +10,11 @@ title: {{ site.name }}
 
 <h3><a href="{{ dailyPage.url }}">{{ dailyPage.title }}</a></h3>
 
-{%- include BibleLinks2020.html -%}
+{%- if page.cycle == '2020' -%}
+  {%- include BibleLinks2020.html -%}
+{%- else -%}
+  {%- include BibleLinks.html -%}
+{%- endif -%}
 
 <h3>{{ page.title }}</h3>
 <p class="meta">{{ page.date | date: "%B %d, %Y" }}</p>
