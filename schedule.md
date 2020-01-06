@@ -7865,10 +7865,10 @@ plan:
       titleEn: Matthew 1-2
       verseBG: Matthew.1-2
       verseYV: MAT.1
-    - titleCh: 
-      titleEn: 
-      verseBG: 
-      verseYV: 
+    - titleCh: 詩篇 1
+      titleEn: Psalms 1
+      verseBG: Psalms.1
+      verseYV: PSA.1
 
   - index: 716
     verses:
@@ -7876,10 +7876,10 @@ plan:
       titleEn: Matthew 3.1-4.11
       verseBG: Matthew.3.1-4.11
       verseYV: MAT.3
-    - titleCh: 
-      titleEn: 
-      verseBG: 
-      verseYV: 
+    - titleCh: 詩篇 2
+      titleEn: Psalms 2
+      verseBG: Psalms.2
+      verseYV: PSA.2
 
   - index: 717
     verses:
