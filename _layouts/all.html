@@ -23,7 +23,8 @@ title: {{ site.name }}
 
   {%- assign weekNum = post.weekNum -%}
   {%- assign thisWeek = dailyPosts | where: "weekNum", weekNum | sort: "date" -%}
-  
+  {%- assign thisWeek = thisWeek | where: "cycle", post.cycle -%}
+
   {%- if thisWeek.size > 0 -%}
     <details><summary>  <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></summary>    
     <ul>
