@@ -18,12 +18,12 @@ language: "Chinese"
     {%- for post in chnPosts limit:90 -%}
       
       {%- assign postDate = post.date | date: "%Y-%m-%d"  -%}
-      {%- if today >= postDate and showPosts <= 10 -%}
-          {%- if post.categories contains "weekly" -%}
-            <li><span>{{ post.date | date: "%m/%d" }}</span> <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
+      
+      {%- if post.categories contains "weekly" -%}
+         <li><span>{{ post.date | date: "%m/%d" }}</span> <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
    
-          {%- else -%}
-       
+      {%- else -%}
+         {%- if today >= postDate and showPosts <= 10 -%}
             {%- assign isTemp = post.title | slice: -4,3 -%}
             {%- unless isTemp == "待更新" -%}
              <li><span>{{ post.date | date: "%m/%d" }}</span> <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
