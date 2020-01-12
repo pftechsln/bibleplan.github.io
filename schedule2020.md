@@ -77,10 +77,10 @@ plan:
       titleEn: 
       verseBG: 
       verseYV: 
-    - titleCh: 詩篇 1
-      titleEn: Psalms 1
-      verseBG: Psalms.1
-      verseYV: PSA.1
+    - titleCh: 詩篇 7
+      titleEn: Psalms 7
+      verseBG: Psalms.7
+      verseYV: PSA.7
 
   - index: 8
     verses:
