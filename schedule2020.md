@@ -236,4 +236,81 @@ plan:
       verseBG: Psalms.21
       verseYV: PSA.21
 
+  - index: 22
+    verses:
+    - titleCh: 馬可福音 1
+      titleEn: Mark 1
+      verseBG: Mark.1
+      verseYV: MRK.1
+    - titleCh: 詩篇 22
+      titleEn: Psalms 22
+      verseBG: Psalms.22
+      verseYV: PSA.22
+
+  - index: 23
+    verses:
+    - titleCh: 馬可福音 2.1-3.6
+      titleEn: Mark 2.1-3.6
+      verseBG: Mark.2.1-3.6
+      verseYV: MRK.2
+    - titleCh: 詩篇 23
+      titleEn: Psalms 23
+      verseBG: Psalms.23
+      verseYV: PSA.23
+
+  - index: 24
+    verses:
+    - titleCh: 馬可福音 3.7-4.34
+      titleEn: Mark 3.7-4.34
+      verseBG: Mark.3.7-4.34
+      verseYV: MRK.3
+    - titleCh: 詩篇 24
+      titleEn: Psalms 24
+      verseBG: Psalms.24
+      verseYV: PSA.24
+
+  - index: 25
+    verses:
+    - titleCh: 馬可福音 4.35-6.6a
+      titleEn: Mark 4.35-6.6a
+      verseBG: Mark.4.35-6.6a
+      verseYV: MRK.4
+    - titleCh: 詩篇 25
+      titleEn: Psalms 25
+      verseBG: Psalms.25
+      verseYV: PSA.25
+
+  - index: 26
+    verses:
+    - titleCh: 馬可福音 6.6b-8.21
+      titleEn: Mark 6.6b-8.21
+      verseBG: Mark.6.6b-8.21
+      verseYV: MRK.6
+    - titleCh: 詩篇 26
+      titleEn: Psalms 26
+      verseBG: Psalms.26
+      verseYV: PSA.26
+
+  - index: 27
+    verses:
+    - titleCh: 馬可福音 8.22-9.29
+      titleEn: Mark 8.22-9.29
+      verseBG: Mark.8.22-9.29
+      verseYV: MRK.8
+    - titleCh: 詩篇 27
+      titleEn: Psalms 27
+      verseBG: Psalms.27
+      verseYV: PSA.27
+
+  - index: 28
+    verses:
+    - titleCh:  
+      titleEn: 
+      verseBG: 
+      verseYV: 
+    - titleCh: 詩篇 28
+      titleEn: Psalms 28
+      verseBG: Psalms.28
+      verseYV: PSA.28
+
 ---
