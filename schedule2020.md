@@ -390,4 +390,81 @@ plan:
       verseBG: Psalms.35
       verseYV: PSA.35
 
+  - index: 36
+    verses:
+    - titleCh: 馬可福音 16
+      titleEn: Mark 16
+      verseBG: Mark.16
+      verseYV: MRK.16
+    - titleCh: 詩篇 36
+      titleEn: Psalms 36
+      verseBG: Psalms.36
+      verseYV: PSA.36
+
+  - index: 37
+    verses:
+    - titleCh: 路加福音 1
+      titleEn: Luke 1
+      verseBG: Luke.1
+      verseYV: LUK.1
+    - titleCh: 詩篇 37
+      titleEn: Psalms 37
+      verseBG: Psalms.37
+      verseYV: PSA.37
+
+  - index: 38
+    verses:
+    - titleCh: 路加福音 2
+      titleEn: Luke 2
+      verseBG: Luke.2
+      verseYV: LUK.2
+    - titleCh: 詩篇 38
+      titleEn: Psalms 38
+      verseBG: Psalms.38
+      verseYV: PSA.38
+
+  - index: 39
+    verses:
+    - titleCh: 路加福音 3.1-4.13
+      titleEn: Luke 3.1-4.13
+      verseBG: Luke.3.1-4.13
+      verseYV: LUK.3
+    - titleCh: 詩篇 39
+      titleEn: Psalms 39
+      verseBG: Psalms.39
+      verseYV: PSA.39
+
+  - index: 40
+    verses:
+    - titleCh: 路加福音 4.14-44
+      titleEn: Luke 4.14-44
+      verseBG: Luke.4.14-44
+      verseYV: LUK.4
+    - titleCh: 詩篇 40
+      titleEn: Psalms 40
+      verseBG: Psalms.40
+      verseYV: PSA.40
+
+  - index: 41
+    verses:
+    - titleCh: 路加福音 5.1-6.11
+      titleEn: Luke 5.1-6.11
+      verseBG: Luke.5.1-6.11
+      verseYV: LUK.5
+    - titleCh: 詩篇 41
+      titleEn: Psalms 41
+      verseBG: Psalms.41
+      verseYV: PSA.41
+
+  - index: 42
+    verses:
+    - titleCh:  
+      titleEn: 
+      verseBG: 
+      verseYV: 
+    - titleCh: 詩篇 42
+      titleEn: Psalms 42
+      verseBG: Psalms.42
+      verseYV: PSA.42
+
 ---
