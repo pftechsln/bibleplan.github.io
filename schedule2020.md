@@ -467,4 +467,81 @@ plan:
       verseBG: Psalms.42
       verseYV: PSA.42
 
+- index: 43
+    verses:
+    - titleCh: 路加福音 6.12-49
+      titleEn: Luke 6.12-49
+      verseBG: Luke.6.12-49
+      verseYV: LUK.6
+    - titleCh: 詩篇 43
+      titleEn: Psalms 43
+      verseBG: Psalms.43
+      verseYV: PSA.43
+
+- index: 44
+    verses:
+    - titleCh: 路加福音 7
+      titleEn: Luke 7
+      verseBG: Luke.7
+      verseYV: LUK.7
+    - titleCh: 詩篇 44
+      titleEn: Psalms 44
+      verseBG: Psalms.44
+      verseYV: PSA.44
+
+- index: 45
+    verses:
+    - titleCh: 路加福音 8
+      titleEn: Luke 8
+      verseBG: Luke.8
+      verseYV: LUK.8
+    - titleCh: 詩篇 45
+      titleEn: Psalms 45
+      verseBG: Psalms.45
+      verseYV: PSA.45
+
+- index: 46
+    verses:
+    - titleCh: 路加福音 9.1-50
+      titleEn: Luke 9.1-50
+      verseBG: Luke.9.1-50
+      verseYV: LUK.9
+    - titleCh: 詩篇 46
+      titleEn: Psalms 46
+      verseBG: Psalms.46
+      verseYV: PSA.46
+
+- index: 47
+    verses:
+    - titleCh: 路加福音 9.51-11.13
+      titleEn: Luke 9.51-11.13
+      verseBG: Luke.9.51-11.13
+      verseYV: LUK.9
+    - titleCh: 詩篇 47
+      titleEn: Psalms 47
+      verseBG: Psalms.47
+      verseYV: PSA.47
+
+- index: 48
+    verses:
+    - titleCh: 路加福音 11.14-54
+      titleEn: Luke 11.14-54
+      verseBG: Luke.11.14-54
+      verseYV: LUK.11
+    - titleCh: 詩篇 48
+      titleEn: Psalms 48
+      verseBG: Psalms.48
+      verseYV: PSA.48
+
+- index: 49
+    verses:
+    - titleCh:  
+      titleEn: 
+      verseBG: 
+      verseYV: 
+    - titleCh: 詩篇 49
+      titleEn: Psalms 49
+      verseBG: Psalms.49
+      verseYV: PSA.49
+
 ---
