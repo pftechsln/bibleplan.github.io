@@ -467,7 +467,7 @@ plan:
       verseBG: Psalms.42
       verseYV: PSA.42
 
-- index: 43
+  - index: 43
     verses:
     - titleCh: 路加福音 6.12-49
       titleEn: Luke 6.12-49
@@ -478,7 +478,7 @@ plan:
       verseBG: Psalms.43
       verseYV: PSA.43
 
-- index: 44
+  - index: 44
     verses:
     - titleCh: 路加福音 7
       titleEn: Luke 7
@@ -489,7 +489,7 @@ plan:
       verseBG: Psalms.44
       verseYV: PSA.44
 
-- index: 45
+  - index: 45
     verses:
     - titleCh: 路加福音 8
       titleEn: Luke 8
@@ -500,7 +500,7 @@ plan:
       verseBG: Psalms.45
       verseYV: PSA.45
 
-- index: 46
+  - index: 46
     verses:
     - titleCh: 路加福音 9.1-50
       titleEn: Luke 9.1-50
@@ -511,7 +511,7 @@ plan:
       verseBG: Psalms.46
       verseYV: PSA.46
 
-- index: 47
+  - index: 47
     verses:
     - titleCh: 路加福音 9.51-11.13
       titleEn: Luke 9.51-11.13
@@ -522,7 +522,7 @@ plan:
       verseBG: Psalms.47
       verseYV: PSA.47
 
-- index: 48
+  - index: 48
     verses:
     - titleCh: 路加福音 11.14-54
       titleEn: Luke 11.14-54
@@ -533,7 +533,7 @@ plan:
       verseBG: Psalms.48
       verseYV: PSA.48
 
-- index: 49
+  - index: 49
     verses:
     - titleCh:  
       titleEn: 
