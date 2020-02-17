@@ -52,7 +52,7 @@ function convert()
                 markup.weekNum = text.slice(1, tmpPos);
                 markup.dayNum = text.slice(tmpPos+2, text.search("天"));
                 markup.title = text.slice(text.search("天")+1);
-                markup.url = "/daily/wk" + markup.weekNum + "-day" + markup.dayNum + "-daily.html";
+                markup.url = "/daily/2020/wk" + markup.weekNum + "-day" + markup.dayNum + "-daily.html";
                 var newDate = day1.getTime();
                 newDate += ((markup.weekNum-1)*7+(markup.dayNum-1))*24*60*60*1000;
                 day1.setTime(newDate);
@@ -191,6 +191,7 @@ function generateMarkup(markup){
     outputMarkup[lineNum++] = "permalink: " + markup.url; 
     outputMarkup[lineNum++] = "weekNum: " + markup.weekNum; 
     outputMarkup[lineNum++] = "dayNum: " + markup.dayNum; 
+    outputMarkup[lineNum++] = "cycle: 2020"; 
     outputMarkup[lineNum++] = "---"; 
     outputMarkup[lineNum++] = ""; 
 
@@ -201,7 +202,7 @@ function generateMarkup(markup){
     //lineNum++;
 
     //Bible Verses
-    outputMarkup[lineNum++] = "{%- include BibleLinks.html -%}";
+    outputMarkup[lineNum++] = "{%- include BibleLinks2020.html -%}";
     outputMarkup[lineNum++] = "";
 
     //God's Stories
