@@ -21,7 +21,7 @@ plugins:
 timezone: America/New_York    
 
 # regenerate only modified posts to improve performance
-incremental: true
+# incremental: true
 
 # Google Analytics
 # google_analytics: UA—114680216-1
