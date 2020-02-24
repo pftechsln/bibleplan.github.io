@@ -544,4 +544,81 @@ plan:
       verseBG: Psalms.49
       verseYV: PSA.49
 
+  - index: 50
+    verses:
+    - titleCh: 路加福音 12.1-13.9
+      titleEn: Luke 12.1-13.9
+      verseBG: Luke.12.1-13.9
+      verseYV: LUK.12
+    - titleCh: 詩篇 50
+      titleEn: Psalms 50
+      verseBG: Psalms.50
+      verseYV: PSA.50
+
+  - index: 51
+    verses:
+    - titleCh: 路加福音 13.10-35
+      titleEn: Luke 13.10-35
+      verseBG: Luke.13.10-35
+      verseYV: LUK.13
+    - titleCh: 詩篇 51
+      titleEn: Psalms 51
+      verseBG: Psalms.51
+      verseYV: PSA.51
+
+  - index: 52
+    verses:
+    - titleCh: 路加福音 14-15
+      titleEn: Luke 14-15
+      verseBG: Luke.14-15
+      verseYV: LUK.14
+    - titleCh: 詩篇 52
+      titleEn: Psalms 52
+      verseBG: Psalms.52
+      verseYV: PSA.52
+
+  - index: 53
+    verses:
+    - titleCh: 路加福音 16.1-17.10
+      titleEn: Luke 16.1-17.10
+      verseBG: Luke.16.1-17.10
+      verseYV: LUK.16
+    - titleCh: 詩篇 53
+      titleEn: Psalms 53
+      verseBG: Psalms.53
+      verseYV: PSA.53
+
+  - index: 54
+    verses:
+    - titleCh: 路加福音 17.11-18.30
+      titleEn: Luke 17.11-18.30
+      verseBG: Luke.17.11-18.30
+      verseYV: LUK.17
+    - titleCh: 詩篇 54
+      titleEn: Psalms 54
+      verseBG: Psalms.54
+      verseYV: PSA.54
+
+  - index: 55
+    verses:
+    - titleCh: 路加福音 18.31-19.44
+      titleEn: Luke 18.31-19.44
+      verseBG: Luke.18.31-19.44
+      verseYV: LUK.18
+    - titleCh: 詩篇 55
+      titleEn: Psalms 55
+      verseBG: Psalms.55
+      verseYV: PSA.55
+
+  - index: 56
+    verses:
+    - titleCh:  
+      titleEn: 
+      verseBG: 
+      verseYV: 
+    - titleCh: 詩篇 56
+      titleEn: Psalms 56
+      verseBG: Psalms.56
+      verseYV: PSA.56
+
 ---
