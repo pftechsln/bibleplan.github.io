@@ -621,4 +621,81 @@ plan:
       verseBG: Psalms.56
       verseYV: PSA.56
 
+  - index: 57
+    verses:
+    - titleCh: 路加福音 19.45-21.38
+      titleEn: Luke 19.45-21.38
+      verseBG: Luke.19.45-21.38
+      verseYV: LUK.19
+    - titleCh: 詩篇 57
+      titleEn: Psalms 57
+      verseBG: Psalms.57
+      verseYV: PSA.57
+
+  - index: 58
+    verses:
+    - titleCh: 路加福音 22
+      titleEn: Luke 22
+      verseBG: Luke.22
+      verseYV: LUK.22
+    - titleCh: 詩篇 58
+      titleEn: Psalms 58
+      verseBG: Psalms.58
+      verseYV: PSA.58
+
+  - index: 59
+    verses:
+    - titleCh: 路加福音 23
+      titleEn: Luke 23
+      verseBG: Luke.23
+      verseYV: LUK.23
+    - titleCh: 詩篇 59
+      titleEn: Psalms 59
+      verseBG: Psalms.59
+      verseYV: PSA.59
+
+  - index: 60
+    verses:
+    - titleCh: 路加福音 24
+      titleEn: Luke 24
+      verseBG: Luke.24
+      verseYV: LUK.24
+    - titleCh: 詩篇 60
+      titleEn: Psalms 60
+      verseBG: Psalms.60
+      verseYV: PSA.60
+
+  - index: 61
+    verses:
+    - titleCh: 約翰福音 1.1-18
+      titleEn: John.1.1-18
+      verseBG: John.1.1-18
+      verseYV: JHN.1
+    - titleCh: 詩篇 61
+      titleEn: Psalms 61
+      verseBG: Psalms.61
+      verseYV: PSA.61
+
+  - index: 62
+    verses:
+    - titleCh: 約翰福音 1.19-2.12
+      titleEn: John.1.19-2.12
+      verseBG: John.1.19-2.12
+      verseYV: JHN.1
+    - titleCh: 詩篇 62
+      titleEn: Psalms 62
+      verseBG: Psalms.62
+      verseYV: PSA.62
+
+  - index: 63
+    verses:
+    - titleCh: 
+      titleEn: 
+      verseBG: 
+      verseYV: 
+    - titleCh: 詩篇 63
+      titleEn: Psalms 63
+      verseBG: Psalms.63
+      verseYV: PSA.63
+
 ---
