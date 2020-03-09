@@ -698,4 +698,81 @@ plan:
       verseBG: Psalms.63
       verseYV: PSA.63
 
+  - index: 64
+    verses:
+    - titleCh: 約翰福音 2.13-3.36
+      titleEn: John.2.13-3.36
+      verseBG: John.2.13-3.36
+      verseYV: JHN.2
+    - titleCh: 詩篇 64
+      titleEn: Psalms 64
+      verseBG: Psalms.64
+      verseYV: PSA.64
+
+  - index: 65
+    verses:
+    - titleCh: 約翰福音 4
+      titleEn: John.4
+      verseBG: John.4
+      verseYV: JHN.4
+    - titleCh: 詩篇 65
+      titleEn: Psalms 65
+      verseBG: Psalms.65
+      verseYV: PSA.65
+
+  - index: 66
+    verses:
+    - titleCh: 約翰福音 5
+      titleEn: John.5
+      verseBG: John.5
+      verseYV: JHN.5
+    - titleCh: 詩篇 66
+      titleEn: Psalms 66
+      verseBG: Psalms.66
+      verseYV: PSA.66
+
+  - index: 67
+    verses:
+    - titleCh: 約翰福音 6
+      titleEn: John.6
+      verseBG: John.6
+      verseYV: JHN.6
+    - titleCh: 詩篇 67
+      titleEn: Psalms 67
+      verseBG: Psalms.67
+      verseYV: PSA.67
+
+  - index: 68
+    verses:
+    - titleCh: 約翰福音 7
+      titleEn: John.7
+      verseBG: John.7
+      verseYV: JHN.7
+    - titleCh: 詩篇 68
+      titleEn: Psalms 68
+      verseBG: Psalms.68
+      verseYV: PSA.68
+
+  - index: 69
+    verses:
+    - titleCh: 約翰福音 8
+      titleEn: John.8
+      verseBG: John.8
+      verseYV: JHN.8
+    - titleCh: 詩篇 69
+      titleEn: Psalms 69
+      verseBG: Psalms.69
+      verseYV: PSA.69
+
+  - index: 70
+    verses:
+    - titleCh: 
+      titleEn: 
+      verseBG: 
+      verseYV: 
+    - titleCh: 詩篇 70
+      titleEn: Psalms 70
+      verseBG: Psalms.70
+      verseYV: PSA.70
+
 ---
