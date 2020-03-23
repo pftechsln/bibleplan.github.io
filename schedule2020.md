@@ -896,4 +896,37 @@ plan:
       verseBG: Psalms.81
       verseYV: PSA.81
 
+  - index: 82
+    verses:
+    - titleCh: 使徒行傳 1
+      titleEn: Acts 1
+      verseBG: Acts.1
+      verseYV: ACT.1
+    - titleCh: 詩篇 82
+      titleEn: Psalms 82
+      verseBG: Psalms.82
+      verseYV: PSA.82
+
+  - index: 83
+    verses:
+    - titleCh: 使徒行傳 2
+      titleEn: Acts 2
+      verseBG: Acts.2
+      verseYV: ACT.2
+    - titleCh: 詩篇 83
+      titleEn: Psalms 83
+      verseBG: Psalms.83
+      verseYV: PSA.83
+
+  - index: 84
+    verses:
+    - titleCh: 
+      titleEn: 
+      verseBG: 
+      verseYV: 
+    - titleCh: 詩篇 84
+      titleEn: Psalms 84
+      verseBG: Psalms.84
+      verseYV: PSA.84
+
 ---
