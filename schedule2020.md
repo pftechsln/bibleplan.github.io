@@ -920,10 +920,10 @@ plan:
 
   - index: 84
     verses:
-    - titleCh: 
-      titleEn: 
-      verseBG: 
-      verseYV: 
+    - titleCh: 使徒行傳 3-4
+      titleEn: Acts 3-4
+      verseBG: Acts.3-4
+      verseYV: ACT.3
     - titleCh: 詩篇 84
       titleEn: Psalms 84
       verseBG: Psalms.84
