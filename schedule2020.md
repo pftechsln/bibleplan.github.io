@@ -940,70 +940,70 @@ plan:
       verseBG: Psalms.85
       verseYV: PSA.85
 
-  - index: 228
+  - index: 86
     verses:
-    - titleCh: 使徒行傳  6.8-7.60
+    - titleCh: 使徒行傳 6.8-7.60
       titleEn: Acts 6.8-7.60
       verseBG: Acts.6.8-7.60
       verseYV: ACT.6
-    - titleCh: 約伯記 17
-      titleEn: Job 17
-      verseBG: Job.17
-      verseYV: JOB.17
+    - titleCh: 詩篇 86
+      titleEn: Psalms 86
+      verseBG: Psalms.86
+      verseYV: PSA.86
 
-  - index: 229
+  - index: 87
     verses:
-    - titleCh: 使徒行傳  8.1-9.31
+    - titleCh: 使徒行傳 8.1-9.31
       titleEn: Acts 8.1-9.31
       verseBG: Acts.8.1-9.31
       verseYV: ACT.8
-    - titleCh: 約伯記 18
-      titleEn: Job 18
-      verseBG: Job.18
-      verseYV: JOB.18
+    - titleCh: 詩篇 87
+      titleEn: Psalms 87
+      verseBG: Psalms.87
+      verseYV: PSA.87
 
-  - index: 230
+  - index: 88
     verses:
     - titleCh: 使徒行傳  9.32-10.48
       titleEn: Acts 9.32-10.48
       verseBG: Acts.9.32-10.48
       verseYV: ACT.9
-    - titleCh: 約伯記 19
-      titleEn: Job 19
-      verseBG: Job.19
-      verseYV: JOB.19
+    - titleCh: 詩篇 88
+      titleEn: Psalms 88
+      verseBG: Psalms.88
+      verseYV: PSA.88
 
-  - index: 232
+  - index: 89
     verses:
     - titleCh: 使徒行傳 11-12
       titleEn: Acts 11-12
       verseBG: Acts.11-12
       verseYV: ACT.11
-    - titleCh: 約伯記 21
-      titleEn: Job 21
-      verseBG: Job.21
-      verseYV: JOB.21
+    - titleCh: 詩篇 89
+      titleEn: Psalms 89
+      verseBG: Psalms.89
+      verseYV: PSA.89
 
-  - index: 233
+  - index: 90
     verses:
     - titleCh: 使徒行傳 13
-      titleEn: Acts 12.25-13.52
-      verseBG: Acts.12.25-13.52
-      verseYV: ACT.12
-    - titleCh: 約伯記 22
-      titleEn: Job 22
-      verseBG: Job.22
-      verseYV: JOB.22
+      titleEn: Acts 13
+      verseBG: Acts.13
+      verseYV: ACT.13
+    - titleCh: 詩篇 90
+      titleEn: Psalms 90
+      verseBG: Psalms.90
+      verseYV: PSA.90
 
-  - index: 231
+  - index: 91
     verses:
     - titleCh:  
       titleEn: 
       verseBG: 
       verseYV: 
-    - titleCh: 約伯記 20
-      titleEn: Job 20
-      verseBG: Job.20
-      verseYV: JOB.20
+    - titleCh: 詩篇 91
+      titleEn: Psalms 91
+      verseBG: Psalms.91
+      verseYV: PSA.91
 
 ---
