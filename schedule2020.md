@@ -929,4 +929,81 @@ plan:
       verseBG: Psalms.84
       verseYV: PSA.84
 
+  - index: 85
+    verses:
+    - titleCh: 使徒行傳 5.1-6.7
+      titleEn: Acts 5.1-6.7
+      verseBG: Acts.5.1-6.7
+      verseYV: ACT.5
+    - titleCh: 詩篇 85
+      titleEn: Psalms 85
+      verseBG: Psalms.85
+      verseYV: PSA.85
+
+  - index: 228
+    verses:
+    - titleCh: 使徒行傳  6.8-7.60
+      titleEn: Acts 6.8-7.60
+      verseBG: Acts.6.8-7.60
+      verseYV: ACT.6
+    - titleCh: 約伯記 17
+      titleEn: Job 17
+      verseBG: Job.17
+      verseYV: JOB.17
+
+  - index: 229
+    verses:
+    - titleCh: 使徒行傳  8.1-9.31
+      titleEn: Acts 8.1-9.31
+      verseBG: Acts.8.1-9.31
+      verseYV: ACT.8
+    - titleCh: 約伯記 18
+      titleEn: Job 18
+      verseBG: Job.18
+      verseYV: JOB.18
+
+  - index: 230
+    verses:
+    - titleCh: 使徒行傳  9.32-10.48
+      titleEn: Acts 9.32-10.48
+      verseBG: Acts.9.32-10.48
+      verseYV: ACT.9
+    - titleCh: 約伯記 19
+      titleEn: Job 19
+      verseBG: Job.19
+      verseYV: JOB.19
+
+  - index: 232
+    verses:
+    - titleCh: 使徒行傳 11-12
+      titleEn: Acts 11-12
+      verseBG: Acts.11-12
+      verseYV: ACT.11
+    - titleCh: 約伯記 21
+      titleEn: Job 21
+      verseBG: Job.21
+      verseYV: JOB.21
+
+  - index: 233
+    verses:
+    - titleCh: 使徒行傳 13
+      titleEn: Acts 12.25-13.52
+      verseBG: Acts.12.25-13.52
+      verseYV: ACT.12
+    - titleCh: 約伯記 22
+      titleEn: Job 22
+      verseBG: Job.22
+      verseYV: JOB.22
+
+  - index: 231
+    verses:
+    - titleCh:  
+      titleEn: 
+      verseBG: 
+      verseYV: 
+    - titleCh: 約伯記 20
+      titleEn: Job 20
+      verseBG: Job.20
+      verseYV: JOB.20
+
 ---
