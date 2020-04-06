@@ -1006,4 +1006,81 @@ plan:
       verseBG: Psalms.91
       verseYV: PSA.91
 
+  - index: 92
+    verses:
+    - titleCh: 使徒行傳  14.1-16.5
+      titleEn: Acts 14.1-16.5
+      verseBG: Acts.14.1-16.5
+      verseYV: ACT.14
+    - titleCh: 詩篇 92
+      titleEn: Psalms 92
+      verseBG: Psalms.92
+      verseYV: PSA.92
+
+  - index: 93
+    verses:
+    - titleCh: 使徒行傳  16.6-17.34
+      titleEn: Acts 16.6-17.34
+      verseBG: Acts.16.6-17.34
+      verseYV: ACT.16
+    - titleCh: 詩篇 93
+      titleEn: Psalms 93
+      verseBG: Psalms.93
+      verseYV: PSA.93
+
+  - index: 94
+    verses:
+    - titleCh: 使徒行傳  18.1-19.20
+      titleEn: Acts 18.1-19.20
+      verseBG: Acts.18.1-19.20
+      verseYV: ACT.18
+    - titleCh: 詩篇 94
+      titleEn: Psalms 94
+      verseBG: Psalms.94
+      verseYV: PSA.94
+
+  - index: 95
+    verses:
+    - titleCh: 使徒行傳  19.21-20.38
+      titleEn: Acts 19.21-20.38
+      verseBG: Acts.19.21-20.38
+      verseYV: ACT.19
+    - titleCh: 詩篇 95
+      titleEn: Psalms 95
+      verseBG: Psalms.95
+      verseYV: PSA.95
+
+  - index: 96
+    verses:
+    - titleCh: 使徒行傳  21.1-22.29
+      titleEn: Acts 21.1-22.29
+      verseBG: Acts.21.1-22.29
+      verseYV: ACT.21
+    - titleCh: 詩篇 96
+      titleEn: Psalms 96
+      verseBG: Psalms.96
+      verseYV: PSA.96
+
+  - index: 97
+    verses:
+    - titleCh: 使徒行傳  22.30-24.27
+      titleEn: Acts 22.30-24.27
+      verseBG: Acts.22.30-24.27
+      verseYV: ACT.22
+    - titleCh: 詩篇 97
+      titleEn: Psalms 97
+      verseBG: Psalms.97
+      verseYV: PSA.97
+
+  - index: 98
+    verses:
+    - titleCh:  
+      titleEn: 
+      verseBG: 
+      verseYV: 
+    - titleCh: 詩篇 98
+      titleEn: Psalms 98
+      verseBG: Psalms.98
+      verseYV: PSA.98
+
 ---
