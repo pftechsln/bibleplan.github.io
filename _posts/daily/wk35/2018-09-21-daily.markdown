@@ -1,6 +1,6 @@
 ---
 layout: daily2
-title: "第35周第5天 放膽傳講 "
+title: "第35週第5天 放膽傳講 "
 date: 2018-09-21
 categories: daily
 permalink: /daily/wk35-day5-daily.html
