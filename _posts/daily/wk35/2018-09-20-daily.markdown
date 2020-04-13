@@ -1,6 +1,6 @@
 ---
 layout: daily2
-title: "第35周第4天 遭遇海難 "
+title: "第35週第4天 遭遇海難 "
 date: 2018-09-20
 categories: daily
 permalink: /daily/wk35-day4-daily.html
