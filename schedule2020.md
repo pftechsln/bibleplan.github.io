@@ -1083,4 +1083,81 @@ plan:
       verseBG: Psalms.98
       verseYV: PSA.98
 
+  - index: 99
+    verses:
+    - titleCh: 使徒行傳 25-26
+      titleEn: Acts 25-26
+      verseBG: Acts.25-26
+      verseYV: ACT.25
+    - titleCh: 詩篇 99
+      titleEn: Psalms 99
+      verseBG: Psalms.99
+      verseYV: PSA.99
+
+  - index: 100
+    verses:
+    - titleCh: 使徒行傳 27.1-28.16
+      titleEn: Acts 27.1-28.16
+      verseBG: Acts.27.1-28.16
+      verseYV: ACT.27
+    - titleCh: 詩篇 100
+      titleEn: Psalms 100
+      verseBG: Psalms.100
+      verseYV: PSA.100
+
+  - index: 101
+    verses:
+    - titleCh: 使徒行傳  28.17-30
+      titleEn: Acts 28.17-30
+      verseBG: Acts.28.17-30
+      verseYV: ACT.28
+    - titleCh: 詩篇 101
+      titleEn: Psalms 101
+      verseBG: Psalms.101
+      verseYV: PSA.101
+
+  - index: 102
+    verses:
+    - titleCh: 創世記 1.1-2.3
+      titleEn: Genesis 1.1-2.3
+      verseBG: Genesis.1.1-2.3
+      verseYV: GEN.1
+    - titleCh: 詩篇 102
+      titleEn: Psalms 102
+      verseBG: Psalms.102
+      verseYV: PSA.102
+
+  - index: 103
+    verses:
+    - titleCh: 創世記 2.4-4.26
+      titleEn: Genesis 2.4-4.26
+      verseBG: Genesis.2.4-4.26
+      verseYV: GEN.2
+    - titleCh: 詩篇 103
+      titleEn: Psalms 103
+      verseBG: Psalms.103
+      verseYV: PSA.103
+
+  - index: 104
+    verses:
+    - titleCh: 創世記 5.1-6.8
+      titleEn: Genesis 5.1-6.8
+      verseBG: Genesis.5.1-6.8
+      verseYV: GEN.5
+    - titleCh: 詩篇 104
+      titleEn: Psalms 104
+      verseBG: Psalms.104
+      verseYV: PSA.104
+
+  - index: 105
+    verses:
+    - titleCh: 
+      titleEn: 
+      verseBG: 
+      verseYV: 
+    - titleCh: 詩篇 105
+      titleEn: Psalms 105
+      verseBG: Psalms.105
+      verseYV: PSA.105
+
 ---
