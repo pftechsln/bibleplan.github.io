@@ -1,6 +1,6 @@
 ---
 layout: daily2
-title: "第35周第1天 耶城陳情"
+title: "第35週第1天 耶城陳情"
 date: 2018-09-17
 categories: daily
 permalink: /daily/wk35-day1-daily.html
