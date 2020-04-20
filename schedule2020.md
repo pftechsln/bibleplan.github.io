@@ -1195,10 +1195,10 @@ plan:
 
   - index: 109
     verses:
-    - titleCh:  
-      titleEn: 
-      verseBG: 
-      verseYV: 
+    - titleCh: 創世記 11.27-12.20
+      titleEn: Genesis 11.27-12.20
+      verseBG: Genesis.11.27-12.20
+      verseYV: GEN.11
     - titleCh: 詩篇 109
       titleEn: Psalms 109
       verseBG: Psalms.109
@@ -1206,10 +1206,10 @@ plan:
 
   - index: 110
     verses:
-    - titleCh: 創世記 11.27-12.20
-      titleEn: Genesis 11.27-12.20
-      verseBG: Genesis.11.27-12.20
-      verseYV: GEN.11
+    - titleCh: 創世記 13-14
+      titleEn: Genesis 13-14
+      verseBG: Genesis.13-14
+      verseYV: GEN.13
     - titleCh: 詩篇 110
       titleEn: Psalms 110
       verseBG: Psalms.110
@@ -1217,10 +1217,10 @@ plan:
 
   - index: 111
     verses:
-    - titleCh: 創世記 13-14
-      titleEn: Genesis 13-14
-      verseBG: Genesis.13-14
-      verseYV: GEN.13
+    - titleCh: 創世記 15-16
+      titleEn: Genesis 15-16
+      verseBG: Genesis.15-16
+      verseYV: GEN.15
     - titleCh: 詩篇 111
       titleEn: Psalms 111
       verseBG: Psalms.111
@@ -1228,24 +1228,13 @@ plan:
 
   - index: 112
     verses:
-    - titleCh: 創世記 15-16
-      titleEn: Genesis 15-16
-      verseBG: Genesis.15-16
-      verseYV: GEN.15
-    - titleCh: 詩篇 112
-      titleEn: Psalms 112
-      verseBG: Psalms.112
-      verseYV: PSA.112
-
-  - index: 113
-    verses:
     - titleCh: 
       titleEn: 
       verseBG: 
       verseYV: 
-    - titleCh: 詩篇 113
-      titleEn: Psalms 113
-      verseBG: Psalms.113
-      verseYV: PSA.113
+    - titleCh: 詩篇 112
+      titleEn: Psalms 112
+      verseBG: Psalms.112
+      verseYV: PSA.112
 
 ---
