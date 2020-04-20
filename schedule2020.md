@@ -1160,4 +1160,92 @@ plan:
       verseBG: Psalms.105
       verseYV: PSA.105
 
+  - index: 106
+    verses:
+    - titleCh: 創世記 6.9-9.29
+      titleEn: Genesis 6.9-9.29
+      verseBG: Genesis.6.9-9.29
+      verseYV: GEN.6
+    - titleCh: 詩篇 106
+      titleEn: Psalms 106
+      verseBG: Psalms.106
+      verseYV: PSA.106
+
+  - index: 107
+    verses:
+    - titleCh: 創世記 10.1-11.9
+      titleEn: Genesis 10.1-11.9
+      verseBG: Genesis.10.1-11.9
+      verseYV: GEN.10
+    - titleCh: 詩篇 107
+      titleEn: Psalms 107
+      verseBG: Psalms.107
+      verseYV: PSA.107
+
+  - index: 108
+    verses:
+    - titleCh: 創世記 11.10-26
+      titleEn: Genesis 11.10-26
+      verseBG: Genesis.11.10-26
+      verseYV: GEN.11
+    - titleCh: 詩篇 108
+      titleEn: Psalms 108
+      verseBG: Psalms.108
+      verseYV: PSA.108
+
+  - index: 109
+    verses:
+    - titleCh:  
+      titleEn: 
+      verseBG: 
+      verseYV: 
+    - titleCh: 詩篇 109
+      titleEn: Psalms 109
+      verseBG: Psalms.109
+      verseYV: PSA.109
+
+  - index: 110
+    verses:
+    - titleCh: 創世記 11.27-12.20
+      titleEn: Genesis 11.27-12.20
+      verseBG: Genesis.11.27-12.20
+      verseYV: GEN.11
+    - titleCh: 詩篇 110
+      titleEn: Psalms 110
+      verseBG: Psalms.110
+      verseYV: PSA.110
+
+  - index: 111
+    verses:
+    - titleCh: 創世記 13-14
+      titleEn: Genesis 13-14
+      verseBG: Genesis.13-14
+      verseYV: GEN.13
+    - titleCh: 詩篇 111
+      titleEn: Psalms 111
+      verseBG: Psalms.111
+      verseYV: PSA.111
+
+  - index: 112
+    verses:
+    - titleCh: 創世記 15-16
+      titleEn: Genesis 15-16
+      verseBG: Genesis.15-16
+      verseYV: GEN.15
+    - titleCh: 詩篇 112
+      titleEn: Psalms 112
+      verseBG: Psalms.112
+      verseYV: PSA.112
+
+  - index: 113
+    verses:
+    - titleCh: 
+      titleEn: 
+      verseBG: 
+      verseYV: 
+    - titleCh: 詩篇 113
+      titleEn: Psalms 113
+      verseBG: Psalms.113
+      verseYV: PSA.113
+
 ---
