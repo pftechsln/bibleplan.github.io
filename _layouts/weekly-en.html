@@ -4,13 +4,22 @@ title: {{ site.name }}
 language: English
 ---
 
+<div>{{ page.cycle }}</div> 
+{%- assign cycle = page.cycle -%}
 {%- assign lastWeek = page.weekNum | minus:"1" -%}
 {%- assign nextWeek = page.weekNum | plus:"1" -%}
-{%- assign lastLink = "/en/guide/wk" | append:lastWeek | append:".html" -%}
-{%- assign nextLink = "/en/guide/wk" | append:nextWeek | append:".html" -%}
+
+{%- if cycle == '2020' -%}
+  {%- assign lastLink = "/en/guide/2020/wk" | append:lastWeek | append:".html" -%}
+  {%- assign nextLink = "/en/guide/2020/wk" | append:nextWeek | append:".html" -%}
+{%- else -%}
+  {%- assign lastLink = "/en/guide/wk" | append:lastWeek | append:".html" -%}
+  {%- assign nextLink = "/en/guide/wk" | append:nextWeek | append:".html" -%}
+{%- endif -%}
+
 {%- assign filter = page.weekNum -%}
 {%- assign chUrl = page.permalink | replace_first: "/en/", "/" -%}
-{%- assign cycle = page.cycle -%}
+
 
 {%- assign thisWeek = site.posts | where: "weekNum", filter | sort: "date" -%}
 {%- assign thisWeek = thisWeek | where: "categories", "daily" | sort: "date" -%}
