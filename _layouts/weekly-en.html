@@ -24,7 +24,7 @@ language: English
 {%- assign thisWeek = thisWeek | where: "categories", "daily" | sort: "date" -%}
 {%- assign thisWeek = thisWeek | where_exp: "item", "item.language == 'English'" -%}
 
-{%- if cycle == '2020' -%}
+{%- if cycle == 2020 -%}
   {%- assign thisWeek = thisWeek | where_exp: "item", "item.cycle == 2020" -%}
 {%- endif -%}
 
@@ -42,7 +42,7 @@ language: English
     {%- if pageExists > 0 -%}
       <th colspan="2"><a href="{{ nextLink | append: '#top' }}">Next &#187;</a></th>
     {%- else -%}
-      <th>Next &#187;</th>
+      <th colspan="2">Next &#187;</th>
     {%- endif -%}
   </tr>
   </thead>
