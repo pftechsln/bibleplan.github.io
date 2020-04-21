@@ -10,10 +10,15 @@ language: English
 {%- assign nextLink = "/en/guide/wk" | append:nextWeek | append:".html" -%}
 {%- assign filter = page.weekNum -%}
 {%- assign chUrl = page.permalink | replace_first: "/en/", "/" -%}
+{%- assign cycle = page.cycle -%}
 
 {%- assign thisWeek = site.posts | where: "weekNum", filter | sort: "date" -%}
 {%- assign thisWeek = thisWeek | where: "categories", "daily" | sort: "date" -%}
 {%- assign thisWeek = thisWeek | where_exp: "item", "item.language == 'English'" -%}
+
+{%- if cycle == 2020 -%}
+  {%- assign thisWeek = thisWeek | where_exp: "cycle", cycle -%}
+{%- endif -%}
 
 <p>
 <table style="display: table;">
