@@ -4,12 +4,11 @@ title: {{ site.name }}
 language: English
 ---
 
-<div>{{ page.cycle }}</div> 
 {%- assign cycle = page.cycle -%}
 {%- assign lastWeek = page.weekNum | minus:"1" -%}
 {%- assign nextWeek = page.weekNum | plus:"1" -%}
 
-{%- if cycle == '2020' -%}
+{%- if cycle == 2020 -%}
   {%- assign lastLink = "/en/guide/2020/wk" | append:lastWeek | append:".html" -%}
   {%- assign nextLink = "/en/guide/2020/wk" | append:nextWeek | append:".html" -%}
 {%- else -%}
@@ -26,7 +25,7 @@ language: English
 {%- assign thisWeek = thisWeek | where_exp: "item", "item.language == 'English'" -%}
 
 {%- if cycle == '2020' -%}
-  {%- assign thisWeek = thisWeek | where_exp: "item", "item.cycle == '2020'" -%}
+  {%- assign thisWeek = thisWeek | where_exp: "item", "item.cycle == 2020" -%}
 {%- endif -%}
 
 <p>
