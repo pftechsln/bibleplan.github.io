@@ -11,6 +11,6 @@ auther: Zhuolin
 
 昨天兒子要我跟他一起聼一首贊美詩歌，其中有一句是這樣的：I will throw my weakness into your greatness。是的，在這風暴裏，我要將自己的軟弱和破碎，投進神的完美和偉大中。  
 
-孩子學校今年的主題經文，引用的是詩篇107:2，“Let the redeemed of the lord tell their story”–愿耶和華的贖民講述他們的故事。如果這西雅圖的瘟疫有什麽不同，就讓它成爲神的贖民用信靠所寫成的故事。阿門  
+孩子學校今年的主題經文，引用的是詩篇107:2，“Let the redeemed of the lord tell their story” –- 愿耶和華的贖民講述他們的故事。如果這西雅圖的瘟疫有什麽不同，就讓它成爲神的贖民用信靠所寫成的故事。阿門!
 
 `2020-03-14 琢琳`
