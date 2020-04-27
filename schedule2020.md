@@ -1237,4 +1237,81 @@ plan:
       verseBG: Psalms.112
       verseYV: PSA.112
 
+  - index: 113
+    verses:
+    - titleCh: 創世記 17
+      titleEn: Genesis 17
+      verseBG: Genesis.17
+      verseYV: GEN.17
+    - titleCh: 詩篇 113
+      titleEn: Psalms 113
+      verseBG: Psalms.113
+      verseYV: PSA.113
+
+  - index: 114
+    verses:
+    - titleCh: 創世記 18.1-15
+      titleEn: Genesis 18.1-15
+      verseBG: Genesis.18.1-15
+      verseYV: GEN.18
+    - titleCh: 詩篇 114
+      titleEn: Psalms 114
+      verseBG: Psalms.114
+      verseYV: PSA.114
+
+  - index: 115
+    verses:
+    - titleCh: 創世記 18.16-19.38
+      titleEn: Genesis 18.16-19.38
+      verseBG: Genesis.18.16-19.38
+      verseYV: GEN.18
+    - titleCh: 詩篇 115
+      titleEn: Psalms 115
+      verseBG: Psalms.115
+      verseYV: PSA.115
+
+  - index: 116
+    verses:
+    - titleCh: 創世記 20-21
+      titleEn: Genesis 20-21
+      verseBG: Genesis.20-21
+      verseYV: GEN.20
+    - titleCh: 詩篇 116
+      titleEn: Psalms 116
+      verseBG: Psalms.116
+      verseYV: PSA.116
+
+  - index: 117
+    verses:
+    - titleCh: 創世記 22-23
+      titleEn: Genesis 22-23
+      verseBG: Genesis.22-23
+      verseYV: GEN.22
+    - titleCh: 詩篇 117
+      titleEn: Psalms 117
+      verseBG: Psalms.117
+      verseYV: PSA.117
+
+  - index: 118
+    verses:
+    - titleCh: 創世記 24-25.11
+      titleEn: Genesis 24-25.11
+      verseBG: Genesis.24-25.11
+      verseYV: GEN.24
+    - titleCh: 詩篇 118
+      titleEn: Psalms 118
+      verseBG: Psalms.118
+      verseYV: PSA.118
+
+  - index: 119
+    verses:
+    - titleCh:  
+      titleEn: 
+      verseBG: 
+      verseYV: 
+    - titleCh: 詩篇 119.1-16
+      titleEn: Psalms 119.1-16
+      verseBG: Psalms.119.1-16
+      verseYV: PSA.119.1-16
+
 ---
