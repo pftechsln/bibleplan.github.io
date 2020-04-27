@@ -13,4 +13,4 @@ auther: Zhuolin
 
 孩子學校今年的主題經文，引用的是詩篇107:2，“Let the redeemed of the lord tell their story”–愿耶和華的贖民講述他們的故事。如果這西雅圖的瘟疫有什麽不同，就讓它成爲神的贖民用信靠所寫成的故事。阿門  
 
-`Zhuolin`
+`2020-03-14 琢琳`
