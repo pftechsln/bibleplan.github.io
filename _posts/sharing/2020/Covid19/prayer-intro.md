@@ -1,5 +1,5 @@
 ---
-title: "疫情中的禱告: "
+title: "疫情中的禱告 Prayer amidst the Pandemic"
 permalink: /sharing/covid19/zhuolin/prayer-intro.html
 auther: Zhuolin
 ---
