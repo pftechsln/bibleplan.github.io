@@ -1314,4 +1314,81 @@ plan:
       verseBG: Psalms.119.1-16
       verseYV: PSA.119.1-16
 
+  - index: 120
+    verses:
+    - titleCh: 創世記 25.12-18
+      titleEn: Genesis 25.12-18
+      verseBG: Genesis.25.12-18
+      verseYV: GEN.25
+    - titleCh: 詩篇 119.17-32
+      titleEn: Psalms 119.17-32
+      verseBG: Psalms.119.17-32
+      verseYV: PSA.119.17-32
+
+  - index: 121
+    verses:
+    - titleCh: 創世記 25.19-26.35
+      titleEn: Genesis 25.19-26.35
+      verseBG: Genesis.25.19-26.35
+      verseYV: GEN.25
+    - titleCh: 詩篇 詩篇 119.33-48
+      titleEn: Psalms 119.33-48
+      verseBG: Psalms.119.33-48
+      verseYV: PSA.119.33-48
+
+  - index: 122
+    verses:
+    - titleCh: 創世記 27-28
+      titleEn: Genesis 27-28
+      verseBG: Genesis.27-28
+      verseYV: GEN.27
+    - titleCh: 詩篇 119.49-64
+      titleEn: Psalms 119.49-64
+      verseBG: Psalms.119.49-64
+      verseYV: PSA.119.49-64
+
+  - index: 123
+    verses:
+    - titleCh: 創世記 29-31
+      titleEn: Genesis 29-31
+      verseBG: Genesis.29-31
+      verseYV: GEN.29
+    - titleCh: 詩篇 119.65-80
+      titleEn: Psalms 119.65-80
+      verseBG: Psalms.119.65-80
+      verseYV: PSA.119.65-80
+
+  - index: 124
+    verses:
+    - titleCh: 創世記 32-33
+      titleEn: Genesis 32-33
+      verseBG: Genesis.32-33
+      verseYV: GEN.32
+    - titleCh: 詩篇 119.81-96
+      titleEn: Psalms 119.81-96
+      verseBG: Psalms.119.81-96
+      verseYV: PSA.119.81-96
+
+  - index: 24
+    verses:
+    - titleCh: 創世記 34-35
+      titleEn: Genesis 34-35
+      verseBG: Genesis.34-35
+      verseYV: GEN.34
+    - titleCh: 詩篇 24
+      titleEn: Psalms 24
+      verseBG: Psalms.24
+      verseYV: PSA.24
+
+  - index: 125
+    verses:
+    - titleCh:  
+      titleEn: 
+      verseBG: 
+      verseYV: 
+    - titleCh: 詩篇 119.97-112
+      titleEn: Psalms 119.97-112
+      verseBG: Psalms.119.97-112
+      verseYV: PSA.119.97-112
+
 ---
