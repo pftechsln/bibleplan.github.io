@@ -1369,26 +1369,26 @@ plan:
       verseBG: Psalms.119.81-96
       verseYV: PSA.119.81-96
 
-  - index: 24
+  - index: 125
     verses:
     - titleCh: 創世記 34-35
       titleEn: Genesis 34-35
       verseBG: Genesis.34-35
       verseYV: GEN.34
-    - titleCh: 詩篇 24
-      titleEn: Psalms 24
-      verseBG: Psalms.24
-      verseYV: PSA.24
+    - titleCh: 詩篇 119.97-112
+      titleEn: Psalms 119.97-112
+      verseBG: Psalms.119.97-112
+      verseYV: PSA.119.97-112
 
-  - index: 125
+  - index: 126
     verses:
     - titleCh:  
       titleEn: 
       verseBG: 
       verseYV: 
-    - titleCh: 詩篇 119.97-112
-      titleEn: Psalms 119.97-112
-      verseBG: Psalms.119.97-112
-      verseYV: PSA.119.97-112
+    - titleCh: 詩篇 119.113-128
+      titleEn: Psalms 119.113-128
+      verseBG: Psalms.119.113-128
+      verseYV: PSA.119.113-128
 
 ---
