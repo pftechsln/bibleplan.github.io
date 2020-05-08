@@ -15,11 +15,14 @@ auther: Zhuolin
 
 `2020-03-14 琢琳`
 
-<details><summary><a href="https://bibleplan.github.io/sharing/covid19/zhuolin/week1prayers.html">第1週 第1天</a></summary>
-   <a href="https://bibleplan.github.io/sharing/covid19/zhuolin/wk1-day1-prayers.html">第1天</a><br/>
-   <a href="https://bibleplan.github.io/sharing/covid19/zhuolin/wk1-day2-prayers.html">第2天</a><br/>
-   <a href="https://bibleplan.github.io/sharing/covid19/zhuolin/wk1-day3-prayers.html">第3天</a><br/>
-   <a href="https://bibleplan.github.io/sharing/covid19/zhuolin/wk1-day4-prayers.html">第4天</a><br/>
-   <a href="https://bibleplan.github.io/sharing/covid19/zhuolin/wk1-day5-prayers.html">第5天</a><br/>
-   <a href="https://bibleplan.github.io/sharing/covid19/zhuolin/wk1-day6-prayers.html">第6天</a>
+<details>
+   <summary>
+      <a href="https://bibleplan.github.io/sharing/covid19/zhuolin/week1prayers.html">第1週</a>
+   </summary>
+   <a href="https://bibleplan.github.io/sharing/covid19/zhuolin/wk1-day1-prayer.html">第1天</a><br/>
+   <a href="https://bibleplan.github.io/sharing/covid19/zhuolin/wk1-day2-prayer.html">第2天</a><br/>
+   <a href="https://bibleplan.github.io/sharing/covid19/zhuolin/wk1-day3-prayer.html">第3天</a><br/>
+   <a href="https://bibleplan.github.io/sharing/covid19/zhuolin/wk1-day4-prayer.html">第4天</a><br/>
+   <a href="https://bibleplan.github.io/sharing/covid19/zhuolin/wk1-day5-prayer.html">第5天</a><br/>
+   <a href="https://bibleplan.github.io/sharing/covid19/zhuolin/wk1-day6-prayer.html">第6天</a>
 </details>
