@@ -65,3 +65,4 @@
 　<a href="https://bibleplan.github.io/sharing/covid19/zhuolin/wk8-day3-prayer.html">第3天: 邪淫的罪</a><br/>
 　<a href="https://bibleplan.github.io/sharing/covid19/zhuolin/wk8-day4-prayer.html">第4天: 不能侍奉</a><br/>
 　<a href="https://bibleplan.github.io/sharing/covid19/zhuolin/wk8-day5-prayer.html">第5天: 以神的忌邪為心</a><br/>
+　<a href="https://bibleplan.github.io/sharing/covid19/zhuolin/wk8-day6-prayer.html">第6天: 聘你永遠歸我</a><br/>
