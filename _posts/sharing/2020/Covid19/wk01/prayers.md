@@ -1,6 +1,6 @@
 ---
 title: "疫情中的禱告 Prayer amidst the Pandemic"
-permalink: /sharing/covid19/zhuolin/prayer-intro.html
+permalink: /sharing/covid19/zhuolin/prayers.html
 auther: Zhuolin
 ---
 ## 瘟疫中的禱告 Prayer amidst the Pandemic  
