@@ -14,3 +14,14 @@ auther: Zhuolin
 孩子學校今年的主題經文，引用的是詩篇107:2，“Let the redeemed of the lord tell their story” –- 愿耶和華的贖民講述他們的故事。如果這西雅圖的瘟疫有什麽不同，就讓它成爲神的贖民用信靠所寫成的故事。阿門!
 
 `2020-03-14 琢琳`
+
+<details><summary><a href="https://bibleplan.github.io/sharing/covid19/zhuolin/week1prayers.html">第1週 第1天</a></summary>
+ <details>
+   <a href="https://bibleplan.github.io/sharing/covid19/zhuolin/wk1-day1-prayers.html">第1天</a>
+   <a href="https://bibleplan.github.io/sharing/covid19/zhuolin/wk1-day2-prayers.html">第2天</a>
+   <a href="https://bibleplan.github.io/sharing/covid19/zhuolin/wk1-day3-prayers.html">第3天</a>
+   <a href="https://bibleplan.github.io/sharing/covid19/zhuolin/wk1-day4-prayers.html">第4天</a>
+   <a href="https://bibleplan.github.io/sharing/covid19/zhuolin/wk1-day5-prayers.html">第5天</a>
+   <a href="https://bibleplan.github.io/sharing/covid19/zhuolin/wk1-day6-prayers.html">第6天</a>
+  </details>
+</details>
