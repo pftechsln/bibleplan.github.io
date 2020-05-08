@@ -17,7 +17,7 @@
 　<a href="https://bibleplan.github.io/sharing/covid19/zhuolin/wk1-day4-prayer.html">第4天: 以利！以利! 拉馬撒巴各大尼？</a><br/>
 　<a href="https://bibleplan.github.io/sharing/covid19/zhuolin/wk1-day5-prayer.html">第5天: 忍耐盼望</a><br/>
 　<a href="https://bibleplan.github.io/sharing/covid19/zhuolin/wk1-day6-prayer.html">第6天: 被揀選的僕人</a><br/>
-<b><a href="https://bibleplan.github.io/sharing/covid19/zhuolin/week2-prayer.html">第2週: El Roi – 祂是看顧人的神</a><br/>
+<b><a href="https://bibleplan.github.io/sharing/covid19/zhuolin/week2-prayer.html">第2週: El Roi – 祂是看顧人的神</a></b><br/>
 　<a href="https://bibleplan.github.io/sharing/covid19/zhuolin/wk2-day1-prayer.html">第1天: 祂看見過去</a><br/>
 　<a href="https://bibleplan.github.io/sharing/covid19/zhuolin/wk2-day2-prayer.html">第2天: 祂看見現在</a><br/>
 　<a href="https://bibleplan.github.io/sharing/covid19/zhuolin/wk2-day3-prayer.html">第3天: 祂看見未來</a><br/>
