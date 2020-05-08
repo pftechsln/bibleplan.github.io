@@ -1,8 +1,3 @@
----
-title: "疫情中的禱告 Prayer amidst the Pandemic"
-permalink: /sharing/covid19/zhuolin/prayers.html
-auther: Zhuolin
----
 ## 瘟疫中的禱告 Prayer amidst the Pandemic  
 
 >"Let the redeemed of the Lord tell their story.“ Psalm 107:2  
