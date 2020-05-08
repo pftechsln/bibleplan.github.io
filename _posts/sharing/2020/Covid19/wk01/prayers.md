@@ -15,7 +15,7 @@ auther: Zhuolin
 
 `2020-03-14 琢琳`
 
-<b><a href="https://bibleplan.github.io/sharing/covid19/zhuolin/week1prayers.html">第1週</a></b>
+<b><a href="https://bibleplan.github.io/sharing/covid19/zhuolin/week1-prayer.html">第1週</a></b>
 <a href="https://bibleplan.github.io/sharing/covid19/zhuolin/wk1-day1-prayer.html">第1天</a>
 <a href="https://bibleplan.github.io/sharing/covid19/zhuolin/wk1-day2-prayer.html">第2天</a>
 <a href="https://bibleplan.github.io/sharing/covid19/zhuolin/wk1-day3-prayer.html">第3天</a>
