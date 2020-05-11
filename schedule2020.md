@@ -1391,4 +1391,81 @@ plan:
       verseBG: Psalms.119.113-128
       verseYV: PSA.119.113-128
 
+  - index: 127
+    verses:
+    - titleCh: 創世記 36.1-37.1
+      titleEn: Genesis 36.1-37.1
+      verseBG: Genesis.36.1-37.1
+      verseYV: GEN.36
+    - titleCh: 詩篇 119.129-144
+      titleEn: Psalms 119.129-144
+      verseBG: Psalms.119.129-144
+      verseYV: PSA.119.129-144
+
+  - index: 128
+    verses:
+    - titleCh: 創世記 37.2-38.30
+      titleEn: Genesis 37.2-38.30
+      verseBG: Genesis.37.2-38.30
+      verseYV: GEN.37
+    - titleCh: 詩篇 119.145-160
+      titleEn: Psalms 119.145-160
+      verseBG: Psalms.119.145-160
+      verseYV: PSA.119.145-160
+
+  - index: 129
+    verses:
+    - titleCh: 創世記 39-40
+      titleEn: Genesis 39-40
+      verseBG: Genesis.39-40
+      verseYV: GEN.39
+    - titleCh: 詩篇 119.161-176
+      titleEn: Psalms 119.161-176
+      verseBG: Psalms.119.161-176
+      verseYV: PSA.119.161-176
+
+  - index: 130
+    verses:
+    - titleCh: 創世記 41-42
+      titleEn: Genesis 41-42
+      verseBG: Genesis.41-42
+      verseYV: GEN.41
+    - titleCh: 詩篇 120
+      titleEn: Psalms 120
+      verseBG: Psalms.120
+      verseYV: PSA.120
+
+  - index: 131
+    verses:
+    - titleCh: 創世記 43-44
+      titleEn: Genesis 43-44
+      verseBG: Genesis.43-44
+      verseYV: GEN.43
+    - titleCh: 詩篇 121
+      titleEn: Psalms 121
+      verseBG: Psalms.121
+      verseYV: PSA.121
+
+  - index: 132
+    verses:
+    - titleCh: 創世記 45-46
+      titleEn: Genesis 45-46
+      verseBG: Genesis.45-46
+      verseYV: GEN.45
+    - titleCh: 詩篇 122
+      titleEn: Psalms 122
+      verseBG: Psalms.122
+      verseYV: PSA.31
+
+  - index: 133
+    verses:
+    - titleCh:  
+      titleEn: 
+      verseBG: 
+      verseYV: 
+    - titleCh: 詩篇 123
+      titleEn: Psalms 123
+      verseBG: Psalms.123
+      verseYV: PSA.123
+
 ---
