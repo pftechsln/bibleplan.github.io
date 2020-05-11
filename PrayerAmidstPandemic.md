@@ -67,3 +67,4 @@
 　<a href="https://bibleplan.github.io/sharing/covid19/zhuolin/wk8-day5-prayer.html">第5天: 以神的忌邪為心</a><br/>
 　<a href="https://bibleplan.github.io/sharing/covid19/zhuolin/wk8-day6-prayer.html">第6天: 聘你永遠歸我</a><br/>
 <b><a href="https://bibleplan.github.io/sharing/covid19/zhuolin/week9-prayer.html">第9週: QEDOSH YISRAEL– 以色列的聖者</a></b><br/>
+　[第1天: 聖哉聖哉聖哉](https://bibleplan.github.io/sharing/covid19/zhuolin/wk9-day1-prayer.html)<br/>
