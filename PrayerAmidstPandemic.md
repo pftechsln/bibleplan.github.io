@@ -69,3 +69,4 @@
 [**第9週: QEDOSH YISRAEL– 以色列的聖者**](https://bibleplan.github.io/sharing/covid19/zhuolin/week9-prayer.html)<br/>
 　[第1天: 聖哉聖哉聖哉](https://bibleplan.github.io/sharing/covid19/zhuolin/wk9-day1-prayer.html)<br/>
 　[第2天: 神的聖者](https://bibleplan.github.io/sharing/covid19/zhuolin/wk9-day2-prayer.html)<br/>
+　[第3天: 藉著聖靈得以聖潔](https://bibleplan.github.io/sharing/covid19/zhuolin/wk9-day3-prayer.html)<br/>
