@@ -71,4 +71,5 @@
 　[第2天: 神的聖者](https://bibleplan.github.io/sharing/covid19/zhuolin/wk9-day2-prayer.html)<br/>
 　[第3天: 藉著聖靈得以聖潔](https://bibleplan.github.io/sharing/covid19/zhuolin/wk9-day3-prayer.html)<br/>
 　[第4天: 成爲聖潔](https://bibleplan.github.io/sharing/covid19/zhuolin/wk9-day4-prayer.html)<br/>
-　[第4天: 莫以黑暗為光明](https://bibleplan.github.io/sharing/covid19/zhuolin/wk9-day5-prayer.html)<br/>
+　[第5天: 莫以黑暗為光明](https://bibleplan.github.io/sharing/covid19/zhuolin/wk9-day5-prayer.html)<br/>
+　[第6天: 愛世界與愛神無法兼得](https://bibleplan.github.io/sharing/covid19/zhuolin/wk9-day6-prayer.html)<br/>
