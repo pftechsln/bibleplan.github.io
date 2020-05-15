@@ -1,6 +1,6 @@
-## 瘟疫中的禱告 Prayer amidst the Pandemic  
+## 瘟疫中的禱告 Prayer amidst the Pandemic (Zhuolin)
 
->"Let the redeemed of the Lord tell their story.“ Psalm 107:2  
+>"Let the redeemed of the Lord tell their story." Psalm 107:2  
 
 忽然之間，瘟疫就逼近了我們。兩個月前為武漢的人們禱告，為他們嘆息，為他們流淚，求主給那裏的弟兄姐妹加添力量。忽然閒，這一切就臨到了我們的頭上。人們説，西雅圖是美國的武漢，武漢所犯的錯誤，已經在西雅圖重演；人們說，西雅圖會重蹈武漢的覆轍，我們將同樣經歷痛苦掙扎，同樣面對死亡陰霾。當事態升級的時候，我一度平安的心，也終於在這迫近的風暴中開始動蕩。神用這瘟疫，讓我看到自己不過是軟弱，不過是破碎。  
 
