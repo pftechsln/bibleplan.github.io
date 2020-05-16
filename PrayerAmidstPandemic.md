@@ -73,3 +73,4 @@
 　[第4天: 成爲聖潔](https://bibleplan.github.io/sharing/covid19/zhuolin/wk9-day4-prayer.html)<br/>
 　[第5天: 莫以黑暗為光明](https://bibleplan.github.io/sharing/covid19/zhuolin/wk9-day5-prayer.html)<br/>
 　[第6天: 愛世界與愛神無法兼得](https://bibleplan.github.io/sharing/covid19/zhuolin/wk9-day6-prayer.html)<br/>
+[**EL OLAM – 永生神](https://bibleplan.github.io/sharing/covid19/zhuolin/week10-prayer.html)<br/>
