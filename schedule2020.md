@@ -1468,4 +1468,81 @@ plan:
       verseBG: Psalms.123
       verseYV: PSA.123
 
+  - index: 134
+    verses:
+    - titleCh: 創世記 47-48
+      titleEn: Genesis 47-48
+      verseBG: Genesis.47-48
+      verseYV: GEN.47
+    - titleCh: 詩篇 124
+      titleEn: Psalms 124
+      verseBG: Psalms.124
+      verseYV: PSA.124
+
+  - index: 135
+    verses:
+    - titleCh: 創世記 49-50
+      titleEn: Genesis 49-50
+      verseBG: Genesis.49-50
+      verseYV: GEN.49
+    - titleCh: 詩篇 125
+      titleEn: Psalms 125
+      verseBG: Psalms.125
+      verseYV: PSA.125
+
+  - index: 136
+    verses:
+    - titleCh: 出埃及記  1-2
+      titleEn: Exodus 1-2
+      verseBG: Exodus.1-2
+      verseYV: EXO.1
+    - titleCh: 詩篇 126
+      titleEn: Psalms 126
+      verseBG: Psalms.126
+      verseYV: PSA.126
+
+  - index: 137
+    verses:
+    - titleCh: 出埃及記   3-4
+      titleEn: Exodus  3-4
+      verseBG: Exodus. 3-4
+      verseYV: EXO. 3
+    - titleCh: 詩篇 127
+      titleEn: Psalms 127
+      verseBG: Psalms.127
+      verseYV: PSA.127
+
+  - index: 138
+    verses:
+    - titleCh: 出埃及記  5.1-6.27
+      titleEn: Exodus 5.1-6.27
+      verseBG: Exodus.5.1-6.27
+      verseYV: EXO.5
+    - titleCh: 詩篇 128
+      titleEn: Psalms 128
+      verseBG: Psalms.128
+      verseYV: PSA.128
+
+  - index: 139
+    verses:
+    - titleCh: 出埃及記  6.28-9.35
+      titleEn: Exodus 6.28-9.35
+      verseBG: Exodus.6.28-9.35
+      verseYV: EXO.6
+    - titleCh: 詩篇 129
+      titleEn: Psalms 129
+      verseBG: Psalms.129
+      verseYV: PSA.129
+
+  - index: 140
+    verses:
+    - titleCh:  
+      titleEn: 
+      verseBG: 
+      verseYV: 
+    - titleCh: 詩篇 130
+      titleEn: Psalms 130
+      verseBG: Psalms.130
+      verseYV: PSA.130
+
 ---
