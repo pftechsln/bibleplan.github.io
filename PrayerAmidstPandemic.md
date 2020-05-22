@@ -79,3 +79,4 @@
 　[第3天: 不變的永恆](https://bibleplan.github.io/sharing/covid19/zhuolin/wk10-day3-prayer.html)<br/>
 　[第4天: 神的名](https://bibleplan.github.io/sharing/covid19/zhuolin/wk10-day4-prayer.html)<br/>
 　[第5天: 永生的渴望](https://bibleplan.github.io/sharing/covid19/zhuolin/wk10-day5-prayer.html)<br/>
+　[第5天: 永生的得來](https://bibleplan.github.io/sharing/covid19/zhuolin/wk10-day6-prayer.html)<br/>
