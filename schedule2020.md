@@ -1551,10 +1551,10 @@ plan:
       titleEn: Exodus 10-11
       verseBG: Exodus.10-11
       verseYV: EXO.10
-    - titleCh: 詩篇 141
-      titleEn: Psalms 141
-      verseBG: Psalms.141
-      verseYV: PSA.141
+    - titleCh: 詩篇 131
+      titleEn: Psalms 131
+      verseBG: Psalms.131
+      verseYV: PSA.131
 
   - index: 142
     verses:
