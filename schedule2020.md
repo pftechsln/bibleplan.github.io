@@ -1562,10 +1562,10 @@ plan:
       titleEn: Exodus 12.1-30
       verseBG: Exodus.12.1-30
       verseYV: EXO.12
-    - titleCh: 詩篇 142
-      titleEn: Psalms 142
-      verseBG: Psalms.142
-      verseYV: PSA.142
+    - titleCh: 詩篇 132
+      titleEn: Psalms 132
+      verseBG: Psalms.132
+      verseYV: PSA.132
 
   - index: 143
     verses:
@@ -1573,10 +1573,10 @@ plan:
       titleEn: Exodus 12.31-14.31
       verseBG: Exodus.12.31-14.31
       verseYV: EXO.12
-    - titleCh: 詩篇 143
-      titleEn: Psalms 143
-      verseBG: Psalms.143
-      verseYV: PSA.143
+    - titleCh: 詩篇 133
+      titleEn: Psalms 133
+      verseBG: Psalms.133
+      verseYV: PSA.133
 
   - index: 144
     verses:
@@ -1584,10 +1584,10 @@ plan:
       titleEn: Exodus 15.1-21
       verseBG: Exodus.15.1-21
       verseYV: EXO.15
-    - titleCh: 詩篇 144
-      titleEn: Psalms 144
-      verseBG: Psalms.144
-      verseYV: PSA.144
+    - titleCh: 詩篇 134
+      titleEn: Psalms 134
+      verseBG: Psalms.134
+      verseYV: PSA.134
 
   - index: 145
     verses:
@@ -1595,10 +1595,10 @@ plan:
       titleEn: Exodus 15.22-17.7
       verseBG: Exodus.15.22-17.7
       verseYV: EXO.15
-    - titleCh: 詩篇 145
-      titleEn: Psalms 145
-      verseBG: Psalms.145
-      verseYV: PSA.145
+    - titleCh: 詩篇 135
+      titleEn: Psalms 135
+      verseBG: Psalms.135
+      verseYV: PSA.135
 
   - index: 146
     verses:
@@ -1606,10 +1606,10 @@ plan:
       titleEn: Exodus 17.8-18.27
       verseBG: Exodus.17.8-18.27
       verseYV: EXO.17
-    - titleCh: 詩篇 146
-      titleEn: Psalms 146
-      verseBG: Psalms.146
-      verseYV: PSA.146
+    - titleCh: 詩篇 136
+      titleEn: Psalms 136
+      verseBG: Psalms.136
+      verseYV: PSA.136
 
   - index: 147
     verses:
@@ -1617,9 +1617,9 @@ plan:
       titleEn: 
       verseBG: 
       verseYV: 
-    - titleCh: 詩篇 147
-      titleEn: Psalms 147
-      verseBG: Psalms.147
-      verseYV: PSA.147
+    - titleCh: 詩篇 137
+      titleEn: Psalms 137
+      verseBG: Psalms.137
+      verseYV: PSA.137
 
 ---
