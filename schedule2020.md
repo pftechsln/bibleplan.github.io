@@ -1699,4 +1699,81 @@ plan:
       verseBG: Psalms.144
       verseYV: PSA.144
 
+  - index: 155
+    verses:
+    - titleCh: 出埃及記  30-31
+      titleEn: Exodus 30-31
+      verseBG: Exodus.30-31
+      verseYV: EXO.30
+    - titleCh: 詩篇 145
+      titleEn: Psalms 145
+      verseBG: Psalms.145
+      verseYV: PSA.145
+
+  - index: 156
+    verses:
+    - titleCh: 出埃及記  32-33
+      titleEn: Exodus 32-33
+      verseBG: Exodus.32-33
+      verseYV: EXO.32
+    - titleCh: 詩篇 146
+      titleEn: Psalms 146
+      verseBG: Psalms.146
+      verseYV: PSA.146
+
+  - index: 157
+    verses:
+    - titleCh: 出埃及記  34
+      titleEn: Exodus 34
+      verseBG: Exodus.34
+      verseYV: EXO.34
+    - titleCh: 詩篇 147
+      titleEn: Psalms 147
+      verseBG: Psalms.147
+      verseYV: PSA.147
+
+  - index: 158
+    verses:
+    - titleCh: 出埃及記  35-36
+      titleEn: Exodus 35-36
+      verseBG: Exodus.35-36
+      verseYV: EXO.35
+    - titleCh: 詩篇 148
+      titleEn: Psalms 148
+      verseBG: Psalms.148
+      verseYV: PSA.148
+
+  - index: 159
+    verses:
+    - titleCh: 出埃及記  37-38
+      titleEn: Exodus 37-38
+      verseBG: Exodus.37-38
+      verseYV: EXO.37
+    - titleCh: 詩篇 149
+      titleEn: Psalms 149
+      verseBG: Psalms.149
+      verseYV: PSA.149
+
+  - index: 160
+    verses:
+    - titleCh: 出埃及記  39
+      titleEn: Exodus 39
+      verseBG: Exodus.39
+      verseYV: EXO.39
+    - titleCh: 詩篇 150
+      titleEn: Psalms 150
+      verseBG: Psalms.150
+      verseYV: PSA.150
+
+  - index: 56
+    verses:
+    - titleCh:  
+      titleEn: 
+      verseBG: 
+      verseYV: 
+    - titleCh: 箴言 1
+      titleEn: Proverbs 1
+      verseBG: Proverbs.1
+      verseYV: PRO.1
+
 ---
