@@ -1622,4 +1622,81 @@ plan:
       verseBG: Psalms.137
       verseYV: PSA.137
 
+  - index: 148
+    verses:
+    - titleCh: 出埃及記  19-20
+      titleEn: Exodus 19-20
+      verseBG: Exodus.19-20
+      verseYV: EXO.19
+    - titleCh: 詩篇 138
+      titleEn: Psalms 138
+      verseBG: Psalms.138
+      verseYV: PSA.138
+
+  - index: 149
+    verses:
+    - titleCh: 出埃及記  21-23
+      titleEn: Exodus 21-23
+      verseBG: Exodus.21-23
+      verseYV: EXO.21
+    - titleCh: 詩篇 139
+      titleEn: Psalms 139
+      verseBG: Psalms.139
+      verseYV: PSA.139
+
+  - index: 150
+    verses:
+    - titleCh: 出埃及記  24.1-11
+      titleEn: Exodus 24.1-11
+      verseBG: Exodus.24.1-11
+      verseYV: EXO.24
+    - titleCh: 詩篇 140
+      titleEn: Psalms 140
+      verseBG: Psalms.140
+      verseYV: PSA.140
+
+  - index: 151
+    verses:
+    - titleCh: 出埃及記  24.12-25.40
+      titleEn: Exodus 24.12-25.40
+      verseBG: Exodus.24.12-25.40
+      verseYV: EXO.24
+    - titleCh: 詩篇 141
+      titleEn: Psalms 141
+      verseBG: Psalms.141
+      verseYV: PSA.141
+
+  - index: 152
+    verses:
+    - titleCh: 出埃及記  26-27
+      titleEn: Exodus 26-27
+      verseBG: Exodus.26-27
+      verseYV: EXO.26
+    - titleCh: 詩篇 142
+      titleEn: Psalms 142
+      verseBG: Psalms.142
+      verseYV: PSA.142
+
+  - index: 153
+    verses:
+    - titleCh: 出埃及記  28-29
+      titleEn: Exodus 28-29
+      verseBG: Exodus.28-29
+      verseYV: EXO.28
+    - titleCh: 詩篇 143
+      titleEn: Psalms 143
+      verseBG: Psalms.143
+      verseYV: PSA.143
+
+  - index: 154
+    verses:
+    - titleCh:  
+      titleEn: 
+      verseBG: 
+      verseYV: 
+    - titleCh: 詩篇 144
+      titleEn: Psalms 144
+      verseBG: Psalms.144
+      verseYV: PSA.144
+
 ---
