@@ -324,7 +324,7 @@
   </ul>
  </details>
  <details>
-  <summary>11. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=出埃及記&qs_version=CUVMPT">出埃及記</a> - <a href="https://bibleplan.github.io/daily/wk7-day4-daily.html">盟約律法</a></summary>
+  <summary>11. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=出埃及記&qs_version=CUVMPT">出埃及記19-20</a> - <a href="https://bibleplan.github.io/daily/wk7-day4-daily.html">盟約律法</a></summary>
   <ul>
    <li>出19-20章講述以色列人出埃及滿三個月後，神與他們立約，頒布十誡，並指教祭壇的條例。</li>
    <li>在西乃山下，神與他們立約，提醒他們記念神的救贖與帶領，要他們事奉神，做祭司的國度，聖潔的國民。</li>
