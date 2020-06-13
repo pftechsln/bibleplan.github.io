@@ -1765,7 +1765,7 @@ plan:
       verseBG: Psalms.150
       verseYV: PSA.150
 
-  - index: 56
+  - index: 161
     verses:
     - titleCh:  
       titleEn: 
@@ -1775,5 +1775,82 @@ plan:
       titleEn: Proverbs 1
       verseBG: Proverbs.1
       verseYV: PRO.1
+
+  - index: 162
+    verses:
+    - titleCh: 出埃及記  40
+      titleEn: Exodus 40
+      verseBG: Exodus.40
+      verseYV: EXO.40
+    - titleCh: 箴言 2
+      titleEn: Proverbs 2
+      verseBG: Proverbs.2
+      verseYV: PRO.2
+
+  - index: 163
+    verses:
+    - titleCh: 利未記  1-2
+      titleEn: Leviticus 1-2
+      verseBG: Leviticus.1-2
+      verseYV: LEV.1
+    - titleCh: 箴言 3
+      titleEn: Proverbs 3
+      verseBG: Proverbs.3
+      verseYV: PRO.3
+
+  - index: 164
+    verses:
+    - titleCh: 利未記  3
+      titleEn: Leviticus 3
+      verseBG: Leviticus.3
+      verseYV: LEV.3
+    - titleCh: 箴言 4
+      titleEn: Proverbs 4
+      verseBG: Proverbs.4
+      verseYV: PRO.4
+
+  - index: 165
+    verses:
+    - titleCh: 利未記  4.1-5.13
+      titleEn: Leviticus 4.1-5.13
+      verseBG: Leviticus.4.1-5.13
+      verseYV: LEV.4
+    - titleCh: 箴言 5
+      titleEn: Proverbs 5
+      verseBG: Proverbs.5
+      verseYV: PRO.5
+
+  - index: 166
+    verses:
+    - titleCh: 利未記  5.14-6.7
+      titleEn: Leviticus 5.14-6.7
+      verseBG: Leviticus.5.14-6.7
+      verseYV: LEV.5
+    - titleCh: 箴言 6
+      titleEn: Proverbs 6
+      verseBG: Proverbs.6
+      verseYV: PRO.6
+
+  - index: 167
+    verses:
+    - titleCh: 利未記  6.8-7.38
+      titleEn: Leviticus 6.8-7.38
+      verseBG: Leviticus.6.8-7.38
+      verseYV: LEV.6
+    - titleCh: 箴言 7
+      titleEn: Proverbs 7
+      verseBG: Proverbs.7
+      verseYV: PRO.7
+
+  - index: 168
+    verses:
+    - titleCh:  
+      titleEn: 
+      verseBG: 
+      verseYV: 
+    - titleCh: 箴言 8
+      titleEn: Proverbs 8
+      verseBG: Proverbs.8
+      verseYV: PRO.8
 
 ---
