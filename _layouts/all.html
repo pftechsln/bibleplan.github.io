@@ -14,8 +14,8 @@ title: {{ site.name }}
 {%- assign allPosts = allPosts | where_exp: "item", "item.cycle != '2020'" -%}
 
 {%- assign weeklyPosts = allPosts | where: "categories", "weekly" | sort: "date" | reverse -%}
-{%- assign dailyPosts = allPosts | where: "categories", "daily" -%}
-{%- assign sharingPosts = allPosts | where: "categories", "sharing" -%}
+{%- assign dailyPosts = allPosts | where_exp: "item", "item.cycle != '2020'" | where: "categories", "daily" -%}
+{%- assign sharingPosts = allPosts | where_exp: "item", "item.cycle != '2020'" | where: "categories", "sharing" -%}
 
 {%- assign bgLink = "https://www.biblegateway.com/passage/?search=" -%}
 
@@ -31,7 +31,7 @@ title: {{ site.name }}
         {%- assign weekNum = post.weekNum -%}
         {%- assign thisWeek = dailyPosts | where: "weekNum", weekNum | sort: "date" -%}
         {%- for dailyPost in thisWeek -%}
-          <li><a href="{{ site.baseurl }}{{ post.url }}">{{ dailyPost.title }} (DEBUG: {{ dailyPost.url }} vs {{ post.url }}; post: {{ post | jsonify }})</a></li>
+          <li><a href="{{ site.baseurl }}{{ dailyPost.url }}">{{ dailyPost.title }} (DEBUG: {{ dailyPost.url }} vs {{ post.url }}; post: {{ post | jsonify }})</a></li>
           
           {%- assign index = weekNum | times:7 -%}
           {%- assign index = index | minus:8 | plus: dailyPost.dayNum -%}
