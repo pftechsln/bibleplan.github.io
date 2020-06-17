@@ -13,6 +13,8 @@ title: {{ site.name }}
 {%- assign allPosts = site.posts | where_exp: "item", "item.language != 'English'" -%}
 {%- assign allPosts = allPosts | where_exp: "item", "item.cycle != '2020'" -%}
 
+{{ item | jsonify }}
+
 {%- assign weeklyPosts = allPosts | where: "categories", "weekly" | sort: "date" | reverse -%}
 {%- assign dailyPosts = allPosts | where: "categories", "daily" -%}
 {%- assign sharingPosts = allPosts | where: "categories", "sharing" -%}
