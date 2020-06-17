@@ -33,7 +33,7 @@ title: {{ site.name }}
         {%- assign weekNum = post.weekNum -%}
         {%- assign thisWeek = dailyPosts | where: "weekNum", weekNum | sort: "date" -%}
         {%- for dailyPost in thisWeek -%}
-          <li><a href="{{ site.baseurl }}{{ dailyPost.url }}">{{ dailyPost.title }}</a></li>
+          <li><a href="{{ site.baseurl }}{{ post.url }}">{{ dailyPost.title }}</a></li>
           
           {%- assign index = weekNum | times:7 -%}
           {%- assign index = index | minus:8 | plus: dailyPost.dayNum -%}
