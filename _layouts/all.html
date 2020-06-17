@@ -13,8 +13,6 @@ title: {{ site.name }}
 {%- assign allPosts = site.posts | where_exp: "item", "item.language != 'English'" -%}
 {%- assign allPosts = allPosts | where_exp: "item", "item.cycle != '2020'" -%}
 
-<h3>DEBUG: cycle - {{ item.cycle }}</h3>
-
 {%- assign weeklyPosts = allPosts | where: "categories", "weekly" | sort: "date" | reverse -%}
 {%- assign dailyPosts = allPosts | where: "categories", "daily" -%}
 {%- assign sharingPosts = allPosts | where: "categories", "sharing" -%}
@@ -33,7 +31,7 @@ title: {{ site.name }}
         {%- assign weekNum = post.weekNum -%}
         {%- assign thisWeek = dailyPosts | where: "weekNum", weekNum | sort: "date" -%}
         {%- for dailyPost in thisWeek -%}
-          <li><a href="{{ site.baseurl }}{{ post.url }}">{{ dailyPost.title }}</a></li>
+          <li><a href="{{ site.baseurl }}{{ post.url }}">{{ dailyPost.title }} (DEBUG: {{ dailyPost.url }} vs {{ post.url }}; post: {{ post | jsonify }})</a></li>
           
           {%- assign index = weekNum | times:7 -%}
           {%- assign index = index | minus:8 | plus: dailyPost.dayNum -%}
