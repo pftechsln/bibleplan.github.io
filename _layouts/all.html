@@ -5,13 +5,13 @@ title: {{ site.name }}
 
 ---
 {%- assign schedulePage = site.pages | where: "layout", "schedule" -%}
+{%- assign schedulePage2020 = site.pages | where: "layout", "schedule" | where: "cycle", "2020" -%}
 
 <a href="/">返回主页</a>
 
 <h2>所有文章</h2>
 
 {%- assign allPosts = site.posts | where_exp: "item", "item.language != 'English'" -%}
-{%- assign allPosts = allPosts | where_exp: "item", "item.cycle != '2020'" -%}
 
 {%- assign weeklyPosts = allPosts | where: "categories", "weekly" | sort: "date" | reverse -%}
 <!-- {%- assign dailyPosts = allPosts | where_exp: "item", "item.cycle != '2020'" | where: "categories", "daily" -%} -->
@@ -37,8 +37,11 @@ title: {{ site.name }}
           
           {%- assign index = weekNum | times:7 -%}
           {%- assign index = index | minus:8 | plus: dailyPost.dayNum -%}
-          {%- assign dailySchedule = schedulePage[0].plan.days[index] -%}
-          
+          {%- if post.cycle == "2020" -%}
+            {%- assign dailySchedule = schedulePage2020[0].plan.days[index] -%}
+          {%- else -%}
+            {%- assign dailySchedule = schedulePage[0].plan.days[index] -%}
+          {%- endif -%}          
           {%- if dailySchedule -%}
             {%- assign bgV2 = dailySchedule.verses[1].verseBG -%}
             {%- assign bgV1 = dailySchedule.verses[0].verseBG -%}
