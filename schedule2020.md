@@ -1853,4 +1853,158 @@ plan:
       verseBG: Proverbs.8
       verseYV: PRO.8
 
+  - index: 169
+    verses:
+    - titleCh: 利未記  8-9
+      titleEn: Leviticus 8-9
+      verseBG: Leviticus.8-9
+      verseYV: LEV.8
+    - titleCh: 箴言 9
+      titleEn: Proverbs 9
+      verseBG: Proverbs.9
+      verseYV: PRO.9
+
+  - index: 170
+    verses:
+    - titleCh: 利未記  10
+      titleEn: Leviticus 10
+      verseBG: Leviticus.10
+      verseYV: LEV.10
+    - titleCh: 箴言 10
+      titleEn: Proverbs 10
+      verseBG: Proverbs.10
+      verseYV: PRO.10
+
+  - index: 171
+    verses:
+    - titleCh: 利未記  11-12
+      titleEn: Leviticus 11-12
+      verseBG: Leviticus.11-12
+      verseYV: LEV.11
+    - titleCh: 箴言 11
+      titleEn: Proverbs 11
+      verseBG: Proverbs.11
+      verseYV: PRO.11
+
+  - index: 172
+    verses:
+    - titleCh: 利未記  13-14
+      titleEn: Leviticus 13-14
+      verseBG: Leviticus.13-14
+      verseYV: LEV.13
+    - titleCh: 箴言 12
+      titleEn: Proverbs 12
+      verseBG: Proverbs.12
+      verseYV: PRO.12
+
+  - index: 173
+    verses:
+    - titleCh: 利未記  15-16
+      titleEn: Leviticus 15-16
+      verseBG: Leviticus.15-16
+      verseYV: LEV.15
+    - titleCh: 箴言 13
+      titleEn: Proverbs 13
+      verseBG: Proverbs.13
+      verseYV: PRO.13
+
+  - index: 174
+    verses:
+    - titleCh: 利未記  17-18
+      titleEn: Leviticus 17-18
+      verseBG: Leviticus.17-18
+      verseYV: LEV.17
+    - titleCh: 箴言 14
+      titleEn: Proverbs 14
+      verseBG: Proverbs.14
+      verseYV: PRO.14
+
+  - index: 175
+    verses:
+    - titleCh:  
+      titleEn: 
+      verseBG: 
+      verseYV: 
+    - titleCh: 箴言 15
+      titleEn: Proverbs 15
+      verseBG: Proverbs.15
+      verseYV: PRO.15
+
+  - index: 176
+    verses:
+    - titleCh: 利未記  19-20
+      titleEn: Leviticus 19-20
+      verseBG: Leviticus.19-20
+      verseYV: LEV.19
+    - titleCh: 箴言 16
+      titleEn: Proverbs 16
+      verseBG: Proverbs.16
+      verseYV: PRO.16
+
+  - index: 177
+    verses:
+    - titleCh: 利未記  21-22
+      titleEn: Leviticus 21-22
+      verseBG: Leviticus.21-22
+      verseYV: LEV.21
+    - titleCh: 箴言 17
+      titleEn: Proverbs 17
+      verseBG: Proverbs.17
+      verseYV: PRO.17
+
+  - index: 178
+    verses:
+    - titleCh: 利未記  23.1-24.9
+      titleEn: Leviticus 23.1-24.9
+      verseBG: Leviticus.23.1-24.9
+      verseYV: LEV.23
+    - titleCh: 箴言 18
+      titleEn: Proverbs 18
+      verseBG: Proverbs.18
+      verseYV: PRO.18
+
+  - index: 179
+    verses:
+    - titleCh: 利未記  24.10-25.55
+      titleEn: Leviticus 24.10-25.55
+      verseBG: Leviticus.24.10-25.55
+      verseYV: LEV.24
+    - titleCh: 箴言 19
+      titleEn: Proverbs 19
+      verseBG: Proverbs.19
+      verseYV: PRO.19
+
+  - index: 180
+    verses:
+    - titleCh: 利未記  26
+      titleEn: Leviticus 26
+      verseBG: Leviticus.26
+      verseYV: LEV.26
+    - titleCh: 箴言 20
+      titleEn: Proverbs 20
+      verseBG: Proverbs.20
+      verseYV: PRO.20
+
+  - index: 181
+    verses:
+    - titleCh: 利未記  27
+      titleEn: Leviticus 27
+      verseBG: Leviticus.27
+      verseYV: LEV.27
+    - titleCh: 箴言 21
+      titleEn: Proverbs 21
+      verseBG: Proverbs.21
+      verseYV: PRO.21
+
+  - index: 182
+    verses:
+    - titleCh:  
+      titleEn: 
+      verseBG: 
+      verseYV: 
+    - titleCh: 箴言 22
+      titleEn: Proverbs 22
+      verseBG: Proverbs.22
+      verseYV: PRO.22
+
 ---
