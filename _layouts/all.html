@@ -41,7 +41,8 @@ title: {{ site.name }}
             {%- assign dailySchedule = schedulePage2020[0].plan.days[index] -%}
           {%- else -%}
             {%- assign dailySchedule = schedulePage[0].plan.days[index] -%}
-          {%- endif -%}          
+          {%- endif -%}         
+          <p>DEBUG===> post.cycle: {{post.cycle}}; dailySchedule:{{dailySchedule}}</p>
           {%- if dailySchedule -%}
             {%- assign bgV2 = dailySchedule.verses[1].verseBG -%}
             {%- assign bgV1 = dailySchedule.verses[0].verseBG -%}
