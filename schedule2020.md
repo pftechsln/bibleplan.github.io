@@ -1996,7 +1996,7 @@ plan:
       verseBG: Proverbs.21
       verseYV: PRO.21
  
- - index: 182
+  - index: 182
     verses:
     - titleCh: 
       titleEn: 
