@@ -1995,24 +1995,24 @@ plan:
       titleEn: Proverbs 21
       verseBG: Proverbs.21
       verseYV: PRO.21
-
-  - index: 182
+ 
+ - index: 182
+    verses:
+    - titleCh: 
+      titleEn: 
+      verseBG: 
+      verseYV: 
+    - titleCh: 箴言 22
+      titleEn: Proverbs 22
+      verseBG: Proverbs.22
+      verseYV: PRO.22
+  
+  - index: 183
     verses:
     - titleCh: 民數記 1-2
       titleEn: Numbers 1-2
       verseBG: Numbers.1-2
       verseYV: NUM.1
-    - titleCh: 箴言 22
-      titleEn: Proverbs 22
-      verseBG: Proverbs.22
-      verseYV: PRO.22
-
-  - index: 183
-    verses:
-    - titleCh: 民數記 3-4
-      titleEn: Numbers 3-4
-      verseBG: Numbers.3-4
-      verseYV: NUM.3
     - titleCh: 箴言 23
       titleEn: Proverbs 23
       verseBG: Proverbs.23
@@ -2020,10 +2020,10 @@ plan:
 
   - index: 184
     verses:
-    - titleCh: 民數記 5-6
-      titleEn: Numbers 5-6
-      verseBG: Numbers.5-6
-      verseYV: NUM.5
+    - titleCh: 民數記 3-4
+      titleEn: Numbers 3-4
+      verseBG: Numbers.3-4
+      verseYV: NUM.3
     - titleCh: 箴言 24
       titleEn: Proverbs 24
       verseBG: Proverbs.24
@@ -2031,10 +2031,10 @@ plan:
 
   - index: 185
     verses:
-    - titleCh: 民數記 7
-      titleEn: Numbers 7
-      verseBG: Numbers.7
-      verseYV: NUM.7
+    - titleCh: 民數記 5-6
+      titleEn: Numbers 5-6
+      verseBG: Numbers.5-6
+      verseYV: NUM.5
     - titleCh: 箴言 25
       titleEn: Proverbs 25
       verseBG: Proverbs.25
@@ -2042,10 +2042,10 @@ plan:
 
   - index: 186
     verses:
-    - titleCh: 民數記 8.1-9.14
-      titleEn: Numbers 8.1-9.14
-      verseBG: Numbers.8.1-9.14
-      verseYV: NUM.8
+    - titleCh: 民數記 7
+      titleEn: Numbers 7
+      verseBG: Numbers.7
+      verseYV: NUM.7
     - titleCh: 箴言 26
       titleEn: Proverbs 26
       verseBG: Proverbs.26
@@ -2053,10 +2053,10 @@ plan:
 
   - index: 187
     verses:
-    - titleCh: 民數記 9.15-10.36
-      titleEn: Numbers 9.15-10.36
-      verseBG: Numbers.9.15-10.36
-      verseYV: NUM.9
+    - titleCh: 民數記 8.1-9.14
+      titleEn: Numbers 8.1-9.14
+      verseBG: Numbers.8.1-9.14
+      verseYV: NUM.8
     - titleCh: 箴言 27
       titleEn: Proverbs 27
       verseBG: Proverbs.27
@@ -2064,13 +2064,24 @@ plan:
 
   - index: 188
     verses:
-    - titleCh:  
-      titleEn: 
-      verseBG: 
-      verseYV: 
+    - titleCh: 民數記 9.15-10.36
+      titleEn: Numbers 9.15-10.36
+      verseBG: Numbers.9.15-10.36
+      verseYV: NUM.9
     - titleCh: 箴言 28
       titleEn: Proverbs 28
       verseBG: Proverbs.28
       verseYV: PRO.28
+
+  - index: 189
+    verses:
+    - titleCh:  
+      titleEn: 
+      verseBG: 
+      verseYV: 
+    - titleCh: 箴言 29
+      titleEn: Proverbs 29
+      verseBG: Proverbs.29
+      verseYV: PRO.29
 
 ---
