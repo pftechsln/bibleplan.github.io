@@ -31,8 +31,8 @@ title: {{ site.name }}
     <details><summary>  <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></summary>
     <ul>
         {%- assign weekNum = post.weekNum -%}
-        {%- assign thisWeek = dailyPosts | where: "weekNum", weekNum | where: "cycle", post.cycle | sort: "date" -%}
-      <p>DEBUG===> thisWeek: {{thisWeek}}</p>
+        {%- assign thisWeek = dailyPosts | where: "weekNum", "26" | where: "cycle", post.cycle | sort: "date" -%}
+      <p>DEBUG===> post.cycle: {{post.cycle}} {{thisWeek}}</p>
         {%- for dailyPost in thisWeek -%}
           <li><a href="{{ site.baseurl }}{{ dailyPost.url }}">{{ dailyPost.title }}</a></li>
           
