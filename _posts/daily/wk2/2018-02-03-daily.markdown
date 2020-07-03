@@ -1,4 +1,5 @@
 ---
+cycle: 2018
 layout: daily
 title:  "第 2 週 第 6 天 罪惡之地"
 date:   2018-02-03

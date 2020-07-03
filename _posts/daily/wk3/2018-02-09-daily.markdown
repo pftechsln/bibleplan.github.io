@@ -1,4 +1,5 @@
 ---
+cycle: 2018
 layout: daily
 title:  "第 3 週 第 5 天 以撒家族"
 date:   2018-02-09

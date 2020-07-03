@@ -1,4 +1,5 @@
 ---
+cycle: 2018
 layout: daily
 title:  "第 3 週 第 4 天 以實瑪利"
 date:   2018-02-08

@@ -1,4 +1,5 @@
 ---
+cycle: 2018
 layout: daily
 title:  "第 2 週 第 4 天 割禮之約"
 date:   2018-02-01
