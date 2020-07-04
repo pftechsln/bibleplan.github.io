@@ -1,4 +1,5 @@
 ---
+cycle: 2018
 layout: daily2
 title:  "第22週 第1天 以弱勝強"
 date:   2018-06-18

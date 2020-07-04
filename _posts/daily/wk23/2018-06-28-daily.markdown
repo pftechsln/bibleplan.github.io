@@ -1,4 +1,5 @@
 ---
+cycle: 2018
 layout: daily2
 title:  "第23週 第4天 由甜至苦"
 date:   2018-06-28

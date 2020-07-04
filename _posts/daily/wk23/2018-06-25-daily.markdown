@@ -1,4 +1,5 @@
 ---
+cycle: 2018
 layout: daily2
 title:  "第23週 第1天 私設聖所"
 date:   2018-06-25

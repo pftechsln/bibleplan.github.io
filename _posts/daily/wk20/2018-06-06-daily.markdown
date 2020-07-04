@@ -1,4 +1,5 @@
 ---
+cycle: 2018
 layout: daily2
 title:  "第20週 第3天 河東之地"
 date:   2018-06-06

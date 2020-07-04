@@ -1,4 +1,5 @@
 ---
+cycle: 2018
 layout: daily2
 title:  "第25週 第5天 神的形象"
 date:   2018-07-13

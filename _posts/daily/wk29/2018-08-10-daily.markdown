@@ -1,4 +1,5 @@
 ---
+cycle: 2018
 layout: daily2
 title:  "第29週 第5天 耶穌家譜"
 date:   2018-08-10

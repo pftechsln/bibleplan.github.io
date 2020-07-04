@@ -1,4 +1,5 @@
 ---
+cycle: 2018
 layout: daily2
 title:  "第23週 第6天 至親救贖"
 date:   2018-06-30

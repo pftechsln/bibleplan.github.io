@@ -1,4 +1,5 @@
 ---
+cycle: 2018
 layout: daily2
 title:  "第24週 第3天 勝過試探"
 date:   2018-07-04

@@ -1,4 +1,5 @@
 ---
+cycle: 2018
 layout: daily2
 title:  "第27週 第2天 福音起頭"
 date:   2018-07-24

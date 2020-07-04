@@ -1,4 +1,5 @@
 ---
+cycle: 2018
 layout: daily2
 title:  "第21週 第2天 歸回河東"
 date:   2018-06-12

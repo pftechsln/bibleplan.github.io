@@ -1,4 +1,5 @@
 ---
+cycle: 2018
 layout: daily2
 title:  "第23週 第2天 匪徒暴虐"
 date:   2018-06-26

@@ -1,4 +1,5 @@
 ---
+cycle: 2018
 layout: daily2
 title:  "第28週 第5天 末日預兆"
 date:   2018-08-03

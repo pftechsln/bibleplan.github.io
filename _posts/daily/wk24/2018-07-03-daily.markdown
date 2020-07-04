@@ -1,4 +1,5 @@
 ---
+cycle: 2018
 layout: daily2
 title:  "第24週 第2天 耶穌是王"
 date:   2018-07-03

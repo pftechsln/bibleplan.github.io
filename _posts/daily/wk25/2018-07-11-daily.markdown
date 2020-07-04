@@ -1,4 +1,5 @@
 ---
+cycle: 2018
 layout: daily2
 title:  "第25週 第3天 天國奧秘"
 date:   2018-07-11

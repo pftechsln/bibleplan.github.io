@@ -1,4 +1,5 @@
 ---
+cycle: 2018
 layout: daily2
 title:  "第25週 第1天 天國使命"
 date:   2018-07-09

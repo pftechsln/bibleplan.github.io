@@ -1,4 +1,5 @@
 ---
+cycle: 2018
 layout: daily2
 title:  "第26週 第4天 警醒等候"
 date:   2018-07-19

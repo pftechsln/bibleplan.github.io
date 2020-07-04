@@ -1,4 +1,5 @@
 ---
+cycle: 2018
 layout: daily2
 title:  "第22週 第4天 許願還願"
 date:   2018-06-21

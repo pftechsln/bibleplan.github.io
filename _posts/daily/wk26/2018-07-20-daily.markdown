@@ -1,4 +1,5 @@
 ---
+cycle: 2018
 layout: daily2
 title:  "第26週 第5天 耶穌被賣"
 date:   2018-07-20

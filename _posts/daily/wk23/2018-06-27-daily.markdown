@@ -1,4 +1,5 @@
 ---
+cycle: 2018
 layout: daily2
 title:  "第23週 第3天 大加討伐"
 date:   2018-06-27

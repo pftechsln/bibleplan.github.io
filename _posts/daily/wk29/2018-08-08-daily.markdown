@@ -1,4 +1,5 @@
 ---
+cycle: 2018
 layout: daily2
 title:  "第29週 第3天 施洗約翰"
 date:   2018-08-08

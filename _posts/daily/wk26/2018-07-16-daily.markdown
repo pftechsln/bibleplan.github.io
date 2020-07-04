@@ -1,4 +1,5 @@
 ---
+cycle: 2018
 layout: daily2
 title:  "第26週 第1天 誰大誰小"
 date:   2018-07-16
