@@ -1,4 +1,5 @@
 ---
+cycle: 2018
 layout: daily2
 title:  "第19週 第4天 過約旦河"
 date:   2018-05-31

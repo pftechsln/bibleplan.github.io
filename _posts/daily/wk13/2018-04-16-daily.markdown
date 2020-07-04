@@ -1,4 +1,5 @@
 ---
+cycle: 2018
 layout: daily2
 title:  "第13週 第1天 全心奉獻"
 date:   2018-04-16

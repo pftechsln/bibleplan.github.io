@@ -1,4 +1,5 @@
 ---
+cycle: 2018
 layout: daily2
 title:  "第15週 第6天 悖逆失敗"
 date:   2018-05-05

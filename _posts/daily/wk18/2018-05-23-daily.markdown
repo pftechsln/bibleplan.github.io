@@ -1,4 +1,5 @@
 ---
+cycle: 2018
 layout: daily2
 title:  "第18週 第3天 祝福咒詛"
 date:   2018-05-23

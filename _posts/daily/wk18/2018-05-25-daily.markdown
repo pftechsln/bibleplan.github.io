@@ -1,4 +1,5 @@
 ---
+cycle: 2018
 layout: daily2
 title:  "第18週 第5天 最後叮囑"
 date:   2018-05-25

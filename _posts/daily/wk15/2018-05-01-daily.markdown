@@ -1,4 +1,5 @@
 ---
+cycle: 2018
 layout: daily2
 title:  "第15週 第2天 米甸之役"
 date:   2018-05-01

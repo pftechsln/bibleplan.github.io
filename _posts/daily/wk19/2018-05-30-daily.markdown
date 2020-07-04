@@ -1,4 +1,5 @@
 ---
+cycle: 2018
 layout: daily2
 title:  "第19週 第3天 妓女喇合"
 date:   2018-05-30

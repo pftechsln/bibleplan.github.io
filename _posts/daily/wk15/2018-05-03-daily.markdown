@@ -1,4 +1,5 @@
 ---
+cycle: 2018
 layout: daily2
 title:  "第15週 第4天 迦南地界"
 date:   2018-05-03

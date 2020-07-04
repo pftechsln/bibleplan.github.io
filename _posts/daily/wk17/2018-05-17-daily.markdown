@@ -1,4 +1,5 @@
 ---
+cycle: 2018
 layout: daily2
 title:  "第17週 第4天 寬容諒解"
 date:   2018-05-17

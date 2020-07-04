@@ -1,4 +1,5 @@
 ---
+cycle: 2018
 layout: daily2
 title:  "第14週 第1天 可拉叛亂"
 date:   2018-04-23

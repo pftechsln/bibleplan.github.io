@@ -1,4 +1,5 @@
 ---
+cycle: 2018
 layout: daily2
 title:  "第16週 第2天 呼天喚地"
 date:   2018-05-08

@@ -1,4 +1,5 @@
 ---
+cycle: 2018
 layout: daily2
 title:  "第19週 第5天 耶利哥城"
 date:   2018-06-01
