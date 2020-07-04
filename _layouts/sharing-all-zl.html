@@ -18,10 +18,10 @@ title: {{ site.name }}
 {%- for post in weeklyPosts  -%}
 
   {%- assign weekNum = post.weekNum -%}
-  {%- assign thisWeek = sharingPosts | where: "weekNum", weekNum | sort: "date" -%}
+  {%- assign thisWeek = sharingPosts | where: "weekNum", weekNum | where: "cycle", post.cycle | sort: "date" -%}
   
   {%- if thisWeek.size > 0 -%}
-  <details><summary style="cursor: pointer;"> 讀經分享 ：第 {{weekNum}} 週 </summary>    
+  <details><summary style="cursor: pointer;"> 每日靈修：{{post.cycle}} 第 {{weekNum}} 週 </summary>    
     <ul>
         {%- for dailyPost in thisWeek -%}
           <li><a href="{{ site.baseurl }}{{ dailyPost.url }}">第{{dailyPost.dayNum}}天 {{ dailyPost.title }}</a></li>
