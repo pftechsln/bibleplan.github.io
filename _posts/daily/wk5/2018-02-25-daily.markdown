@@ -1,4 +1,5 @@
 ---
+cycle: 2018
 layout: daily
 title:  "第 5 週 第 7 天 補漏拾遺"
 date:   2018-02-25

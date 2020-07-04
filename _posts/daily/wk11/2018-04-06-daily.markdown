@@ -1,4 +1,5 @@
 ---
+cycle: 2018
 layout: daily2
 title:  "第 11 週 第 5 天 聖潔祭司"
 date:   2018-04-06

@@ -1,4 +1,5 @@
 ---
+cycle: 2018
 layout: daily
 title:  "第 5 週 第 4 天 定居埃及"
 date:   2018-02-22

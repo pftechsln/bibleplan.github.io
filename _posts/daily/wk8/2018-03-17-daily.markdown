@@ -1,4 +1,5 @@
 ---
+cycle: 2018
 layout: daily2
 title:  "第 8 週 第 6 天 重新立約"
 date:   2018-03-17

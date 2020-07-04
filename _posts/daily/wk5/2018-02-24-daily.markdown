@@ -1,4 +1,5 @@
 ---
+cycle: 2018
 layout: daily
 title:  "第 5 週 第 6 天 救贖預備"
 date:   2018-02-24

@@ -1,4 +1,5 @@
 ---
+cycle: 2018
 layout: daily2
 title:  "第12週 第2天 守約背約"
 date:   2018-04-10

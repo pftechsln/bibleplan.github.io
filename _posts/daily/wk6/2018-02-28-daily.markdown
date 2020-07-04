@@ -1,4 +1,5 @@
 ---
+cycle: 2018
 layout: daily
 title:  "第 6 週 第 3 天 神顯權能"
 date:   2018-02-28

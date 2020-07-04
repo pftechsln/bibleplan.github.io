@@ -1,4 +1,5 @@
 ---
+cycle: 2018
 layout: daily2
 title:  "第12週 第6天 聖潔國民"
 date:   2018-04-14

@@ -1,4 +1,5 @@
 ---
+cycle: 2018
 layout: daily2
 title:  "第 7 週 第 6 天 確立盟約"
 date:   2018-03-10

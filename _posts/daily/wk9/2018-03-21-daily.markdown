@@ -1,4 +1,5 @@
 ---
+cycle: 2018
 layout: daily2
 title:  "第 9 週 第 3 天 祭司聖服"
 date:   2018-03-21

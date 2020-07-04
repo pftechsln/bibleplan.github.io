@@ -1,4 +1,5 @@
 ---
+cycle: 2018
 layout: daily2
 title:  "第 11 週 第 3 天 聖潔行為"
 date:   2018-04-04

@@ -1,4 +1,5 @@
 ---
+cycle: 2018
 layout: daily2
 title:  "第12週 第4天 數點安營"
 date:   2018-04-12

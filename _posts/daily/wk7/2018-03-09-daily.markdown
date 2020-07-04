@@ -1,4 +1,5 @@
 ---
+cycle: 2018
 layout: daily2
 title:  "第 7 週 第 5 天 民事條例"
 date:   2018-03-09

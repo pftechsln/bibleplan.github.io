@@ -1,4 +1,5 @@
 ---
+cycle: 2018
 layout: daily
 title:  "第 4 週 第 1 天 雅各家族"
 date:   2018-02-12

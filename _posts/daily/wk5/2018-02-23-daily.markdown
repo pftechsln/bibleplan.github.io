@@ -1,4 +1,5 @@
 ---
+cycle: 2018
 layout: daily
 title:  "第 5 週 第 5 天 祝福眾子"
 date:   2018-02-23

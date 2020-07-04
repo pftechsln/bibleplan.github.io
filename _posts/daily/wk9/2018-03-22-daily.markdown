@@ -1,4 +1,5 @@
 ---
+cycle: 2018
 layout: daily2
 title:  "第 9 週 第 4 天 奉獻會幕"
 date:   2018-03-22

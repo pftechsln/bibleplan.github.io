@@ -1,4 +1,5 @@
 ---
+cycle: 2018
 layout: daily2
 title:  "第12週 第5天 祭司國度"
 date:   2018-04-13
