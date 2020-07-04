@@ -1,4 +1,5 @@
 ---
+cycle: 2018
 layout: post
 title:  "前言"
 date:   2018-01-22 21:31:02 -0800
