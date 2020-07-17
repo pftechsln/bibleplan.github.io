@@ -1,4 +1,4 @@
-[主頁](https://bibleplan.github.io) | [計劃](https://bibleplan.github.io/schedule.html) | [討論](https://bibleplan.github.io/discussion.html)
+[主頁](https://bibleplan.github.io) | [計劃](https://bibleplan.github.io/schedule2020.html)
 
 # 聖經 - 各書卷
 <details><summary>創世記 - <a href="https://bibleplan.github.io/daily/wk1-day1-daily.html">導讀 第1週第1天</a></summary>
@@ -589,8 +589,8 @@
    <ul>
    <li>緊接著上兩章設立的「祭司的國度」(出 19:6)，神在此呼召以色列人成為「聖潔的國民」(出 19:6)。</li>
    <li>潔淨以色列營的幾條律法：</li>
-       1. 贖罪和賠償，以使以色列人合一；
-       2. 婚姻的聖潔，以使以色列後裔聖潔；
+       1. 贖罪和賠償，以使以色列人合一；  
+       2. 婚姻的聖潔，以使以色列後裔聖潔；  
        3. 離俗歸耶和華的律例，作為以色列聖召的特別例證。
    <li>以亞倫的祝福結尾，重申神的盟約承諾，將以色列人的眼光指向應許之地。</li>
    </ul>
