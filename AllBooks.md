@@ -3908,18 +3908,6 @@
   </ul>
  </details>
 </details>
-<details><summary>約翰福音 - <a href="https://bibleplan.github.io/daily/wk95-day4-daily.html">導讀 第95週第4天</a></summary>
- <details>
-  <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=約翰福音1.1-18&qs_version=CUVMPT">約翰福音1.1-18</a> - <a href="https://bibleplan.github.io/daily/wk95-day4-daily.html">道成肉身</a></summary>
-  <ul>
-    <li>太初有道，道與神同在，道就是神。</li>
-    <li>神差約翰來為光作見證，叫眾人因他可以信。</li>
-    <li>道成了肉身，住在我們中間，充充滿滿地有恩典有真理。</li>
-    <li>約翰為他作見證。</li>
-    <li>從他豐滿的恩典裡，我們都領受了，而且恩上加恩。</li>
-    <li>律法本是藉著摩西傳的，恩典和真理都是由耶穌基督來的。</li>
-  </ul>
- </details>
 <details><summary>馬太福音 - <a href="https://bibleplan.github.io/daily/wk24-day2-daily.html">導讀 第24週第2天</a></summary>
  <details>
   <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=馬太福音1-2&qs_version=CUVMPT">馬太福音1-2</a> - <a href="https://bibleplan.github.io/daily/wk24-day2-daily.html">耶穌是王</a></summary>
@@ -4339,6 +4327,214 @@
      <li>顯現在以馬忤斯、耶路撒冷； </li>
      <li>對門徒頒布使命，升入天上。</li>
    </ul>
+ </details>
+</details>
+<details><summary>約翰福音 - <a href="https://bibleplan.github.io/daily/wk95-day4-daily.html">導讀 第95週第4天</a></summary>
+ <details>
+  <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=約翰福音1.1-18&qs_version=CUVMPT">約翰福音1.1-18</a> - <a href="https://bibleplan.github.io/daily/wk95-day4-daily.html">道成肉身</a></summary>
+  <ul>
+    <li>太初有道，道與神同在，道就是神。</li>
+    <li>神差約翰來為光作見證，叫眾人因他可以信。</li>
+    <li>道成了肉身，住在我們中間，充充滿滿地有恩典有真理。</li>
+    <li>約翰為他作見證。</li>
+    <li>從他豐滿的恩典裡，我們都領受了，而且恩上加恩。</li>
+    <li>律法本是藉著摩西傳的，恩典和真理都是由耶穌基督來的。</li>
+  </ul>
+ </details>
+ <details>
+  <summary>2. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=約翰福音1.19-2.12&qs_version=CUVMPT">約翰福音1.19-2.12</a> - <a href="https://bibleplan.github.io/daily/wk95-day5-daily.html">神的兒子</a></summary>
+  <ul>
+    <li>約翰說自己不是基督。</li>
+    <li>他就是那在曠野有人聲喊著說：『修直主的道路』，正如先知以賽亞所說的。</li>
+    <li>約翰稱耶穌為神的羔羊，除去世人罪孽的！</li>
+    <li>約翰看見聖靈彷彿鴿子從天降下，住在他的身上，就證明這是神的兒子。</li>
+    <li>約翰的兩個門徒跟從了耶穌。</li>
+    <li>耶穌召腓力拿但業為門徒。</li>
+    <li>拿但業說：「拉比，你是神的兒子，你是以色列的王！」</li>
+    <li>耶穌在迦拿變水為酒，這是耶穌所行的頭一件神蹟，為顯出他的榮耀來。</li>
+  </ul>
+ </details>
+ <details>
+  <summary>3. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=約翰福音2.13-3.36&qs_version=CUVMPT">約翰福音2.13-3.36</a> - <a href="https://bibleplan.github.io/daily/wk95-day6-daily.html">如何得救</a></summary>
+  <ul>
+    <li>耶穌看見殿裡有做買賣的，就拿繩子做成鞭子，把他們趕出殿去。</li>
+    <li>猶太人要耶穌顯神蹟，耶穌說：你們拆毀這殿，我三日內要再建立起來。</li>
+    <li>尼哥迪慕夜裡來見耶穌，耶穌說人若不重生，就不能見神的國。</li>
+    <li>神愛世人，甚至將他的獨生子賜給他們，叫一切信他的不致滅亡，反得永生。</li>
+    <li>光來到世間，世人因自己的行為是惡的，不愛光倒愛黑暗，定他們的罪就是在此。</li>
+    <li>耶穌和門徒到了猶太地，在那裡居住，施洗。約翰在靠近撒冷的哀嫩也施洗。但約翰說：他必興旺，我必衰微。</li>
+    <li>信子的人有永生，不信子的人得不著永生，神的震怒常在他身上。</li>
+  </ul>
+ </details>
+ <details>
+  <summary>4. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=約翰福音4&qs_version=CUVMPT">約翰福音4</a> - <a href="https://bibleplan.github.io/daily/wk96-day1-daily.html">心靈誠實</a></summary>
+  <ul>
+    <li>耶穌對撒馬利亞的婦人說：「請你給我水喝。」</li>
+    <li>「凡喝這水的，還要再渴，人若喝我所賜的水，就永遠不渴。我所賜的水要在他裡頭成為泉源，直湧到永生。」</li>
+    <li>耶穌指出婦人已經有五個丈夫，你現在有的並不是你的丈夫。</li>
+    <li>那真正拜父的，要用心靈和誠實拜他，因為父要這樣的人拜他。</li>
+    <li>耶穌說：我的食物就是遵行差我來者的旨意，做成他的工。</li>
+    <li>耶穌自己作過見證說，先知在本地是沒有人尊敬的。</li>
+    <li>耶穌又到了加利利的迦拿，大臣的兒子在迦百農患病。耶穌對大臣說：「回去吧，你的兒子活了！」。</li>
+  </ul>
+ </details>
+ <details>
+  <summary>5. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=約翰福音5&qs_version=CUVMPT">約翰福音5</a> - <a href="https://bibleplan.github.io/daily/wk96-day2-daily.html">出死入生</a></summary>
+  <ul>
+    <li>在耶路撒冷畢士大池，耶穌治好病了三十八年的人。</li>
+    <li>那天是安息日，猶太人說那醫好的人拿褥子是不可的，並指責耶穌乾犯安息日。</li>
+    <li>耶穌說子憑著自己不能做什麼，唯有看見父所做的，子才能做;父所做的事，子也照樣做。</li>
+    <li>耶穌說：那聽我話又信差我來者的，就有永生，不至於定罪，是已經出死入生了。</li>
+    <li>耶穌說：你們查考聖經，因你們以為內中有永生。給我作見證的就是這經。</li>
+    <li>耶穌說：你們如果信摩西，也必信我，因為他書上有指著我寫的話。</li>
+  </ul>
+ </details>
+ <details>
+  <summary>6. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=約翰福音6&qs_version=CUVMPT">約翰福音6</a> - <a href="https://bibleplan.github.io/daily/wk96-day3-daily.html">天上的糧</a></summary>
+  <ul>
+    <li>耶穌以五餅二魚給五千人吃飽，剩下的裝滿了十二個籃子。</li>
+    <li>耶穌在海面上走。</li>
+    <li>不要為那必壞的食物勞力，要為那存到永生的食物勞力。</li>
+    <li>耶穌說：我就是生命的糧。到我這裡來的，必定不餓;信我的，永遠不渴。</li>
+    <li>猶太人因為耶穌說「我是從天上降下來的糧」，就私下議論他：怎能把他的肉給我們吃呢？</li>
+    <li>耶穌說的話就是靈，就是生命。</li>
+    <li>門徒中多有退去的，但西門彼得認耶穌有永生之道，是神的聖者。</li>
+  </ul>
+ </details>
+ <details>
+  <summary>7. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=約翰福音7&qs_version=CUVMPT">約翰福音7</a> - <a href="https://bibleplan.github.io/daily/wk96-day4-daily.html">活水江河</a></summary>
+  <ul>
+    <li>耶穌說：我的時候還沒有到。</li>
+    <li>到了節期，耶穌上殿裡去教訓人，說：我的教訓不是我自己的，乃是那差我來者的。</li>
+    <li>不可按外貌斷定是非，總要按公平斷定是非。</li>
+    <li>你們也知道我，我來並不是由於自己，是被差來的。</li>
+    <li>祭司長和法利賽人打發差役去捉拿耶穌。</li>
+    <li>節期的末日，耶穌站著高聲說：「人若渴了，可以到我這裡來喝，信我的人腹中要流出活水的江河來。」</li>
+    <li>眾人因著耶穌起了紛爭。其中有人要捉拿他，只是無人下手。</li>
+  </ul>
+ </details>
+ <details>
+  <summary>8. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=約翰福音8&qs_version=CUVMPT">約翰福音8</a> - <a href="https://bibleplan.github.io/daily/wk96-day5-daily.html">生命的光</a></summary>
+  <ul>
+    <li>文士和法利賽人帶著行淫的婦人來試探耶穌，要得著告他的把柄。耶穌說：「你們中間誰是沒有罪的，誰就可以先拿石頭打她。」</li>
+    <li>耶穌不定婦人的罪，讓她從此不要再犯罪。</li>
+    <li>耶穌說：我是世界的光。跟從我的，就不在黑暗裡走，必要得著生命的光。</li>
+    <li>耶穌說：你們要死在罪中。我所去的地方你們不能到。」</li>
+    <li>耶穌對信他的猶太人說：你們若常常遵守我的道，就真是我的門徒，你們必曉得真理，真理必叫你們得以自由。</li>
+    <li>耶穌說：你們若是亞伯拉罕的兒子，就必行亞伯拉罕所行的事。</li>
+    <li>耶穌說：倘若神是你們的父，你們就必愛我。</li>
+    <li>耶穌說：我實實在在地告訴你們：還沒有亞伯拉罕就有了我。</li>
+  </ul>
+ </details>
+ <details>
+  <summary>9. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=約翰福音9-10&qs_version=CUVMPT">約翰福音9-10</a> - <a href="https://bibleplan.github.io/daily/wk96-day6-daily.html">迷羊牧人</a></summary>
+  <ul>
+    <li>耶穌用唾沫和泥抹在瞎子的眼睛上，治好了瞎子。這天是安息日。</li>
+    <li>法利賽人因耶穌在安息日治好瞎子，就起了紛爭。</li>
+    <li>瞎子信了耶穌是神的兒子。</li>
+    <li>耶穌說：我就是羊的門，凡從我進來的，必然得救。</li>
+    <li>我是好牧人，好牧人為羊捨命。</li>
+    <li>我與父原為一。</li>
+  </ul>
+ </details>
+ <details>
+  <summary>10. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=約翰福音11&qs_version=CUVMPT">約翰福音11</a> - <a href="https://bibleplan.github.io/daily/wk97-day1-daily.html">復活在主</a></summary>
+  <ul>
+    <li>拉撒路患病，住在伯大尼。</li>
+    <li>耶穌聽見就說：「這病不至於死，乃是為神的榮耀，叫神的兒子因此得榮耀。」</li>
+    <li>耶穌知道拉撒路死了，到了伯大尼，拉撒路在墳墓裡已經四天了。</li>
+    <li>耶穌說：「復活在我，生命也在我。信我的人，雖然死了，也必復活」</li>
+    <li>耶穌看見猶太人哭，就心裡悲嘆，又甚憂愁，耶穌哭了。</li>
+    <li>耶穌說：你若信，就必看見神的榮耀。</li>
+    <li>耶穌舉目望天，禱告，大聲呼叫「拉撒路出來！」那死人就出來了。</li>
+    <li>法利賽人從此用計要害死耶穌。</li>
+  </ul>
+ </details>
+ <details>
+  <summary>11. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=約翰福音12&qs_version=CUVMPT">約翰福音12</a> - <a href="https://bibleplan.github.io/daily/wk97-day2-daily.html">進入聖城</a></summary>
+  <ul>
+    <li>逾越節前六日，馬利亞拿著一斤極貴的真哪噠香膏，抹耶穌的腳，又用自己的頭髮去擦。</li>
+    <li>第二天，有許多人聽見耶穌將到耶路撒冷，就拿著棕樹枝出去迎接他，喊著說：「和散那！奉主名來的以色列王是應當稱頌的！」</li>
+    <li>耶穌說：人子得榮耀的時候到了。</li>
+    <li>耶穌說：我若從地上被舉起來，就要吸引萬人來歸我。</li>
+    <li>耶穌雖然在人們面前行了許多神蹟，他們還是不信他。這是要應驗先知以賽亞的話。</li>
+    <li>耶穌說：信我的，不是信我，乃是信那差我來的。</li>
+  </ul>
+ </details>
+ <details>
+  <summary>12. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=約翰福音13&qs_version=CUVMPT">約翰福音13</a> - <a href="https://bibleplan.github.io/daily/wk97-day3-daily.html">彼此洗腳</a></summary>
+  <ul>
+    <li>耶穌離席站起來，拿手巾束腰，把水倒在盆裡，就洗門徒的腳，並用自己所束的手巾擦乾。</li>
+    <li>耶穌說：「我實實在在地告訴你們：你們中間有一個人要賣我了。」</li>
+    <li>我賜給你們一條新命令，乃是叫你們彼此相愛，我怎樣愛你們，你們也要怎樣相愛。</li>
+    <li>你們若有彼此相愛的心，眾人因此就認出你們是我的門徒了。</li>
+    <li>耶穌告訴彼得：「雞叫以先，你要三次不認我。」</li>
+  </ul>
+ </details>
+ <details>
+  <summary>13. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=約翰福音14-15&qs_version=CUVMPT">約翰福音14-15</a> - <a href="https://bibleplan.github.io/daily/wk97-day4-daily.html">真理生命</a></summary>
+  <ul>
+    <li>耶穌說父的家裡有許多住處，祂去原是為門徒預備地方去。</li>
+    <li>耶穌說：「我就是道路、真理、生命。若不藉著我，沒有人能到父那裡去。」</li>
+    <li>耶穌求父另外賜給一位保惠師，就是真理的聖靈。</li>
+    <li>有了耶穌的命令又遵守的，這人就是愛耶穌的。</li>
+    <li>聖靈要將一切的事指教門徒。</li>
+    <li>耶穌說：我是真葡萄樹，我父是栽培的人。</li>
+    <li>耶穌說：你們若遵守我的命令，就常在我的愛裡，正如我遵守了我父的命令，常在他的愛裡。</li>
+    <li>耶穌說：只因你們不屬世界，乃是我從世界中揀選了你們，所以世界就恨你們。</li>
+  </ul>
+ </details>
+ <details>
+  <summary>14. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=約翰福音16-17&qs_version=CUVMPT">約翰福音16-17</a> - <a href="https://bibleplan.github.io/daily/wk97-day5-daily.html">真理聖靈</a></summary>
+  <ul>
+    <li>聖靈既來了，就要叫世人為罪、為義、為審判，自己責備自己。</li>
+    <li>等真理的聖靈來了，他要引導你們明白一切的真理。</li>
+    <li>耶穌將這些事告訴門徒，是要叫他們在祂裡面有平安。</li>
+    <li>耶穌向父禱告：時候到了，願你榮耀你的兒子，使兒子也榮耀你！</li>
+    <li>正如父在耶穌裡面，耶穌在天父裡面，使門徒也在裡面，叫世人可以信耶穌。</li>
+  </ul>
+ </details>
+ <details>
+  <summary>15. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=約翰福音18&qs_version=CUVMPT">約翰福音18</a> - <a href="https://bibleplan.github.io/daily/wk97-day6-daily.html">捉拿耶穌</a></summary>
+  <ul>
+    <li>耶穌同門徒出去，過了汲淪溪。進去了一個園子。</li>
+    <li>猶大領了一隊兵，來到園裡，拿住耶穌，把他捆綁了。</li>
+    <li>彼得初次不認主。</li>
+    <li>彼得二次、三次不認主。</li>
+    <li>耶穌在彼拉多前受審。比拉多查不出他有什麼罪來。</li>
+    <li>猶太人不願釋放耶穌，寧願釋放巴拉巴，他是個強盜。</li>
+  </ul>
+ </details>
+ <details>
+  <summary>16. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=約翰福音19&qs_version=CUVMPT">約翰福音19</a> - <a href="https://bibleplan.github.io/daily/wk98-day1-daily.html">被釘十架</a></summary>
+  <ul>
+    <li>彼拉多將耶穌鞭打了。兵丁用荊棘編做冠冕，戴在他頭上。用手掌打他。</li>
+    <li>猶太人喊著要除掉耶穌，釘他在十字架上。</li>
+    <li>耶穌背著十字架到了髑髏地，在那裡釘在十字架上。</li>
+    <li>耶穌把母親託付給所愛的那門徒。</li>
+    <li>主的骨頭一根也不折斷。</li>
+    <li>耶穌的門徒約瑟把耶穌的身體領去，葬在新墳墓裡。</li>
+  </ul>
+ </details>
+ <details>
+  <summary>17. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=約翰福音20&qs_version=CUVMPT">約翰福音20</a> - <a href="https://bibleplan.github.io/daily/wk98-day2-daily.html">死裡復活</a></summary>
+  <ul>
+    <li>清早，馬利亞來到墳墓，看見石頭從墳墓挪開了，以為有人把主從墳墓裡挪了去。</li>
+    <li>馬利亞在墳墓裡看見耶穌。</li>
+    <li>那日晚上，耶穌來站在門徒當中，把手和肋旁指給他們看。</li>
+    <li>多馬沒有看見耶穌，就要求看見他的釘痕才信。耶穌來讓多馬伸過指頭來摸他的手。多馬說：「我的主！我的神！」</li>
+  </ul>
+ </details>
+ <details>
+  <summary>18. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=約翰福音21&qs_version=CUVMPT">約翰福音21</a> - <a href="https://bibleplan.github.io/daily/wk98-day3-daily.html">三問彼得</a></summary>
+  <ul>
+    <li>耶穌在提比哩亞海邊又向門徒顯現。</li>
+    <li>耶穌要門徒把網撒在船的右邊，撈到很多魚。</li>
+    <li>西門彼得赤著身子，一聽見是主，就束上一件外衣，跳在海裡。</li>
+    <li>耶穌在火邊與門徒吃餅和魚。耶穌從死裡復活以後向門徒顯現，這是第三次。</li>
+    <li>因為三次問彼得你愛我嗎，並說：你餵養我的羊。</li>
+    <li>耶穌所行的還有很多事沒有記載在這本書上。</li>
+  </ul>
  </details>
 </details>
 <details><summary>使徒行傳 - <a href="https://bibleplan.github.io/daily/wk32-day6-daily.html">導讀 第32週第6天</a></summary>
@@ -5374,202 +5570,6 @@
    <li>六個比喻指名假教師的本質；</li>
    <li>以諾預言了假教師的結局；</li>
    <li>我們當紀念主的話，在真道上造就自己、在聖靈裡禱告、保守自己在神的愛中。對存疑心的人要憐憫、搶救，要存著懼怕的心憐憫身陷情慾的人。</li>
-  </ul>
- </details>
-</details>
- <details>
-  <summary>2. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=約翰福音1.19-2.12&qs_version=CUVMPT">約翰福音1.19-2.12</a> - <a href="https://bibleplan.github.io/daily/wk95-day5-daily.html">神的兒子</a></summary>
-  <ul>
-    <li>約翰說自己不是基督。</li>
-    <li>他就是那在曠野有人聲喊著說：『修直主的道路』，正如先知以賽亞所說的。</li>
-    <li>約翰稱耶穌為神的羔羊，除去世人罪孽的！</li>
-    <li>約翰看見聖靈彷彿鴿子從天降下，住在他的身上，就證明這是神的兒子。</li>
-    <li>約翰的兩個門徒跟從了耶穌。</li>
-    <li>耶穌召腓力拿但業為門徒。</li>
-    <li>拿但業說：「拉比，你是神的兒子，你是以色列的王！」</li>
-    <li>耶穌在迦拿變水為酒，這是耶穌所行的頭一件神蹟，為顯出他的榮耀來。</li>
-  </ul>
- </details>
- <details>
-  <summary>3. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=約翰福音2.13-3.36&qs_version=CUVMPT">約翰福音2.13-3.36</a> - <a href="https://bibleplan.github.io/daily/wk95-day6-daily.html">如何得救</a></summary>
-  <ul>
-    <li>耶穌看見殿裡有做買賣的，就拿繩子做成鞭子，把他們趕出殿去。</li>
-    <li>猶太人要耶穌顯神蹟，耶穌說：你們拆毀這殿，我三日內要再建立起來。</li>
-    <li>尼哥迪慕夜裡來見耶穌，耶穌說人若不重生，就不能見神的國。</li>
-    <li>神愛世人，甚至將他的獨生子賜給他們，叫一切信他的不致滅亡，反得永生。</li>
-    <li>光來到世間，世人因自己的行為是惡的，不愛光倒愛黑暗，定他們的罪就是在此。</li>
-    <li>耶穌和門徒到了猶太地，在那裡居住，施洗。約翰在靠近撒冷的哀嫩也施洗。但約翰說：他必興旺，我必衰微。</li>
-    <li>信子的人有永生，不信子的人得不著永生，神的震怒常在他身上。</li>
-  </ul>
- </details>
- <details>
-  <summary>4. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=約翰福音4&qs_version=CUVMPT">約翰福音4</a> - <a href="https://bibleplan.github.io/daily/wk96-day1-daily.html">心靈誠實</a></summary>
-  <ul>
-    <li>耶穌對撒馬利亞的婦人說：「請你給我水喝。」</li>
-    <li>「凡喝這水的，還要再渴，人若喝我所賜的水，就永遠不渴。我所賜的水要在他裡頭成為泉源，直湧到永生。」</li>
-    <li>耶穌指出婦人已經有五個丈夫，你現在有的並不是你的丈夫。</li>
-    <li>那真正拜父的，要用心靈和誠實拜他，因為父要這樣的人拜他。</li>
-    <li>耶穌說：我的食物就是遵行差我來者的旨意，做成他的工。</li>
-    <li>耶穌自己作過見證說，先知在本地是沒有人尊敬的。</li>
-    <li>耶穌又到了加利利的迦拿，大臣的兒子在迦百農患病。耶穌對大臣說：「回去吧，你的兒子活了！」。</li>
-  </ul>
- </details>
- <details>
-  <summary>5. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=約翰福音5&qs_version=CUVMPT">約翰福音5</a> - <a href="https://bibleplan.github.io/daily/wk96-day2-daily.html">出死入生</a></summary>
-  <ul>
-    <li>在耶路撒冷畢士大池，耶穌治好病了三十八年的人。</li>
-    <li>那天是安息日，猶太人說那醫好的人拿褥子是不可的，並指責耶穌乾犯安息日。</li>
-    <li>耶穌說子憑著自己不能做什麼，唯有看見父所做的，子才能做;父所做的事，子也照樣做。</li>
-    <li>耶穌說：那聽我話又信差我來者的，就有永生，不至於定罪，是已經出死入生了。</li>
-    <li>耶穌說：你們查考聖經，因你們以為內中有永生。給我作見證的就是這經。</li>
-    <li>耶穌說：你們如果信摩西，也必信我，因為他書上有指著我寫的話。</li>
-  </ul>
- </details>
- <details>
-  <summary>6. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=約翰福音6&qs_version=CUVMPT">約翰福音6</a> - <a href="https://bibleplan.github.io/daily/wk96-day3-daily.html">天上的糧</a></summary>
-  <ul>
-    <li>耶穌以五餅二魚給五千人吃飽，剩下的裝滿了十二個籃子。</li>
-    <li>耶穌在海面上走。</li>
-    <li>不要為那必壞的食物勞力，要為那存到永生的食物勞力。</li>
-    <li>耶穌說：我就是生命的糧。到我這裡來的，必定不餓;信我的，永遠不渴。</li>
-    <li>猶太人因為耶穌說「我是從天上降下來的糧」，就私下議論他：怎能把他的肉給我們吃呢？</li>
-    <li>耶穌說的話就是靈，就是生命。</li>
-    <li>門徒中多有退去的，但西門彼得認耶穌有永生之道，是神的聖者。</li>
-  </ul>
- </details>
- <details>
-  <summary>7. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=約翰福音7&qs_version=CUVMPT">約翰福音7</a> - <a href="https://bibleplan.github.io/daily/wk96-day4-daily.html">活水江河</a></summary>
-  <ul>
-    <li>耶穌說：我的時候還沒有到。</li>
-    <li>到了節期，耶穌上殿裡去教訓人，說：我的教訓不是我自己的，乃是那差我來者的。</li>
-    <li>不可按外貌斷定是非，總要按公平斷定是非。</li>
-    <li>你們也知道我，我來並不是由於自己，是被差來的。</li>
-    <li>祭司長和法利賽人打發差役去捉拿耶穌。</li>
-    <li>節期的末日，耶穌站著高聲說：「人若渴了，可以到我這裡來喝，信我的人腹中要流出活水的江河來。」</li>
-    <li>眾人因著耶穌起了紛爭。其中有人要捉拿他，只是無人下手。</li>
-  </ul>
- </details>
- <details>
-  <summary>8. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=約翰福音8&qs_version=CUVMPT">約翰福音8</a> - <a href="https://bibleplan.github.io/daily/wk96-day5-daily.html">生命的光</a></summary>
-  <ul>
-    <li>文士和法利賽人帶著行淫的婦人來試探耶穌，要得著告他的把柄。耶穌說：「你們中間誰是沒有罪的，誰就可以先拿石頭打她。」</li>
-    <li>耶穌不定婦人的罪，讓她從此不要再犯罪。</li>
-    <li>耶穌說：我是世界的光。跟從我的，就不在黑暗裡走，必要得著生命的光。</li>
-    <li>耶穌說：你們要死在罪中。我所去的地方你們不能到。」</li>
-    <li>耶穌對信他的猶太人說：你們若常常遵守我的道，就真是我的門徒，你們必曉得真理，真理必叫你們得以自由。</li>
-    <li>耶穌說：你們若是亞伯拉罕的兒子，就必行亞伯拉罕所行的事。</li>
-    <li>耶穌說：倘若神是你們的父，你們就必愛我。</li>
-    <li>耶穌說：我實實在在地告訴你們：還沒有亞伯拉罕就有了我。</li>
-  </ul>
- </details>
- <details>
-  <summary>9. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=約翰福音9-10&qs_version=CUVMPT">約翰福音9-10</a> - <a href="https://bibleplan.github.io/daily/wk96-day6-daily.html">迷羊牧人</a></summary>
-  <ul>
-    <li>耶穌用唾沫和泥抹在瞎子的眼睛上，治好了瞎子。這天是安息日。</li>
-    <li>法利賽人因耶穌在安息日治好瞎子，就起了紛爭。</li>
-    <li>瞎子信了耶穌是神的兒子。</li>
-    <li>耶穌說：我就是羊的門，凡從我進來的，必然得救。</li>
-    <li>我是好牧人，好牧人為羊捨命。</li>
-    <li>我與父原為一。</li>
-  </ul>
- </details>
- <details>
-  <summary>10. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=約翰福音11&qs_version=CUVMPT">約翰福音11</a> - <a href="https://bibleplan.github.io/daily/wk97-day1-daily.html">復活在主</a></summary>
-  <ul>
-    <li>拉撒路患病，住在伯大尼。</li>
-    <li>耶穌聽見就說：「這病不至於死，乃是為神的榮耀，叫神的兒子因此得榮耀。」</li>
-    <li>耶穌知道拉撒路死了，到了伯大尼，拉撒路在墳墓裡已經四天了。</li>
-    <li>耶穌說：「復活在我，生命也在我。信我的人，雖然死了，也必復活」</li>
-    <li>耶穌看見猶太人哭，就心裡悲嘆，又甚憂愁，耶穌哭了。</li>
-    <li>耶穌說：你若信，就必看見神的榮耀。</li>
-    <li>耶穌舉目望天，禱告，大聲呼叫「拉撒路出來！」那死人就出來了。</li>
-    <li>法利賽人從此用計要害死耶穌。</li>
-  </ul>
- </details>
- <details>
-  <summary>11. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=約翰福音12&qs_version=CUVMPT">約翰福音12</a> - <a href="https://bibleplan.github.io/daily/wk97-day2-daily.html">進入聖城</a></summary>
-  <ul>
-    <li>逾越節前六日，馬利亞拿著一斤極貴的真哪噠香膏，抹耶穌的腳，又用自己的頭髮去擦。</li>
-    <li>第二天，有許多人聽見耶穌將到耶路撒冷，就拿著棕樹枝出去迎接他，喊著說：「和散那！奉主名來的以色列王是應當稱頌的！」</li>
-    <li>耶穌說：人子得榮耀的時候到了。</li>
-    <li>耶穌說：我若從地上被舉起來，就要吸引萬人來歸我。</li>
-    <li>耶穌雖然在人們面前行了許多神蹟，他們還是不信他。這是要應驗先知以賽亞的話。</li>
-    <li>耶穌說：信我的，不是信我，乃是信那差我來的。</li>
-  </ul>
- </details>
- <details>
-  <summary>12. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=約翰福音13&qs_version=CUVMPT">約翰福音13</a> - <a href="https://bibleplan.github.io/daily/wk97-day3-daily.html">彼此洗腳</a></summary>
-  <ul>
-    <li>耶穌離席站起來，拿手巾束腰，把水倒在盆裡，就洗門徒的腳，並用自己所束的手巾擦乾。</li>
-    <li>耶穌說：「我實實在在地告訴你們：你們中間有一個人要賣我了。」</li>
-    <li>我賜給你們一條新命令，乃是叫你們彼此相愛，我怎樣愛你們，你們也要怎樣相愛。</li>
-    <li>你們若有彼此相愛的心，眾人因此就認出你們是我的門徒了。</li>
-    <li>耶穌告訴彼得：「雞叫以先，你要三次不認我。」</li>
-  </ul>
- </details>
- <details>
-  <summary>13. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=約翰福音14-15&qs_version=CUVMPT">約翰福音14-15</a> - <a href="https://bibleplan.github.io/daily/wk97-day4-daily.html">真理生命</a></summary>
-  <ul>
-    <li>耶穌說父的家裡有許多住處，祂去原是為門徒預備地方去。</li>
-    <li>耶穌說：「我就是道路、真理、生命。若不藉著我，沒有人能到父那裡去。」</li>
-    <li>耶穌求父另外賜給一位保惠師，就是真理的聖靈。</li>
-    <li>有了耶穌的命令又遵守的，這人就是愛耶穌的。</li>
-    <li>聖靈要將一切的事指教門徒。</li>
-    <li>耶穌說：我是真葡萄樹，我父是栽培的人。</li>
-    <li>耶穌說：你們若遵守我的命令，就常在我的愛裡，正如我遵守了我父的命令，常在他的愛裡。</li>
-    <li>耶穌說：只因你們不屬世界，乃是我從世界中揀選了你們，所以世界就恨你們。</li>
-  </ul>
- </details>
- <details>
-  <summary>14. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=約翰福音16-17&qs_version=CUVMPT">約翰福音16-17</a> - <a href="https://bibleplan.github.io/daily/wk97-day5-daily.html">真理聖靈</a></summary>
-  <ul>
-    <li>聖靈既來了，就要叫世人為罪、為義、為審判，自己責備自己。</li>
-    <li>等真理的聖靈來了，他要引導你們明白一切的真理。</li>
-    <li>耶穌將這些事告訴門徒，是要叫他們在祂裡面有平安。</li>
-    <li>耶穌向父禱告：時候到了，願你榮耀你的兒子，使兒子也榮耀你！</li>
-    <li>正如父在耶穌裡面，耶穌在天父裡面，使門徒也在裡面，叫世人可以信耶穌。</li>
-  </ul>
- </details>
- <details>
-  <summary>15. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=約翰福音18&qs_version=CUVMPT">約翰福音18</a> - <a href="https://bibleplan.github.io/daily/wk97-day6-daily.html">捉拿耶穌</a></summary>
-  <ul>
-    <li>耶穌同門徒出去，過了汲淪溪。進去了一個園子。</li>
-    <li>猶大領了一隊兵，來到園裡，拿住耶穌，把他捆綁了。</li>
-    <li>彼得初次不認主。</li>
-    <li>彼得二次、三次不認主。</li>
-    <li>耶穌在彼拉多前受審。比拉多查不出他有什麼罪來。</li>
-    <li>猶太人不願釋放耶穌，寧願釋放巴拉巴，他是個強盜。</li>
-  </ul>
- </details>
- <details>
-  <summary>16. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=約翰福音19&qs_version=CUVMPT">約翰福音19</a> - <a href="https://bibleplan.github.io/daily/wk98-day1-daily.html">被釘十架</a></summary>
-  <ul>
-    <li>彼拉多將耶穌鞭打了。兵丁用荊棘編做冠冕，戴在他頭上。用手掌打他。</li>
-    <li>猶太人喊著要除掉耶穌，釘他在十字架上。</li>
-    <li>耶穌背著十字架到了髑髏地，在那裡釘在十字架上。</li>
-    <li>耶穌把母親託付給所愛的那門徒。</li>
-    <li>主的骨頭一根也不折斷。</li>
-    <li>耶穌的門徒約瑟把耶穌的身體領去，葬在新墳墓裡。</li>
-  </ul>
- </details>
- <details>
-  <summary>17. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=約翰福音20&qs_version=CUVMPT">約翰福音20</a> - <a href="https://bibleplan.github.io/daily/wk98-day2-daily.html">死裡復活</a></summary>
-  <ul>
-    <li>清早，馬利亞來到墳墓，看見石頭從墳墓挪開了，以為有人把主從墳墓裡挪了去。</li>
-    <li>馬利亞在墳墓裡看見耶穌。</li>
-    <li>那日晚上，耶穌來站在門徒當中，把手和肋旁指給他們看。</li>
-    <li>多馬沒有看見耶穌，就要求看見他的釘痕才信。耶穌來讓多馬伸過指頭來摸他的手。多馬說：「我的主！我的神！」</li>
-  </ul>
- </details>
- <details>
-  <summary>18. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=約翰福音21&qs_version=CUVMPT">約翰福音21</a> - <a href="https://bibleplan.github.io/daily/wk98-day3-daily.html">三問彼得</a></summary>
-  <ul>
-    <li>耶穌在提比哩亞海邊又向門徒顯現。</li>
-    <li>耶穌要門徒把網撒在船的右邊，撈到很多魚。</li>
-    <li>西門彼得赤著身子，一聽見是主，就束上一件外衣，跳在海裡。</li>
-    <li>耶穌在火邊與門徒吃餅和魚。耶穌從死裡復活以後向門徒顯現，這是第三次。</li>
-    <li>因為三次問彼得你愛我嗎，並說：你餵養我的羊。</li>
-    <li>耶穌所行的還有很多事沒有記載在這本書上。</li>
   </ul>
  </details>
 </details>
