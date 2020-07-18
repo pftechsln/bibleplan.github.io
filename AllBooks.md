@@ -5573,69 +5573,6 @@
   </ul>
  </details>
 </details>
-<details><summary>約翰一書 - <a href="https://bibleplan.github.io/daily/wk98-day4-daily.html">導讀 第98週第4天</a></summary>
- <details>
-  <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=約翰一書1.1-2.2&qs_version=CUVMPT">約翰一書1.1-2.2</a> - <a href="https://bibleplan.github.io/daily/wk98-day4-daily.html">神就是光</a></summary>
-  <ul>
-    <li>在神那裡有永恆的生命，藉著主耶穌基督向我們顯現過，也讓使徒聽過、看過、親手摸過。因此，我們應當喜樂充足。</li>
-    <li>神就是光，在祂毫無黑暗。我們與神相交，就是在光明中行，當認自己的罪，求神赦免。</li>
-  </ul>
- </details>
- <details>
-  <summary>2. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=約翰一書2.3-27&qs_version=CUVMPT">約翰一書2.3-27</a> - <a href="https://bibleplan.github.io/daily/wk98-day5-daily.html">新的命令</a></summary>
-  <ul>
-    <li>凡遵守主道的，愛神的心在他裡面實在是完全的；從此，我們知道我們是在主裡面。</li>
-    <li>黑暗漸漸過去，真光已經照耀。人若說自己在光明中，卻恨他的弟兄，他到如今還是在黑暗裡。</li>
-    <li>凡世界上的事，就像肉體的情慾、眼目的情慾並今生的驕傲，都不是從父來的，乃是從世界來的。這世界和其上的情慾都要過去，唯獨遵行神旨意的，是永遠常存。</li>
-    <li>凡不認子的，就沒有父；認子的，連父也有了。</li>
-    <li>主所應許我們的是永生。</li>
-  </ul>
- </details>
- <details>
-  <summary>3. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=約翰一書2.28-3.24&qs_version=CUVMPT">約翰一書2.28-3.24</a> - <a href="https://bibleplan.github.io/daily/wk98-day6-daily.html">神的兒女</a></summary>
-  <ul>
-    <li>父賜給我們是何等的慈愛，使我們得稱為神的兒女；我們也真是他的兒女。</li>
-    <li>神的命令就是叫我們信他兒子耶穌基督的名，且照他所賜給我們的命令彼此相愛。</li>
-  </ul>
- </details>
- <details>
-  <summary>4. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=約翰一書4&qs_version=CUVMPT">約翰一書4</a> - <a href="https://bibleplan.github.io/daily/wk99-day1-daily.html">彼此相愛</a></summary>
-  <ul>
-    <li>愛是從神來的。凡有愛心的，都是由神而生，並且認識神。</li>
-    <li>神差他的兒子為我們的罪作了挽回祭，這就是愛了。</li>
-    <li>神就是愛；住在愛裡面的，就是住在神裡面，神也住在他裡面。</li>
-    <li>我們愛，因為神先愛我們。</li>
-  </ul>
- </details>
- <details>
-  <summary>5. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=約翰一書5&qs_version=CUVMPT">約翰一書5</a> - <a href="https://bibleplan.github.io/daily/wk99-day2-daily.html">虛假師傅</a></summary>
-  <ul>
-    <li>作見證的原來有三：就是聖靈、水、與血。這三樣也都在主耶稣基督里歸於一。</li>
-    <li>凡從神生的，必不犯罪，從神生的，必保守自己，那惡者也就無法害他。</li>
-    <li>神的兒子已經來到，且將智慧賜給我們，使我們認識那位真實的；我們也在那位真實的裡面，就是在他兒子耶穌基督裡面。這是真神，也是永生。</li>
-  </ul>
- </details>
-</details>
-<details><summary>約翰二書 - <a href="https://bibleplan.github.io/daily/wk99-day3-daily.html">導讀 第99週第3天</a></summary>
- <details>
-  <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=約翰二書1&qs_version=CUVMPT">約翰二書1</a> - <a href="https://bibleplan.github.io/daily/wk99-day3-daily.html">愛與真理</a></summary>
-  <ul>
-    <li>真理與愛心須是並行的，愛是為著真理的緣故。</li>
-    <li>遵行神的命令，彼此相愛，就是愛神。</li>
-    <li>彼此相愛要以遵行真理為前提，不遵循基督的教訓的，不要接待。</li>
-  </ul>
- </details>
-</details>
-<details><summary>約翰三書 - <a href="https://bibleplan.github.io/daily/wk99-day4-daily.html">導讀 第99週第4天</a></summary>
- <details>
-  <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=約翰三書1&qs_version=CUVMPT">約翰三書1</a> - <a href="https://bibleplan.github.io/daily/wk99-day4-daily.html">真理與愛</a></summary>
-  <ul>
-    <li>神的兒女應當心中存著真理，按真理而行。</li>
-    <li>當愛心接待為主名外出做工的弟兄，這樣就是與他們一同為真理做工。</li>
-    <li>不要效法那些好為首、拒絕接待主的工人的惡，要效法有真理有愛心的善。</li>
-  </ul>
- </details>
-</details>
 <details><summary>啟示錄 - <a href="https://bibleplan.github.io/daily/wk99-day5-daily.html">導讀 第99週第5天</a></summary>
  <details>
   <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=啟示錄1&qs_version=CUVMPT">啟示錄1</a> - <a href="https://bibleplan.github.io/daily/wk99-day5-daily.html">駕雲降臨</a></summary>
