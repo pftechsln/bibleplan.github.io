@@ -1103,7 +1103,7 @@
   </ul>
  </details>
 </details>
-<details><summary>路得記 - <a href="https://bibleplan.github.io/daily/wk23-day4-daily.html">導讀 第23週第4天</a></summary>
+<details><summary>路得記</summary>
  <details>
    <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=路得記1&qs_version=CUVMPT">路得記 1</a> - <a href="https://bibleplan.github.io/daily/wk23-day4-daily.html">由甜至苦</a></summary>
    <ul>
@@ -1133,7 +1133,7 @@
    </ul>
  </details>
 </details>
-<details><summary>撒母耳記上 - <a href="https://bibleplan.github.io/daily/wk52-day3-daily.html">導讀 第52週第3天</a></summary>
+<details><summary>撒母耳記上</summary>
  <details>
   <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=撒母耳記上1:1-2:11&qs_version=CUVMPT">撒母耳記上1:1-2:11</a> - <a href="https://bibleplan.github.io/daily/wk52-day3-daily.html">哈拿禱告</a></summary>
   <ul>
@@ -1270,7 +1270,7 @@
   </ul>
  </details>
 </details>
-<details><summary>撒母耳記下 - <a href="https://bibleplan.github.io/daily/wk55-day1-daily.html">導讀 第55週第1天</a></summary>
+<details><summary>撒母耳記下</summary>
  <details>
   <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=撒母耳記下1-2&qs_version=CUVMPT">撒母耳記下1-2</a> - <a href="https://bibleplan.github.io/daily/wk55-day1-daily.html">再次膏立</a></summary>
   <ul>
@@ -1394,7 +1394,7 @@
   </ul>
  </details>
 </details>
-<details><summary>列王紀上 - <a href="https://bibleplan.github.io/daily/wk57-day3-daily.html">導讀 第57週第3天</a></summary>
+<details><summary>列王紀上</summary>
  <details>
   <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=列王紀上1-2&qs_version=CUVMPT">列王紀上1-2</a> - <a href="https://bibleplan.github.io/daily/wk57-day3-daily.html">繼承王位</a></summary>
   <ul>
@@ -1524,7 +1524,7 @@
   </ul>
  </details>
 </details>
-<details><summary>列王紀下 - <a href="https://bibleplan.github.io/daily/wk59-day4-daily.html">導讀 第59週第4天</a></summary>
+<details><summary>列王紀下</summary>
  <details>
   <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=列王紀下1-2&qs_version=CUVMPT">列王紀下1-2</a> - <a href="https://bibleplan.github.io/daily/wk59-day4-daily.html">乘風升天</a></summary>
   <ul>
@@ -1661,7 +1661,7 @@
   </ul>
  </details>
 </details>
-<details><summary>歷代志上 - <a href="https://bibleplan.github.io/daily/wk61-day6-daily.html">導讀 第61週第6天</a></summary>
+<details><summary>歷代志上</summary>
  <details>
   <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=歷代志上1-2&qs_version=CUVMPT">歷代志上1-2</a> - <a href="https://bibleplan.github.io/daily/wk61-day6-daily.html">家譜族系</a></summary>
   <ul>
@@ -1830,7 +1830,7 @@
   </ul>
  </details>
 </details>
-<details><summary>歷代志下 - <a href="https://bibleplan.github.io/daily/wk64-day5-daily.html">導讀 第64週第5天</a></summary>
+<details><summary>歷代志下</summary>
  <details>
   <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=歷代志下1-2&qs_version=CUVMPT">歷代志下1-2</a> - <a href="https://bibleplan.github.io/daily/wk64-day5-daily.html">所羅門王</a></summary>
   <ul>
@@ -2045,7 +2045,7 @@
   </ul>
  </details>
 </details>
-<details><summary>以斯拉記 - <a href="https://bibleplan.github.io/daily/wk67-day6-daily.html">導讀 第67週第6天</a></summary>
+<details><summary>以斯拉記</summary>
  <details>
   <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=以斯拉記1-2&qs_version=CUVMPT">以斯拉記 1-2</a> - <a href="https://bibleplan.github.io/daily/wk67-day6-daily.html">被擄回歸</a></summary>
   <ul>
