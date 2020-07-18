@@ -1,4 +1,7 @@
-[主頁](https://bibleplan.github.io) | [計劃](https://bibleplan.github.io/schedule2020.html)
+---
+layout: post
+---
+<!--[主頁](https://bibleplan.github.io) | [計劃](https://bibleplan.github.io/schedule2020.html)-->
 
 # 聖經各書卷
 <details><summary>創世記</summary>
