@@ -2093,7 +2093,7 @@
   </ul>
  </details>
 </details>
-<details><summary>尼希米記 - <a href="https://bibleplan.github.io/daily/wk68-day5-daily.html">導讀 第68週第5天</a></summary>
+<details><summary>尼希米記</summary>
  <details>
   <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=尼希米記1-2&qs_version=CUVMPT">尼希米記 1-2</a> - <a href="https://bibleplan.github.io/daily/wk68-day5-daily.html">重建城墻</a></summary>
   <ul>
@@ -2178,7 +2178,7 @@
   </ul>
  </details>
 </details>
-<details><summary>以斯帖記 - <a href="https://bibleplan.github.io/daily/wk70-day2-daily.html">導讀 第70週第2天</a></summary>
+<details><summary>以斯帖記</summary>
  <details>
   <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=以斯帖記1.1-2.18&qs_version=CUVMPT">以斯帖記 1.1-2.18</a> - <a href="https://bibleplan.github.io/daily/wk70-day2-daily.html">被選為后</a></summary>
   <ul>
@@ -2235,7 +2235,7 @@
  </details>
 </details>
 
-<details><summary>以賽亞書 - <a href="https://bibleplan.github.io/daily/wk71-day2-daily.html">導讀 第71週第2天</a></summary>  
+<details><summary>以賽亞書</summary>  
  <details>
   <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=以賽亞書1.1-2.5&qs_version=CUVMPT">以賽亞書 1.1-2.5</a> - <a href="https://bibleplan.github.io/daily/wk71-day2-daily.html">先知預言</a></summary>
   <ul>
@@ -2616,7 +2616,7 @@
  </details>
 </details>
 
-<details><summary>耶利米書 - <a href="https://bibleplan.github.io/daily/wk77-day3-daily.html">導讀 第77週第3天</a></summary>  
+<details><summary>耶利米書</summary>  
  <details>
   <summary>1. <a href="https://www.biblegateway.com/passage/?search=Jeremiah1&version=CUVMPT">耶利米書 1</a> - <a href="https://bibleplan.github.io/daily/wk77-day3-daily.html">蒙神差遣</a></summary>
   <ul>
@@ -3012,7 +3012,7 @@
  </details>
 </details>
 <details>
- <summary>耶利米哀歌 <a href="https://bibleplan.github.io/daily/wk82-day6-daily.html">導讀 第82週第6天</a></summary>
+ <summary>耶利米哀歌</summary>
  <details>
   <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=耶利米哀歌1&qs_version=CUVMPT">耶利米哀歌 1</a> - <a href="https://bibleplan.github.io/daily/wk82-day6-daily.html">無人安慰</a>
 </summary>
@@ -3061,7 +3061,7 @@
   </ul>
  </details>
 </details>
-<details><summary>以西結書 - <a href="https://bibleplan.github.io/daily/wk83-day5-daily.html">導讀 第83週第5天</a></summary>
+<details><summary>以西結書</summary>
  <details>
   <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=以西結書1&qs_version=CUVMPT">以西結書 1</a> - <a href="https://bibleplan.github.io/daily/wk83-day5-daily.html">得見榮耀</a>
 </summary>
@@ -3396,7 +3396,7 @@
   </ul>
  </details>
 </details>
-<details><summary>但以理書 - <a href="https://bibleplan.github.io/daily/wk88-day5-daily.html">導讀 第88週第5天</a></summary>
+<details><summary>但以理書</summary>
  <details>
   <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=但以理書1&qs_version=CUVMPT">但以理書1</a> - <a href="https://bibleplan.github.io/daily/wk88-day5-daily.html">異邦成長</a></summary>
   <ul>
@@ -3505,7 +3505,7 @@
   </ul>
  </details>
 </details>
-<details><summary>何西阿書 - <a href="https://bibleplan.github.io/daily/wk90-day2-daily.html">導讀 第90週第2天</a></summary>
+<details><summary>何西阿書</summary>
  <details>
   <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=何西阿書1-2&qs_version=CUVMPT">何西阿書1-2</a> - <a href="https://bibleplan.github.io/daily/wk90-day2-daily.html">淫婦歌篾</a></summary>
   <ul>
@@ -3589,7 +3589,7 @@
   </ul>
  </details>
 </details>
-<details><summary>約珥書 - <a href="https://bibleplan.github.io/daily/wk91-day4-daily.html">導讀 第91週第4天</a></summary>
+<details><summary>約珥書</summary>
  <details>
   <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=約珥書1-2&qs_version=CUVMPT">約珥書1-2</a> - <a href="https://bibleplan.github.io/daily/wk91-day4-daily.html">蝗蟲大軍</a></summary>
   <ul>
@@ -3613,7 +3613,7 @@
   </ul>
  </details>
 </details>
-<details><summary>阿摩司書 - <a href="https://bibleplan.github.io/daily/wk91-day6-daily.html">導讀 第91週第6天</a></summary>
+<details><summary>阿摩司書</summary>
  <details>
   <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=阿摩司書1-2&qs_version=CUVMPT">阿摩司書1-2</a> - <a href="https://bibleplan.github.io/daily/wk91-day6-daily.html">三番四次</a></summary>
   <ul>
@@ -3676,7 +3676,7 @@
   </ul>
  </details>
 </details>
-<details><summary>俄巴底亞書 - <a href="https://bibleplan.github.io/daily/wk92-day5-daily.html">導讀 第92週第5天</a></summary>
+<details><summary>俄巴底亞書</summary>
  <details>
   <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=俄巴底亞書1&qs_version=CUVMPT">俄巴底亞書1</a> - <a href="https://bibleplan.github.io/daily/wk92-day5-daily.html">降罰以東</a></summary>
   <ul>
@@ -3687,7 +3687,7 @@
   </ul>
  </details>
 </details>
-<details><summary>約拿書 - <a href="https://bibleplan.github.io/daily/wk92-day6-daily.html">導讀 第92週第6天</a></summary>
+<details><summary>約拿書</summary>
  <details>
   <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=約拿書1-4&qs_version=CUVMPT">約拿書1-4</a> - <a href="https://bibleplan.github.io/daily/wk92-day6-daily.html">先知約拿</a></summary>
   <ul>
@@ -3703,7 +3703,7 @@
   </ul>
  </details>
 </details>
-<details><summary>彌迦書 - <a href="https://bibleplan.github.io/daily/wk93-day1-daily.html">導讀 第93週第1天</a></summary>
+<details><summary>彌迦書</summary>
  <details>
   <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=彌迦書1-3&qs_version=CUVMPT">彌迦書1-3</a> - <a href="https://bibleplan.github.io/daily/wk93-day1-daily.html">警告南北</a></summary>
   <ul>
@@ -3741,7 +3741,7 @@
   </ul>
  </details>
 </details>
-<details><summary>那鴻書 - <a href="https://bibleplan.github.io/daily/wk93-day4-daily.html">導讀 第93週第4天</a></summary>
+<details><summary>那鴻書</summary>
  <details>
   <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=那鴻書1-3&qs_version=CUVMPT">那鴻書1-3</a> - <a href="https://bibleplan.github.io/daily/wk93-day4-daily.html">忌邪施報</a></summary>
   <ul>
@@ -3753,7 +3753,7 @@
   </ul>
  </details>
 </details>
-<details><summary>哈巴谷書 - <a href="https://bibleplan.github.io/daily/wk93-day5-daily.html">導讀 第93週第5天</a></summary>
+<details><summary>哈巴谷書</summary>
  <details>
   <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=哈巴谷書1-3&qs_version=CUVMPT">哈巴谷書1-3</a> - <a href="https://bibleplan.github.io/daily/wk93-day5-daily.html">與神問答</a></summary>
   <ul>
@@ -3765,7 +3765,7 @@
   </ul>
  </details>
 </details>
-<details><summary>西番雅書 - <a href="https://bibleplan.github.io/daily/wk93-day6-daily.html">導讀 第93週第6天</a></summary>
+<details><summary>西番雅書</summary>
  <details>
   <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=西番雅書1&qs_version=CUVMPT">西番雅書1</a> - <a href="https://bibleplan.github.io/daily/wk93-day6-daily.html">憤怒之日</a></summary>
   <ul>
@@ -3789,7 +3789,7 @@
   </ul>
  </details>
 </details>
-<details><summary>哈該書 - <a href="https://bibleplan.github.io/daily/wk92-day2-daily.html">導讀 第94週第2天</a></summary>
+<details><summary>哈該書</summary>
  <details>
   <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=哈該書1-2&qs_version=CUVMPT">哈該書1-2</a> - <a href="https://bibleplan.github.io/daily/wk94-day2-daily.html">延不建殿</a></summary>
   <ul>
@@ -3802,7 +3802,7 @@
   </ul>
  </details>
 </details>
-<details><summary>撒迦利亞書 - <a href="https://bibleplan.github.io/daily/wk94-day3-daily.html">導讀 第94週第3天</a></summary>
+<details><summary>撒迦利亞書</summary>
  <details>
   <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=撒迦利亞書1-2&qs_version=CUVMPT">撒迦利亞書1-2</a> - <a href="https://bibleplan.github.io/daily/wk94-day3-daily.html">威嚇列國</a></summary>
   <ul>
@@ -3871,7 +3871,7 @@
   </ul>
  </details>
 </details>
-<details><summary>瑪拉基書 - <a href="https://bibleplan.github.io/daily/wk95-day2-daily.html">導讀 第95週第2天</a></summary>
+<details><summary>瑪拉基書</summary>
  <details>
   <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=瑪拉基書1.1-3.5&qs_version=CUVMPT">瑪拉基書1.1-3.5</a> - <a href="https://bibleplan.github.io/daily/wk95-day2-daily.html">褻瀆之罪</a></summary>
   <ul>
@@ -3898,7 +3898,7 @@
   </ul>
  </details>
 </details>
-<details><summary>馬太福音 - <a href="https://bibleplan.github.io/daily/wk24-day2-daily.html">導讀 第24週第2天</a></summary>
+<details><summary>馬太福音</summary>
  <details>
   <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=馬太福音1-2&qs_version=CUVMPT">馬太福音1-2</a> - <a href="https://bibleplan.github.io/daily/wk24-day2-daily.html">耶穌是王</a></summary>
   <ul>
@@ -4034,7 +4034,7 @@
   </ul>
  </details>
 </details>
-<details><summary>馬可福音 - <a href="https://bibleplan.github.io/daily/wk27-day2-daily.html">導讀 第27週第2天</a></summary>
+<details><summary>馬可福音</summary>
  <details>
   <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=馬可福音1&qs_version=CUVMPT">馬可福音1</a> - <a href="https://bibleplan.github.io/daily/wk27-day2-daily.html">福音起頭</a></summary>
   <ul>
@@ -4137,7 +4137,7 @@
   </ul>
  </details>
 </details>
-<details><summary>路加福音 - <a href="https://bibleplan.github.io/daily/wk29-day3-daily.html">導讀 第29週第3天</a></summary>
+<details><summary>路加福音</summary>
  <details>
    <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=路加福音1&qs_version=CUVMPT">路加福音 1</a> - <a href="https://bibleplan.github.io/daily/wk29-day3-daily.html">施洗約翰</a></summary>
    <ul>
@@ -4319,7 +4319,7 @@
    </ul>
  </details>
 </details>
-<details><summary>約翰福音 - <a href="https://bibleplan.github.io/daily/wk95-day4-daily.html">導讀 第95週第4天</a></summary>
+<details><summary>約翰福音</summary>
  <details>
   <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=約翰福音1.1-18&qs_version=CUVMPT">約翰福音1.1-18</a> - <a href="https://bibleplan.github.io/daily/wk95-day4-daily.html">道成肉身</a></summary>
   <ul>
@@ -4527,7 +4527,7 @@
   </ul>
  </details>
 </details>
-<details><summary>使徒行傳 - <a href="https://bibleplan.github.io/daily/wk32-day6-daily.html">導讀 第32週第6天</a></summary>
+<details><summary>使徒行傳</summary>
  <details>
   <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=使徒行傳1&qs_version=CUVMPT">使徒行傳1</a> - <a href="https://bibleplan.github.io/daily/wk32-day6-daily.html">等候聖靈</a></summary>
   <ul>
@@ -4678,7 +4678,7 @@
   </ul>
  </details>
 </details>
-<details><summary>羅馬書 - <a href="https://bibleplan.github.io/daily/wk35-day6-daily.html">導讀 第35週第6天</a></summary>
+<details><summary>羅馬書</summary>
  <details>
   <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=羅馬書1:1-17&qs_version=CUVMPT">羅馬書1:1-17</a> - <a href="https://bibleplan.github.io/daily/wk35-day6-daily.html">神的福音</a></summary>
   <ul>
@@ -4784,7 +4784,7 @@
   </ul>
  </details>
 </details>
-<details><summary>哥林多前書 - <a href="https://bibleplan.github.io/daily/wk38-day1-daily.html">導讀 第38週第1天</a></summary>
+<details><summary>哥林多前書</summary>
  <details>
   <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=哥林多前書1:1-3:4&qs_version=CUVMPT">哥林多前書1:1-3:4</a> - <a href="https://bibleplan.github.io/daily/wk38-day1-daily.html">神的智慧</a></summary>
   <ul>
@@ -4870,7 +4870,7 @@
   </ul>
  </details>
 </details>
-<details><summary>哥林多後書 - <a href="https://bibleplan.github.io/daily/wk39-day5-daily.html">導讀 第39週第5天</a></summary>
+<details><summary>哥林多後書</summary>
  <details>
   <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=哥林多後書1:1-2:13&qs_version=CUVMPT">哥林多後書1:1-2:13</a> - <a href="https://bibleplan.github.io/daily/wk39-day5-daily.html">患難與憂愁</a></summary>
   <ul>
@@ -4938,7 +4938,7 @@
   </ul>
  </details>
 </details>
-<details><summary>加拉太書 - <a href="https://bibleplan.github.io/daily/wk41-day1-daily.html">導讀 第41週第1天</a></summary>
+<details><summary>加拉太書</summary>
  <details>
   <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=加拉太書1-2&qs_version=CUVMPT">加拉太書1-2</a> - <a href="https://bibleplan.github.io/daily/wk41-day1-daily.html">福音真源</a></summary>
   <ul>
@@ -4974,7 +4974,7 @@
   </ul>
  </details>
 </details>
-<details><summary>以弗所書 - <a href="https://bibleplan.github.io/daily/wk41-day5-daily.html">導讀 第41週第5天</a></summary>
+<details><summary>以弗所書</summary>
  <details>
   <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=以弗所書1&qs_version=CUVMPT">以弗所書1</a> - <a href="https://bibleplan.github.io/daily/wk41-day5-daily.html">屬靈基業</a></summary>
   <ul>
@@ -5014,7 +5014,7 @@
   </ul>
  </details>
 </details>
-<details><summary>腓立比書 - <a href="https://bibleplan.github.io/daily/wk42-day4-daily.html">導讀 第42週第4天</a></summary>
+<details><summary>腓立比書</summary>
  <details>
   <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=腓立比書1:1-26&qs_version=CUVMPT">腓立比書1:1-26</a> - <a href="https://bibleplan.github.io/daily/wk42-day4-daily.html">興旺福音</a></summary>
   <ul>
@@ -5050,7 +5050,7 @@
   </ul>
  </details>
 </details>
-<details><summary>歌羅西書 - <a href="https://bibleplan.github.io/daily/wk43-day2-daily.html">導讀 第43週第2天</a></summary>
+<details><summary>歌羅西書</summary>
  <details>
   <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=歌羅西書1:1-2:5&qs_version=CUVMPT">歌羅西書1:1-2:5</a> - <a href="https://bibleplan.github.io/daily/wk43-day2-daily.html">神的奥秘</a></summary>
   <ul>
@@ -5077,7 +5077,7 @@
   </ul>
  </details>
 </details>
-<details><summary>帖撒羅尼迦前書 - <a href="https://bibleplan.github.io/daily/wk43-day5-daily.html">導讀 第43週第5天</a></summary>
+<details><summary>帖撒羅尼迦前書</summary>
  <details>
   <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=帖撒羅尼迦前書1&qs_version=CUVMPT">帖撒羅尼迦前書1</a> - <a href="https://bibleplan.github.io/daily/wk43-day5-daily.html">信心根基</a></summary>
   <ul>
@@ -5127,7 +5127,7 @@
   </ul>
  </details>
 </details>
-<details><summary>帖撒羅尼迦後書 - <a href="https://bibleplan.github.io/daily/wk44-day5-daily.html">導讀 第44週第5天</a></summary>
+<details><summary>帖撒羅尼迦後書</summary>
  <details>
   <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=帖撒羅尼迦後書1&qs_version=CUVMPT">帖撒羅尼迦後書1</a> - <a href="https://bibleplan.github.io/daily/wk44-day5-daily.html">公義審判</a></summary>
   <ul>
@@ -5154,7 +5154,7 @@
   </ul>
  </details>
 </details>
-<details><summary>提摩太前書 - <a href="https://bibleplan.github.io/daily/wk45-day2-daily.html">導讀 第45週第2天</a></summary>
+<details><summary>提摩太前書</summary>
  <details>
   <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=提摩太前書1&qs_version=CUVMPT">提摩太前書1</a> - <a href="https://bibleplan.github.io/daily/wk45-day2-daily.html">命令總歸</a></summary>
   <ul>
@@ -5212,7 +5212,7 @@
   </ul>
  </details>
 </details>
-<details><summary>提摩太後書 - <a href="https://bibleplan.github.io/daily/wk46-day2-daily.html">導讀 第46週第2天</a></summary>
+<details><summary>提摩太後書</summary>
  <details>
   <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=提摩太後書1:1-2:13&qs_version=CUVMPT">提摩太後書1:1-2:13</a> - <a href="https://bibleplan.github.io/daily/wk46-day2-daily.html">恩賜的火</a></summary>
   <ul>
@@ -5241,7 +5241,7 @@
   </ul>
  </details>
 </details>
-<details><summary>提多書 - <a href="https://bibleplan.github.io/daily/wk46-day5-daily.html">導讀 第46週第5天</a></summary>
+<details><summary>提多書</summary>
  <details>
   <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=提多書1-2&qs_version=CUVMPT">提多書1-2</a> - <a href="https://bibleplan.github.io/daily/wk46-day5-daily.html">敬虔真理</a></summary>
   <ul>
@@ -5258,7 +5258,7 @@
   </ul>
  </details>
 </details>
-<details><summary>腓利門書 - <a href="https://bibleplan.github.io/daily/wk47-day1-daily.html">導讀 第47週第1天</a></summary>
+<details><summary>腓利門書</summary>
  <details>
   <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=腓利門書1&qs_version=CUVMPT">腓利門書1</a> - <a href="https://bibleplan.github.io/daily/wk47-day1-daily.html">面對過去</a></summary>
   <ul>
@@ -5267,7 +5267,7 @@
   </ul>
  </details>
 </details>
-<details><summary>希伯來書 - <a href="https://bibleplan.github.io/daily/wk47-day2-daily.html">導讀 第47週第2天</a></summary>
+<details><summary>希伯來書</summary>
  <details>
   <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=希伯來書1&qs_version=CUVMPT">希伯來書1</a> - <a href="https://bibleplan.github.io/daily/wk47-day2-daily.html">遠超天使</a></summary>
   <ul>
@@ -5370,7 +5370,7 @@
   </ul>
  </details>
 </details>
-<details><summary>雅各書 - <a href="https://bibleplan.github.io/daily/wk49-day1-daily.html">導讀 第49週第1天</a></summary>
+<details><summary>雅各書</summary>
  <details>
   <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=雅各書1:1-18&qs_version=CUVMPT">雅各書1:1-18</a> - <a href="https://bibleplan.github.io/daily/wk49-day1-daily.html">信心試煉</a></summary>
   <ul>
@@ -5408,7 +5408,7 @@
   </ul>
  </details>
 </details>
-<details><summary>彼得前書 - <a href="https://bibleplan.github.io/daily/wk49-day5-daily.html">導讀 第49週第5天</a></summary>
+<details><summary>彼得前書</summary>
  <details>
   <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=彼得前書1:1-12&qs_version=CUVMPT">彼得前書1:1-12</a> - <a href="https://bibleplan.github.io/daily/wk49-day5-daily.html">靈魂救恩</a></summary>
   <ul>
@@ -5458,7 +5458,7 @@
   </ul>
  </details>
 </details>
-<details><summary>彼得後書 - <a href="https://bibleplan.github.io/daily/wk50-day4-daily.html">導讀 第50週第4天</a></summary>
+<details><summary>彼得後書</summary>
  <details>
   <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=彼得後書1&qs_version=CUVMPT">彼得後書1</a> - <a href="https://bibleplan.github.io/daily/wk50-day4-daily.html">分外殷勤</a></summary>
   <ul>
@@ -5489,7 +5489,7 @@
   </ul>
  </details>
 </details>
-<details><summary>約翰一書 - <a href="https://bibleplan.github.io/daily/wk51-day1-daily.html">導讀 第51週第1天</a></summary>
+<details><summary>約翰一書</summary>
  <details>
   <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=約翰一書1:1-2:2&qs_version=CUVMPT">約翰一書1:1-2:2</a> - <a href="https://bibleplan.github.io/daily/wk51-day1-daily.html">神就是光</a></summary>
   <ul>
@@ -5532,7 +5532,7 @@
   </ul>
  </details>
 </details>
-<details><summary>約翰二書 - <a href="https://bibleplan.github.io/daily/wk51-day6-daily.html">導讀 第51週第6天</a></summary>
+<details><summary>約翰二書</summary>
  <details>
   <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=約翰二書1&qs_version=CUVMPT">約翰二書1</a> - <a href="https://bibleplan.github.io/daily/wk51-day6-daily.html">愛與真理</a></summary>
   <ul>
@@ -5541,7 +5541,7 @@
    <li>彼此相愛要以遵行真理為前提，不遵循基督的教訓的，不要接待。</li>
   </ul>
  </details></details>
-<details><summary>約翰三書 - <a href="https://bibleplan.github.io/daily/wk52-day1-daily.html">導讀 第52週第1天</a></summary>
+<details><summary>約翰三書</summary>
  <details>
   <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=約翰三書1&qs_version=CUVMPT">約翰三書1</a> - <a href="https://bibleplan.github.io/daily/wk52-day1-daily.html">真理與愛</a></summary>
   <ul>
@@ -5550,7 +5550,7 @@
    <li>不要效法那些好為首、拒絕接待主的工人的惡，要效法有真理有愛心的善。</li>
   </ul>
  </details></details>
-<details><summary>猶大書 - <a href="https://bibleplan.github.io/daily/wk52-day2-daily.html">導讀 第52週第2天</a></summary>
+<details><summary>猶大書</summary>
  <details>
   <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=猶大書1&qs_version=CUVMPT">猶大書1</a> - <a href="https://bibleplan.github.io/daily/wk52-day2-daily.html">竭力爭辯</a></summary>
   <ul>
@@ -5563,7 +5563,7 @@
   </ul>
  </details>
 </details>
-<details><summary>啟示錄 - <a href="https://bibleplan.github.io/daily/wk99-day5-daily.html">導讀 第99週第5天</a></summary>
+<details><summary>啟示錄</summary>
  <details>
   <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=啟示錄1&qs_version=CUVMPT">啟示錄1</a> - <a href="https://bibleplan.github.io/daily/wk99-day5-daily.html">駕雲降臨</a></summary>
   <ul>
