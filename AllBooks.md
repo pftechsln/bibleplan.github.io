@@ -1,7 +1,7 @@
 [主頁](https://bibleplan.github.io) | [計劃](https://bibleplan.github.io/schedule2020.html)
 
 # 聖經 - 各書卷
-<details><summary>創世記 - <a href="https://bibleplan.github.io/daily/wk1-day1-daily.html">導讀 第1週第1天</a></summary>
+<details><summary>創世記</summary>
  <details>
    <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=創世記1:1-2.3&qs_version=CUVMPT">創世記1:1-2:3</a> - <a href="https://bibleplan.github.io/daily/wk1-day1-daily.html">開天闢地</a></summary>
    <ul>
@@ -235,7 +235,7 @@
   </ul>
  </details>
 </details>
-<details><summary>出埃及記 - <a href="https://bibleplan.github.io/daily/2018-02-24-daily.html">導讀 第5週第6天</a></summary>
+<details><summary>出埃及記</summary>
  <details>
    <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=出埃及記1-2&qs_version=CUVMPT">出埃及記 1-2</a> - <a href="https://bibleplan.github.io/daily/2018-02-24-daily.html">救贖預備</a></summary>
    <ul>
@@ -434,7 +434,7 @@
   </ul>
  </details>
 </details>
-<details><summary>利未記 - <a href="https://bibleplan.github.io/daily/wk9-day5-daily.html">導讀 第9週第5天</a></summary>
+<details><summary>利未記</summary>
  <details>
    <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=利未記1-2&qs_version=CUVMPT">利未記 1-2</a> - <a href="https://bibleplan.github.io/daily/wk9-day5-daily.html">燔祭素祭</a></summary>
    <ul>
@@ -569,7 +569,7 @@
   </ul>
  </details>
 </details>
-<details><summary>民數記 - <a href="https://bibleplan.github.io/daily/wk12-day4-daily.html">導讀 第12週第4天</a></summary>
+<details><summary>民數記</summary>
  <details>
    <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=民數記1-2&qs_version=CUVMPT">民數記 1-2</a> - <a href="https://bibleplan.github.io/daily/wk12-day4-daily.html">數點安營</a></summary>
    <ul>
@@ -740,7 +740,7 @@
    </ul>
  </details>
 </details>
-<details><summary>申命記 - <a href="https://bibleplan.github.io/daily/wk15-day6-daily.html">導讀 第15週第6天</a></summary>
+<details><summary>申命記</summary>
  <details>
   <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=申命記1&qs_version=CUVMPT">申命記1</a> - <a href="https://bibleplan.github.io/daily/wk15-day6-daily.html">悖逆失敗</a></summary>
   <ul>
@@ -895,7 +895,7 @@
   </ul>
  </details>
 </details>
-<details><summary>約書亞記 - <a href="https://bibleplan.github.io/daily/wk19-day2-daily.html">導讀 第19週第2天</a></summary>
+<details><summary>約書亞記</summary>
  <details>
   <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=約書亞記1&qs_version=CUVMPT">約書亞記1</a> - <a href="https://bibleplan.github.io/daily/wk19-day2-daily.html">剛強壯膽</a></summary>
   <ul>
@@ -1001,7 +1001,7 @@
   </ul>
  </details>
 </details>
-<details><summary>士師記 - <a href="https://bibleplan.github.io/daily/wk21-day4-daily.html">導讀 第21週第4天</a></summary>
+<details><summary>士師記</summary>
  <details>
   <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=士師記1:1-2:5&qs_version=CUVMPT">士師記1:1-2:5</a> - <a href="https://bibleplan.github.io/daily/wk21-day4-daily.html">漸入網羅</a></summary>
   <ul>
