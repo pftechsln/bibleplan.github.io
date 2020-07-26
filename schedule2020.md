@@ -2403,4 +2403,70 @@ plan:
       verseBG: Psalms.27
       verseYV: PSA.27
 
+  - index: 219
+    verses:
+    - titleCh: 申命記 21-22
+      titleEn: Deuteronomy 21-22
+      verseBG: Deuteronomy.21-22
+      verseYV: DEU.21
+    - titleCh: 詩篇 28
+      titleEn: Psalms 28
+      verseBG: Psalms.28
+      verseYV: PSA.28
+
+  - index: 220
+    verses:
+    - titleCh: 申命記 23
+      titleEn: Deuteronomy 23
+      verseBG: Deuteronomy.23
+      verseYV: DEU.23
+    - titleCh: 詩篇 29
+      titleEn: Psalms 29
+      verseBG: Psalms.29
+      verseYV: PSA.29
+
+  - index: 221
+    verses:
+    - titleCh: 申命記 24-25
+      titleEn: Deuteronomy 24-25
+      verseBG: Deuteronomy.24-25
+      verseYV: DEU.24
+    - titleCh: 詩篇 30
+      titleEn: Psalms 30
+      verseBG: Psalms.30
+      verseYV: PSA.30
+
+  - index: 222
+    verses:
+    - titleCh: 申命記 26
+      titleEn: Deuteronomy 26
+      verseBG: Deuteronomy.26
+      verseYV: DEU.26
+    - titleCh: 詩篇 31
+      titleEn: Psalms 31
+      verseBG: Psalms.31
+      verseYV: PSA.31
+
+  - index: 223
+    verses:
+    - titleCh: 申命記 27-28
+      titleEn: Deuteronomy 27-28
+      verseBG: Deuteronomy.27-28
+      verseYV: DEU.27
+    - titleCh: 詩篇 32
+      titleEn: Psalms 32
+      verseBG: Psalms.32
+      verseYV: PSA.32
+
+  - index: 224
+    verses:
+    - titleCh:  
+      titleEn: 
+      verseBG: 
+      verseYV: 
+    - titleCh: 詩篇 33
+      titleEn: Psalms 33
+      verseBG: Psalms.33
+      verseYV: PSA.33
+
 ---
