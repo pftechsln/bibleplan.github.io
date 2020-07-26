@@ -2700,4 +2700,235 @@ plan:
       verseBG: Psalms.54
       verseYV: PSA.54
 
+  - index: 246
+    verses:
+    - titleCh: 士師記 1.1-2.5
+      titleEn: Judges 1.1-2.5
+      verseBG: Judges.1.1-2.5
+      verseYV: JDG.1
+    - titleCh: 詩篇 55
+      titleEn: Psalms 55
+      verseBG: Psalms.55
+      verseYV: PSA.55
+
+  - index: 247
+    verses:
+    - titleCh: 士師記 2.6-3.6
+      titleEn: Judges 2.6-3.6
+      verseBG: Judges.2.6-3.6
+      verseYV: JDG.2
+    - titleCh: 詩篇 56
+      titleEn: Psalms 56
+      verseBG: Psalms.56
+      verseYV: PSA.56
+
+  - index: 248
+    verses:
+    - titleCh: 士師記 3.7-5.31
+      titleEn: Judges 3.7-5.31
+      verseBG: Judges.3.7-5.31
+      verseYV: JDG.3
+    - titleCh: 詩篇 57
+      titleEn: Psalms 57
+      verseBG: Psalms.57
+      verseYV: PSA.57
+
+  - index: 249
+    verses:
+    - titleCh: 士師記 6-7
+      titleEn: Judges 6-7
+      verseBG: Judges.6-7
+      verseYV: JDG.6
+    - titleCh: 詩篇 58
+      titleEn: Psalms 58
+      verseBG: Psalms.58
+      verseYV: PSA.58
+
+  - index: 250
+    verses:
+    - titleCh: 士師記 8
+      titleEn: Judges 8
+      verseBG: Judges.8
+      verseYV: JDG.8
+    - titleCh: 詩篇 59
+      titleEn: Psalms 59
+      verseBG: Psalms.59
+      verseYV: PSA.59
+
+  - index: 251
+    verses:
+    - titleCh: 士師記 9.1-10.5
+      titleEn: Judges 9.1-10.5
+      verseBG: Judges.9.1-10.5
+      verseYV: JDG.9
+    - titleCh: 詩篇 60
+      titleEn: Psalms 60
+      verseBG: Psalms.60
+      verseYV: PSA.60
+
+  - index: 252
+    verses:
+    - titleCh:  
+      titleEn: 
+      verseBG: 
+      verseYV: 
+    - titleCh: 詩篇 61
+      titleEn: Psalms 61
+      verseBG: Psalms.61
+      verseYV: PSA.61
+
+  - index: 253
+    verses:
+    - titleCh: 士師記 10.6-12.15
+      titleEn: Judges 10.6-12.15
+      verseBG: Judges.10.6-12.15
+      verseYV: JDG.10
+    - titleCh: 詩篇 62
+      titleEn: Psalms 62
+      verseBG: Psalms.62
+      verseYV: PSA.62
+
+  - index: 254
+    verses:
+    - titleCh: 士師記 13-14
+      titleEn: Judges 13-14
+      verseBG: Judges.13-14
+      verseYV: JDG.13
+    - titleCh: 詩篇 63
+      titleEn: Psalms 63
+      verseBG: Psalms.63
+      verseYV: PSA.63
+
+  - index: 255
+    verses:
+    - titleCh: 士師記 15-16
+      titleEn: Judges 15-16
+      verseBG: Judges.15-16
+      verseYV: JDG.15
+    - titleCh: 詩篇 64
+      titleEn: Psalms 64
+      verseBG: Psalms.64
+      verseYV: PSA.64
+
+  - index: 256
+    verses:
+    - titleCh: 士師記 17-18
+      titleEn: Judges 17-18
+      verseBG: Judges.17-18
+      verseYV: JDG.17
+    - titleCh: 詩篇 65
+      titleEn: Psalms 65
+      verseBG: Psalms.65
+      verseYV: PSA.65
+
+  - index: 257
+    verses:
+    - titleCh: 士師記 19
+      titleEn: Judges 19
+      verseBG: Judges.19
+      verseYV: JDG.19
+    - titleCh: 詩篇 66
+      titleEn: Psalms 66
+      verseBG: Psalms.66
+      verseYV: PSA.66
+
+  - index: 258
+    verses:
+    - titleCh: 士師記 20-21
+      titleEn: Judges 20-21
+      verseBG: Judges.20-21
+      verseYV: JDG.20
+    - titleCh: 詩篇 67
+      titleEn: Psalms 67
+      verseBG: Psalms.67
+      verseYV: PSA.67
+
+  - index: 259
+    verses:
+    - titleCh:  
+      titleEn: 
+      verseBG: 
+      verseYV: 
+    - titleCh: 詩篇 68
+      titleEn: Psalms 68
+      verseBG: Psalms.68
+      verseYV: PSA.68
+
+  - index: 260
+    verses:
+    - titleCh: 路得記  1
+      titleEn: Ruth 1
+      verseBG: Ruth.1
+      verseYV: RUT.1
+    - titleCh: 詩篇 69
+      titleEn: Psalms 69
+      verseBG: Psalms.69
+      verseYV: PSA.69
+
+  - index: 261
+    verses:
+    - titleCh: 路得記  2
+      titleEn: Ruth 2
+      verseBG: Ruth.2
+      verseYV: RUT.2
+    - titleCh: 詩篇 70
+      titleEn: Psalms 70
+      verseBG: Psalms.70
+      verseYV: PSA.70
+
+  - index: 262
+    verses:
+    - titleCh: 路得記  3
+      titleEn: Ruth 3
+      verseBG: Ruth.3
+      verseYV: RUT.3
+    - titleCh: 詩篇 71
+      titleEn: Psalms 71
+      verseBG: Psalms.71
+      verseYV: PSA.71
+
+  - index: 263
+    verses:
+    - titleCh: 路得記  4
+      titleEn: Ruth 4
+      verseBG: Ruth.4
+      verseYV: RUT.4
+    - titleCh: 詩篇 72
+      titleEn: Psalms 72
+      verseBG: Psalms.72
+      verseYV: PSA.72
+
+  - index: 264
+    verses:
+    - titleCh: 羅馬書 1.1-17
+      titleEn: Romans 1.1-17
+      verseBG: Romans.1.1-17
+      verseYV: ROM.1
+    - titleCh: 詩篇 73
+      titleEn: Psalms 73
+      verseBG: Psalms.73
+      verseYV: PSA.73
+
+  - index: 265
+    verses:
+    - titleCh: 羅馬書 1.18-2.29
+      titleEn: Romans 1.18-2.29
+      verseBG: Romans.1.18-2.29
+      verseYV: ROM.1
+    - titleCh: 詩篇 74
+      titleEn: Psalms 74
+      verseBG: Psalms.74
+      verseYV: PSA.74
+
+  - index: 266
+    verses:
+    - titleCh:  
+      titleEn: 
+      verseBG: 
+      verseYV: 
+    - titleCh: 詩篇 75
+      titleEn: Psalms 75
+      verseBG: Psalms.75
+      verseYV: PSA.75
+
 ---
