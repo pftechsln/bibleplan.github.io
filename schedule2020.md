@@ -2469,4 +2469,81 @@ plan:
       verseBG: Psalms.33
       verseYV: PSA.33
 
+  - index: 225
+    verses:
+    - titleCh: 申命記 29-30
+      titleEn: Deuteronomy 29-30
+      verseBG: Deuteronomy.29-30
+      verseYV: DEU.29
+    - titleCh: 詩篇 34
+      titleEn: Psalms 34
+      verseBG: Psalms.34
+      verseYV: PSA.34
+
+  - index: 226
+    verses:
+    - titleCh: 申命記 31.1-29
+      titleEn: Deuteronomy 31.1-29
+      verseBG: Deuteronomy.31.1-29
+      verseYV: DEU.31
+    - titleCh: 詩篇 35
+      titleEn: Psalms 35
+      verseBG: Psalms.35
+      verseYV: PSA.35
+
+  - index: 227
+    verses:
+    - titleCh: 申命記 31.30-33.29
+      titleEn: Deuteronomy 31.30-33.29
+      verseBG: Deuteronomy.31.30-33.29
+      verseYV: DEU.31
+    - titleCh: 詩篇 36
+      titleEn: Psalms 36
+      verseBG: Psalms.36
+      verseYV: PSA.36
+
+  - index: 228
+    verses:
+    - titleCh: 申命記 34
+      titleEn: Deuteronomy 34
+      verseBG: Deuteronomy.34
+      verseYV: DEU.34
+    - titleCh: 詩篇 37
+      titleEn: Psalms 37
+      verseBG: Psalms.37
+      verseYV: PSA.37
+
+  - index: 229
+    verses:
+    - titleCh: 約書亞記 1
+      titleEn: Joshua 1
+      verseBG: Joshua.1
+      verseYV: JOS.1
+    - titleCh: 詩篇 38
+      titleEn: Psalms 38
+      verseBG: Psalms.38
+      verseYV: PSA.38
+
+  - index: 230
+    verses:
+    - titleCh: 約書亞記 2
+      titleEn: Joshua 2
+      verseBG: Joshua.2
+      verseYV: JOS.2
+    - titleCh: 詩篇 39
+      titleEn: Psalms 39
+      verseBG: Psalms.39
+      verseYV: PSA.39
+
+  - index: 231
+    verses:
+    - titleCh:  
+      titleEn: 
+      verseBG: 
+      verseYV: 
+    - titleCh: 詩篇 40
+      titleEn: Psalms 40
+      verseBG: Psalms.40
+      verseYV: PSA.40
+
 ---
