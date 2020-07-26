@@ -2238,4 +2238,81 @@ plan:
       verseBG: Psalms.12
       verseYV: PSA.12
 
+  - index: 204
+    verses:
+    - titleCh: 民數記 34-35
+      titleEn: Numbers 34-35
+      verseBG: Numbers.34-35
+      verseYV: NUM.34
+    - titleCh: 詩篇 13
+      titleEn: Psalms 13
+      verseBG: Psalms.13
+      verseYV: PSA.13
+
+  - index: 205
+    verses:
+    - titleCh: 民數記 36
+      titleEn: Numbers 36
+      verseBG: Numbers.36
+      verseYV: NUM.36
+    - titleCh: 詩篇 14
+      titleEn: Psalms 14
+      verseBG: Psalms.14
+      verseYV: PSA.14
+
+  - index: 206
+    verses:
+    - titleCh: 申命記 1
+      titleEn: Deuteronomy 1
+      verseBG: Deuteronomy.1
+      verseYV: DEU.1
+    - titleCh: 詩篇 15
+      titleEn: Psalms 15
+      verseBG: Psalms.15
+      verseYV: PSA.15
+
+  - index: 207
+    verses:
+    - titleCh: 申命記 2-3 
+      titleEn: Deuteronomy 2-3 
+      verseBG: Deuteronomy.2-3 
+      verseYV: DEU.2
+    - titleCh: 詩篇 16
+      titleEn: Psalms 16
+      verseBG: Psalms.16
+      verseYV: PSA.16
+
+  - index: 208
+    verses:
+    - titleCh: 申命記 4:1-43
+      titleEn: Deuteronomy 4:1-43
+      verseBG: Deuteronomy.4:1-43
+      verseYV: DEU.4
+    - titleCh: 詩篇 17
+      titleEn: Psalms 17
+      verseBG: Psalms.17
+      verseYV: PSA.17
+
+  - index: 209
+    verses:
+    - titleCh: 申命記 4:44-5:33
+      titleEn: Deuteronomy 4:44-5:33
+      verseBG: Deuteronomy.4:44-5:33
+      verseYV: DEU.4
+    - titleCh: 詩篇 18
+      titleEn: Psalms 18
+      verseBG: Psalms.18
+      verseYV: PSA.18
+
+  - index: 210
+    verses:
+    - titleCh:  
+      titleEn: 
+      verseBG: 
+      verseYV: 
+    - titleCh: 詩篇 19
+      titleEn: Psalms 19
+      verseBG: Psalms.19
+      verseYV: PSA.19
+
 ---
