@@ -2546,4 +2546,81 @@ plan:
       verseBG: Psalms.40
       verseYV: PSA.40
 
+  - index: 232
+    verses:
+    - titleCh: 約書亞記 3.1-5.12
+      titleEn: Joshua 3.1-5.12
+      verseBG: Joshua.3.1-5.12
+      verseYV: JOS.3
+    - titleCh: 詩篇 41
+      titleEn: Psalms 41
+      verseBG: Psalms.41
+      verseYV: PSA.41
+
+  - index: 233
+    verses:
+    - titleCh: 約書亞記 5.13-7.26
+      titleEn: Joshua 5.13-7.26
+      verseBG: Joshua.5.13-7.26
+      verseYV: JOS.5
+    - titleCh: 詩篇 42
+      titleEn: Psalms 42
+      verseBG: Psalms.42
+      verseYV: PSA.42
+
+  - index: 234
+    verses:
+    - titleCh: 約書亞記 8
+      titleEn: Joshua 8
+      verseBG: Joshua.8
+      verseYV: JOS.8
+    - titleCh: 詩篇 43
+      titleEn: Psalms 43
+      verseBG: Psalms.43
+      verseYV: PSA.43
+
+  - index: 235
+    verses:
+    - titleCh: 約書亞記 9-10
+      titleEn: Joshua 9-10
+      verseBG: Joshua.9-10
+      verseYV: JOS.9
+    - titleCh: 詩篇 44
+      titleEn: Psalms 44
+      verseBG: Psalms.44
+      verseYV: PSA.44
+
+  - index: 236
+    verses:
+    - titleCh: 約書亞記 11-12
+      titleEn: Joshua 11-12
+      verseBG: Joshua.11-12
+      verseYV: JOS.11
+    - titleCh: 詩篇 45
+      titleEn: Psalms 45
+      verseBG: Psalms.45
+      verseYV: PSA.45
+
+  - index: 237
+    verses:
+    - titleCh: 約書亞記 13
+      titleEn: Joshua 13
+      verseBG: Joshua.13
+      verseYV: JOS.13
+    - titleCh: 詩篇 46
+      titleEn: Psalms 46
+      verseBG: Psalms.46
+      verseYV: PSA.46
+
+  - index: 238
+    verses:
+    - titleCh:  
+      titleEn: 
+      verseBG: 
+      verseYV: 
+    - titleCh: 詩篇 47
+      titleEn: Psalms 47
+      verseBG: Psalms.47
+      verseYV: PSA.47
+
 ---
