@@ -2315,4 +2315,92 @@ plan:
       verseBG: Psalms.19
       verseYV: PSA.19
 
+  - index: 211
+    verses:
+    - titleCh: 申命記 6-7
+      titleEn: Deuteronomy 6-7
+      verseBG: Deuteronomy.6-7
+      verseYV: DEU.6
+    - titleCh: 詩篇 20
+      titleEn: Psalms 20
+      verseBG: Psalms.20
+      verseYV: PSA.20
+
+  - index: 212
+    verses:
+    - titleCh: 申命記 8-9
+      titleEn: Deuteronomy 8-9
+      verseBG: Deuteronomy.8-9
+      verseYV: DEU.8
+    - titleCh: 詩篇 21
+      titleEn: Psalms 21
+      verseBG: Psalms.21
+      verseYV: PSA.21
+
+  - index: 213
+    verses:
+    - titleCh: 申命記 10-11
+      titleEn: Deuteronomy 10-11
+      verseBG: Deuteronomy.10-11
+      verseYV: DEU.10
+    - titleCh: 詩篇 22
+      titleEn: Psalms 22
+      verseBG: Psalms.22
+      verseYV: PSA.22
+
+  - index: 214
+    verses:
+    - titleCh: 申命記 12:1-14:2
+      titleEn: Deuteronomy 12:1-14:2
+      verseBG: Deuteronomy.12:1-14:2
+      verseYV: DEU.12
+    - titleCh: 詩篇 23
+      titleEn: Psalms 23
+      verseBG: Psalms.23
+      verseYV: PSA.23
+
+  - index: 215
+    verses:
+    - titleCh: 申命記 14.3-16.17
+      titleEn: Deuteronomy 14.3-16.17
+      verseBG: Deuteronomy.14.3-16.17
+      verseYV: DEU.14
+    - titleCh: 詩篇 24
+      titleEn: Psalms 24
+      verseBG: Psalms.24
+      verseYV: PSA.24
+
+  - index: 216
+    verses:
+    - titleCh: 申命記 16.18-18.22
+      titleEn: Deuteronomy 16.18-18.22
+      verseBG: Deuteronomy.16.18-18.22
+      verseYV: DEU.16
+    - titleCh: 詩篇 25
+      titleEn: Psalms 25
+      verseBG: Psalms.25
+      verseYV: PSA.25
+
+  - index: 217
+    verses:
+    - titleCh:  
+      titleEn: 
+      verseBG: 
+      verseYV: 
+    - titleCh: 詩篇 26
+      titleEn: Psalms 26
+      verseBG: Psalms.26
+      verseYV: PSA.26
+
+  - index: 218
+    verses:
+    - titleCh: 申命記 19-20
+      titleEn: Deuteronomy 19-20
+      verseBG: Deuteronomy.19-20
+      verseYV: DEU.19
+    - titleCh: 詩篇 27
+      titleEn: Psalms 27
+      verseBG: Psalms.27
+      verseYV: PSA.27
+
 ---
