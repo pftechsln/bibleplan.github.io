@@ -2623,4 +2623,81 @@ plan:
       verseBG: Psalms.47
       verseYV: PSA.47
 
+  - index: 239
+    verses:
+    - titleCh: 約書亞記 14-15
+      titleEn: Joshua 14-15
+      verseBG: Joshua.14-15
+      verseYV: JOS.14
+    - titleCh: 詩篇 48
+      titleEn: Psalms 48
+      verseBG: Psalms.48
+      verseYV: PSA.48
+
+  - index: 240
+    verses:
+    - titleCh: 約書亞記 16-17
+      titleEn: Joshua 16-17
+      verseBG: Joshua.16-17
+      verseYV: JOS.16
+    - titleCh: 詩篇 49
+      titleEn: Psalms 49
+      verseBG: Psalms.49
+      verseYV: PSA.49
+
+  - index: 241
+    verses:
+    - titleCh: 約書亞記 18-19
+      titleEn: Joshua 18-19
+      verseBG: Joshua.18-19
+      verseYV: JOS.18
+    - titleCh: 詩篇 50
+      titleEn: Psalms 50
+      verseBG: Psalms.50
+      verseYV: PSA.50
+
+  - index: 242
+    verses:
+    - titleCh: 約書亞記 20-21
+      titleEn: Joshua 20-21
+      verseBG: Joshua.20-21
+      verseYV: JOS.20
+    - titleCh: 詩篇 51
+      titleEn: Psalms 51
+      verseBG: Psalms.51
+      verseYV: PSA.51
+
+  - index: 243
+    verses:
+    - titleCh: 約書亞記 22-23
+      titleEn: Joshua 22-23
+      verseBG: Joshua.22-23
+      verseYV: JOS.22
+    - titleCh: 詩篇 52
+      titleEn: Psalms 52
+      verseBG: Psalms.52
+      verseYV: PSA.52
+
+  - index: 244
+    verses:
+    - titleCh: 約書亞記 24
+      titleEn: Joshua 24
+      verseBG: Joshua.24
+      verseYV: JOS.24
+    - titleCh: 詩篇 53
+      titleEn: Psalms 53
+      verseBG: Psalms.53
+      verseYV: PSA.53
+
+  - index: 245
+    verses:
+    - titleCh:  
+      titleEn: 
+      verseBG: 
+      verseYV: 
+    - titleCh: 詩篇 54
+      titleEn: Psalms 54
+      verseBG: Psalms.54
+      verseYV: PSA.54
+
 ---
