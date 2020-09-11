@@ -3014,10 +3014,10 @@ plan:
       titleEn: Romans 9.30-10.21
       verseBG: Romans.9.30-10.21
       verseYV: ROM.9
-    - titleCh: 詩篇 82
-      titleEn: Psalms 82
-      verseBG: Psalms.82
-      verseYV: PSA.82
+    - titleCh: 詩篇 83
+      titleEn: Psalms 83
+      verseBG: Psalms.83
+      verseYV: PSA.83
 
   - index: 275
     verses:
@@ -3025,10 +3025,10 @@ plan:
       titleEn: Romans 11
       verseBG: Romans.11
       verseYV: ROM.11
-    - titleCh: 詩篇 83
-      titleEn: Psalms 83
-      verseBG: Psalms.83
-      verseYV: PSA.83
+    - titleCh: 詩篇 84
+      titleEn: Psalms 84
+      verseBG: Psalms.84
+      verseYV: PSA.84
 
   - index: 276
     verses:
@@ -3036,10 +3036,10 @@ plan:
       titleEn: Romans 12-13
       verseBG: Romans.12-13
       verseYV: ROM.12
-    - titleCh: 詩篇 84
-      titleEn: Psalms 84
-      verseBG: Psalms.84
-      verseYV: PSA.84
+    - titleCh: 詩篇 85
+      titleEn: Psalms 85
+      verseBG: Psalms.85
+      verseYV: PSA.85
 
   - index: 277
     verses:
@@ -3047,199 +3047,199 @@ plan:
       titleEn: Romans 14-15
       verseBG: Romans.14-15
       verseYV: ROM.14
-    - titleCh: 詩篇 85
-      titleEn: Psalms 85
-      verseBG: Psalms.85
-      verseYV: PSA.4
+    - titleCh: 詩篇 86
+      titleEn: Psalms 86
+      verseBG: Psalms.86
+      verseYV: PSA.86
 
-  - index: 258
+  - index: 278
     verses:
     - titleCh: 羅馬書 16
       titleEn: Romans 16
       verseBG: Romans.16
       verseYV: ROM.16
-    - titleCh: 詩篇 5 <==
-      titleEn: Psalms 5
-      verseBG: Psalms.5
-      verseYV: PSA.5
+    - titleCh: 詩篇 87
+      titleEn: Psalms 87
+      verseBG: Psalms.87
+      verseYV: PSA.87
 
-  - index: 259
-    verses:
-    - titleCh:  
-      titleEn: 
-      verseBG: 
-      verseYV: 
-    - titleCh: 詩篇 6
-      titleEn: Psalms 6
-      verseBG: Psalms.6
-      verseYV: PSA.6
-
-  - index: 260
+  - index: 279
     verses:
     - titleCh: 哥林多前書 1.1-3.4
       titleEn: 1 Corinthians 1.1-3.4
       verseBG: 1 Corinthians.1.1-3.4
       verseYV: 1CO.1
-    - titleCh: 詩篇 7
-      titleEn: Psalms 7
-      verseBG: Psalms.7
-      verseYV: PSA.7
+    - titleCh: 詩篇 88
+      titleEn: Psalms 88
+      verseBG: Psalms.88
+      verseYV: PSA.88
 
-  - index: 261
+  - index: 280
+    verses:
+    - titleCh:  
+      titleEn: 
+      verseBG: 
+      verseYV: 
+    - titleCh: 詩篇 89
+      titleEn: Psalms 89
+      verseBG: Psalms.89
+      verseYV: PSA.89
+
+  - index: 281
     verses:
     - titleCh: 哥林多前書 3.5-4.21
       titleEn: 1 Corinthians 3.5-4.21
       verseBG: 1 Corinthians.3.5-4.21
       verseYV: 1CO.3
-    - titleCh: 詩篇 8
-      titleEn: Psalms 8
-      verseBG: Psalms.8
-      verseYV: PSA.8
+    - titleCh: 詩篇 90
+      titleEn: Psalms 90
+      verseBG: Psalms.90
+      verseYV: PSA.90
 
-  - index: 262
+  - index: 282
     verses:
     - titleCh: 哥林多前書 5-6
       titleEn: 1 Corinthians 5-6
       verseBG: 1 Corinthians.5-6
       verseYV: 1CO.5
-    - titleCh: 詩篇 9
-      titleEn: Psalms 9
-      verseBG: Psalms.9
-      verseYV: PSA.9
+    - titleCh: 詩篇 91
+      titleEn: Psalms 91
+      verseBG: Psalms.91
+      verseYV: PSA.91
 
-  - index: 263
+  - index: 283
     verses:
     - titleCh: 哥林多前書 7
       titleEn: 1 Corinthians 7
       verseBG: 1 Corinthians.7
       verseYV: 1CO.7
-    - titleCh: 詩篇 10
-      titleEn: Psalms 10
-      verseBG: Psalms.10
-      verseYV: PSA.10
+    - titleCh: 詩篇 92
+      titleEn: Psalms 92
+      verseBG: Psalms.92
+      verseYV: PSA.92
 
-  - index: 264
+  - index: 284
     verses:
     - titleCh: 哥林多前書 8-9
       titleEn: 1 Corinthians 8-9
       verseBG: 1 Corinthians.8-9
       verseYV: 1CO.8
-    - titleCh: 詩篇 11
-      titleEn: Psalms 11
-      verseBG: Psalms.11
-      verseYV: PSA.11
+    - titleCh: 詩篇 93
+      titleEn: Psalms 93
+      verseBG: Psalms.93
+      verseYV: PSA.93
 
-  - index: 265
+  - index: 285
     verses:
     - titleCh: 哥林多前書 10.1-11.1
       titleEn: 1 Corinthians 10.1-11.1
       verseBG: 1 Corinthians.10.1-11.1
       verseYV: 1CO.10
-    - titleCh: 詩篇 12
-      titleEn: Psalms 12
-      verseBG: Psalms.12
-      verseYV: PSA.12
+    - titleCh: 詩篇 94
+      titleEn: Psalms 94
+      verseBG: Psalms.94
+      verseYV: PSA.94
 
-  - index: 266
-    verses:
-    - titleCh:  
-      titleEn: 
-      verseBG: 
-      verseYV: 
-    - titleCh: 詩篇 13
-      titleEn: Psalms 13
-      verseBG: Psalms.13
-      verseYV: PSA.13
-
-  - index: 267
+  - index: 286
     verses:
     - titleCh: 哥林多前書 11.2-34
       titleEn: 1 Corinthians 11.2-34
       verseBG: 1 Corinthians.11.2-34
       verseYV: 1CO.11
-    - titleCh: 詩篇 14
-      titleEn: Psalms 14
-      verseBG: Psalms.14
-      verseYV: PSA.14
+    - titleCh: 詩篇 95
+      titleEn: Psalms 95
+      verseBG: Psalms.95
+      verseYV: PSA.95
 
-  - index: 268
-    verses:
-    - titleCh: 哥林多前書 12-14
-      titleEn: 1 Corinthians 12-14
-      verseBG: 1 Corinthians.12-14
-      verseYV: 1CO.12
-    - titleCh: 詩篇 15
-      titleEn: Psalms 15
-      verseBG: Psalms.15
-      verseYV: PSA.15
-
-  - index: 269
-    verses:
-    - titleCh: 哥林多前書 15
-      titleEn: 1 Corinthians 15
-      verseBG: 1 Corinthians.15
-      verseYV: 1CO.15
-    - titleCh: 詩篇 16
-      titleEn: Psalms 16
-      verseBG: Psalms.16
-      verseYV: PSA.16
-
-  - index: 270
-    verses:
-    - titleCh: 哥林多前書 16
-      titleEn: 1 Corinthians 16
-      verseBG: 1 Corinthians.16
-      verseYV: 1CO.16
-    - titleCh: 詩篇 17
-      titleEn: Psalms 17
-      verseBG: Psalms.17
-      verseYV: PSA.17
-
-  - index: 271
-    verses:
-    - titleCh: 哥林多後書 1.1-2.13
-      titleEn: 2 Corinthians 1.1-2.13
-      verseBG: 2 Corinthians.1.1-2.13
-      verseYV: 2CO.1
-    - titleCh: 詩篇 18
-      titleEn: Psalms 18
-      verseBG: Psalms.18
-      verseYV: PSA.18
-
-  - index: 272
-    verses:
-    - titleCh: 哥林多後書 2.14-4.6
-      titleEn: 2 Corinthians 2.14-4.6
-      verseBG: 2 Corinthians.2.14-4.6
-      verseYV: 2CO.2
-    - titleCh: 詩篇 19
-      titleEn: Psalms 19
-      verseBG: Psalms.19
-      verseYV: PSA.19
-
-  - index: 273
+  - index: 287
     verses:
     - titleCh:  
       titleEn: 
       verseBG: 
       verseYV: 
-    - titleCh: 詩篇 20
-      titleEn: Psalms 20
-      verseBG: Psalms.20
-      verseYV: PSA.20
+    - titleCh: 詩篇 96
+      titleEn: Psalms 96
+      verseBG: Psalms.96
+      verseYV: PSA.96
 
-  - index: 274
+  - index: 288
+    verses:
+    - titleCh: 哥林多前書 12-14
+      titleEn: 1 Corinthians 12-14
+      verseBG: 1 Corinthians.12-14
+      verseYV: 1CO.12
+    - titleCh: 詩篇 97
+      titleEn: Psalms 97
+      verseBG: Psalms.97
+      verseYV: PSA.97
+
+  - index: 289
+    verses:
+    - titleCh: 哥林多前書 15
+      titleEn: 1 Corinthians 15
+      verseBG: 1 Corinthians.15
+      verseYV: 1CO.15
+    - titleCh: 詩篇 98
+      titleEn: Psalms 98
+      verseBG: Psalms.98
+      verseYV: PSA.98
+
+  - index: 290
+    verses:
+    - titleCh: 哥林多前書 16
+      titleEn: 1 Corinthians 16
+      verseBG: 1 Corinthians.16
+      verseYV: 1CO.16
+    - titleCh: 詩篇 99
+      titleEn: Psalms 99
+      verseBG: Psalms.99
+      verseYV: PSA.99
+
+  - index: 291
+    verses:
+    - titleCh: 哥林多後書 1.1-2.13
+      titleEn: 2 Corinthians 1.1-2.13
+      verseBG: 2 Corinthians.1.1-2.13
+      verseYV: 2CO.1
+    - titleCh: 詩篇 100
+      titleEn: Psalms 100
+      verseBG: Psalms.100
+      verseYV: PSA.100
+
+  - index: 292
+    verses:
+    - titleCh: 哥林多後書 2.14-4.6
+      titleEn: 2 Corinthians 2.14-4.6
+      verseBG: 2 Corinthians.2.14-4.6
+      verseYV: 2CO.2
+    - titleCh: 詩篇 101
+      titleEn: Psalms 101
+      verseBG: Psalms.101
+      verseYV: PSA.101
+
+  - index: 293
     verses:
     - titleCh: 哥林多後書 4.7-5.1
       titleEn: 2 Corinthians 4.7-5.1
       verseBG: 2 Corinthians.4.7-5.1
       verseYV: 2CO.4
-    - titleCh: 詩篇 21
-      titleEn: Psalms 21
-      verseBG: Psalms.21
-      verseYV: PSA.21
+    - titleCh: 詩篇 102
+      titleEn: Psalms 102
+      verseBG: Psalms.102
+      verseYV: PSA.102
 
-  - index: 275
+  - index: 294
+    verses:
+    - titleCh:  
+      titleEn: 
+      verseBG: 
+      verseYV: 
+    - titleCh: 詩篇 103
+      titleEn: Psalms 103
+      verseBG: Psalms.103
+      verseYV: PSA.103
+
+  - index: 275 <===
     verses:
     - titleCh: 哥林多後書 5.11-7.4
       titleEn: 2 Corinthians 5.11-7.4
