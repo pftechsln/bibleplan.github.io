@@ -2944,9 +2944,9 @@ plan:
 
   - index: 268
     verses:
-    - titleCh: 羅馬書 4.1-5.11
-      titleEn: Romans 4.1-5.11
-      verseBG: Romans.4.1-5.11
+    - titleCh: 羅馬書 4
+      titleEn: Romans 4
+      verseBG: Romans.4
       verseYV: ROM.4
     - titleCh: 詩篇 77
       titleEn: Psalms 77
@@ -2955,9 +2955,9 @@ plan:
 
   - index: 269
     verses:
-    - titleCh: 羅馬書 5.12-21
-      titleEn: Romans 5.12-21
-      verseBG: Romans.5.12-21
+    - titleCh: 羅馬書 5
+      titleEn: Romans 5
+      verseBG: Romans.5
       verseYV: ROM.5
     - titleCh: 詩篇 78
       titleEn: Psalms 78
